@@ -95,7 +95,7 @@ That indexing does not seem like the ideal measurement. A more standard measure 
 Plots of the national data broken down by Republican and Democrat states show a very similar normal distribution, with nearly-equal means of rate of change of new jobs listings (Republican = 0.23%, Democrat = 0.27%).
 
 
-<img src="double_histogram.png"/>
+<img src="images/double_histogram.png"/>
 
 
 The plots and stats suggests that there is very little difference in the mean of new jobs listings, when comparing Republican-led and Democrat-led states. 
