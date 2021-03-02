@@ -1,0 +1,4521 @@
+post_date,job_family,count_id_indexed
+2020-03-01,,1.0000
+2020-03-01,Customer Service,1.0000
+2020-03-01,Entertainment and Recreation,1.0000
+2020-03-01,Facilities/Constr,1.0000
+2020-03-01,Finance/Insurance,1.0000
+2020-03-01,Food & Beverage,1.0000
+2020-03-01,Healthcare,1.0000
+2020-03-01,Hospitality Staff,1.0000
+2020-03-01,Human Resources,1.0000
+2020-03-01,IT,1.0000
+2020-03-01,Manufacturing/Operations Staff,1.0000
+2020-03-01,Marketing/Advertising,1.0000
+2020-03-01,Product Management,1.0000
+2020-03-01,Retail Staff,1.0000
+2020-03-01,Sales,1.0000
+2020-03-01,Security,1.0000
+2020-03-01,Skilled Trades,1.0000
+2020-03-01,Supply Chain Staff,1.0000
+2020-03-01,Unassigned,1.0000
+2020-03-02,,0.9994
+2020-03-02,Customer Service,1.0181
+2020-03-02,Entertainment and Recreation,1.0209
+2020-03-02,Facilities/Constr,1.0012
+2020-03-02,Finance/Insurance,0.9984
+2020-03-02,Food & Beverage,1.0266
+2020-03-02,Healthcare,0.9955
+2020-03-02,Hospitality Staff,1.0144
+2020-03-02,Human Resources,0.9949
+2020-03-02,IT,1.0054
+2020-03-02,Manufacturing/Operations Staff,0.9986
+2020-03-02,Marketing/Advertising,1.0021
+2020-03-02,Product Management,1.0050
+2020-03-02,Retail Staff,1.0162
+2020-03-02,Sales,1.0073
+2020-03-02,Security,1.0111
+2020-03-02,Skilled Trades,0.9951
+2020-03-02,Supply Chain Staff,1.0327
+2020-03-02,Unassigned,1.0100
+2020-03-03,,1.0028
+2020-03-03,Customer Service,1.0222
+2020-03-03,Entertainment and Recreation,1.0404
+2020-03-03,Facilities/Constr,1.0168
+2020-03-03,Finance/Insurance,1.0000
+2020-03-03,Food & Beverage,1.0313
+2020-03-03,Healthcare,0.9998
+2020-03-03,Hospitality Staff,1.0415
+2020-03-03,Human Resources,0.9869
+2020-03-03,IT,1.0107
+2020-03-03,Manufacturing/Operations Staff,1.0158
+2020-03-03,Marketing/Advertising,1.0042
+2020-03-03,Product Management,1.0220
+2020-03-03,Retail Staff,1.0191
+2020-03-03,Sales,0.9986
+2020-03-03,Security,1.0232
+2020-03-03,Skilled Trades,1.0127
+2020-03-03,Supply Chain Staff,1.0748
+2020-03-03,Unassigned,1.0223
+2020-03-04,,1.0151
+2020-03-04,Customer Service,1.0630
+2020-03-04,Entertainment and Recreation,1.0504
+2020-03-04,Facilities/Constr,1.0366
+2020-03-04,Finance/Insurance,1.0194
+2020-03-04,Food & Beverage,1.0534
+2020-03-04,Healthcare,1.0228
+2020-03-04,Hospitality Staff,1.0698
+2020-03-04,Human Resources,1.0276
+2020-03-04,IT,1.0288
+2020-03-04,Manufacturing/Operations Staff,1.0415
+2020-03-04,Marketing/Advertising,1.0289
+2020-03-04,Product Management,1.0526
+2020-03-04,Retail Staff,1.0477
+2020-03-04,Sales,1.0189
+2020-03-04,Security,1.0482
+2020-03-04,Skilled Trades,1.0384
+2020-03-04,Supply Chain Staff,1.1127
+2020-03-04,Unassigned,1.0461
+2020-03-05,,1.0208
+2020-03-05,Customer Service,1.0782
+2020-03-05,Entertainment and Recreation,1.0522
+2020-03-05,Facilities/Constr,1.0461
+2020-03-05,Finance/Insurance,1.0246
+2020-03-05,Food & Beverage,1.0616
+2020-03-05,Healthcare,1.0461
+2020-03-05,Hospitality Staff,1.0715
+2020-03-05,Human Resources,1.0232
+2020-03-05,IT,1.0389
+2020-03-05,Manufacturing/Operations Staff,1.0480
+2020-03-05,Marketing/Advertising,1.0299
+2020-03-05,Product Management,1.0650
+2020-03-05,Retail Staff,1.0557
+2020-03-05,Sales,1.0261
+2020-03-05,Security,1.0732
+2020-03-05,Skilled Trades,1.0495
+2020-03-05,Supply Chain Staff,1.1278
+2020-03-05,Unassigned,1.0582
+2020-03-06,,0.9929
+2020-03-06,Customer Service,1.0906
+2020-03-06,Entertainment and Recreation,1.0858
+2020-03-06,Facilities/Constr,1.0869
+2020-03-06,Finance/Insurance,1.0385
+2020-03-06,Food & Beverage,1.0776
+2020-03-06,Healthcare,1.0764
+2020-03-06,Hospitality Staff,1.1143
+2020-03-06,Human Resources,1.0120
+2020-03-06,IT,1.1009
+2020-03-06,Manufacturing/Operations Staff,1.0902
+2020-03-06,Marketing/Advertising,1.0533
+2020-03-06,Product Management,1.0670
+2020-03-06,Retail Staff,1.0717
+2020-03-06,Sales,1.0587
+2020-03-06,Security,1.1045
+2020-03-06,Skilled Trades,1.0620
+2020-03-06,Supply Chain Staff,1.1522
+2020-03-06,Unassigned,1.0716
+2020-03-07,,0.9835
+2020-03-07,Customer Service,1.1025
+2020-03-07,Entertainment and Recreation,1.0840
+2020-03-07,Facilities/Constr,1.0995
+2020-03-07,Finance/Insurance,1.0636
+2020-03-07,Food & Beverage,1.0852
+2020-03-07,Healthcare,1.1011
+2020-03-07,Hospitality Staff,1.1257
+2020-03-07,Human Resources,1.0114
+2020-03-07,IT,1.1457
+2020-03-07,Manufacturing/Operations Staff,1.1075
+2020-03-07,Marketing/Advertising,1.0693
+2020-03-07,Product Management,1.0876
+2020-03-07,Retail Staff,1.1104
+2020-03-07,Sales,1.0655
+2020-03-07,Security,1.1200
+2020-03-07,Skilled Trades,1.0693
+2020-03-07,Supply Chain Staff,1.2121
+2020-03-07,Unassigned,1.0957
+2020-03-08,,0.9642
+2020-03-08,Customer Service,1.0770
+2020-03-08,Entertainment and Recreation,1.0671
+2020-03-08,Facilities/Constr,1.0898
+2020-03-08,Finance/Insurance,1.0503
+2020-03-08,Food & Beverage,1.0665
+2020-03-08,Healthcare,1.0852
+2020-03-08,Hospitality Staff,1.1150
+2020-03-08,Human Resources,0.9975
+2020-03-08,IT,1.1244
+2020-03-08,Manufacturing/Operations Staff,1.0875
+2020-03-08,Marketing/Advertising,1.0596
+2020-03-08,Product Management,1.0698
+2020-03-08,Retail Staff,1.0943
+2020-03-08,Sales,1.0492
+2020-03-08,Security,1.1043
+2020-03-08,Skilled Trades,1.0513
+2020-03-08,Supply Chain Staff,1.1444
+2020-03-08,Unassigned,1.0830
+2020-03-09,,0.9817
+2020-03-09,Customer Service,1.0655
+2020-03-09,Entertainment and Recreation,1.0712
+2020-03-09,Facilities/Constr,1.1152
+2020-03-09,Finance/Insurance,1.0579
+2020-03-09,Food & Beverage,1.0576
+2020-03-09,Healthcare,1.1162
+2020-03-09,Hospitality Staff,1.1289
+2020-03-09,Human Resources,1.0122
+2020-03-09,IT,1.1367
+2020-03-09,Manufacturing/Operations Staff,1.1094
+2020-03-09,Marketing/Advertising,1.0637
+2020-03-09,Product Management,1.0875
+2020-03-09,Retail Staff,1.0871
+2020-03-09,Sales,1.0497
+2020-03-09,Security,1.1107
+2020-03-09,Skilled Trades,1.0669
+2020-03-09,Supply Chain Staff,1.1477
+2020-03-09,Unassigned,1.0949
+2020-03-10,,0.9824
+2020-03-10,Customer Service,1.0674
+2020-03-10,Entertainment and Recreation,1.0785
+2020-03-10,Facilities/Constr,1.1244
+2020-03-10,Finance/Insurance,1.0618
+2020-03-10,Food & Beverage,1.0601
+2020-03-10,Healthcare,1.1223
+2020-03-10,Hospitality Staff,1.1296
+2020-03-10,Human Resources,1.0258
+2020-03-10,IT,1.1367
+2020-03-10,Manufacturing/Operations Staff,1.1046
+2020-03-10,Marketing/Advertising,1.0775
+2020-03-10,Product Management,1.0892
+2020-03-10,Retail Staff,1.0942
+2020-03-10,Sales,1.0577
+2020-03-10,Security,1.1152
+2020-03-10,Skilled Trades,1.0620
+2020-03-10,Supply Chain Staff,1.1480
+2020-03-10,Unassigned,1.0979
+2020-03-11,,0.9819
+2020-03-11,Customer Service,1.0586
+2020-03-11,Entertainment and Recreation,1.0611
+2020-03-11,Facilities/Constr,1.1118
+2020-03-11,Finance/Insurance,1.0549
+2020-03-11,Food & Beverage,1.0460
+2020-03-11,Healthcare,1.1145
+2020-03-11,Hospitality Staff,1.1144
+2020-03-11,Human Resources,1.0249
+2020-03-11,IT,1.1320
+2020-03-11,Manufacturing/Operations Staff,1.0992
+2020-03-11,Marketing/Advertising,1.0708
+2020-03-11,Product Management,1.0833
+2020-03-11,Retail Staff,1.0941
+2020-03-11,Sales,1.0451
+2020-03-11,Security,1.1075
+2020-03-11,Skilled Trades,1.0507
+2020-03-11,Supply Chain Staff,1.1279
+2020-03-11,Unassigned,1.0912
+2020-03-12,,0.9897
+2020-03-12,Customer Service,1.0382
+2020-03-12,Entertainment and Recreation,1.0285
+2020-03-12,Facilities/Constr,1.1091
+2020-03-12,Finance/Insurance,1.0362
+2020-03-12,Food & Beverage,1.0208
+2020-03-12,Healthcare,1.0910
+2020-03-12,Hospitality Staff,1.0942
+2020-03-12,Human Resources,1.0471
+2020-03-12,IT,1.1131
+2020-03-12,Manufacturing/Operations Staff,1.0849
+2020-03-12,Marketing/Advertising,1.0576
+2020-03-12,Product Management,1.0830
+2020-03-12,Retail Staff,1.0825
+2020-03-12,Sales,1.0319
+2020-03-12,Security,1.0836
+2020-03-12,Skilled Trades,1.0397
+2020-03-12,Supply Chain Staff,1.1187
+2020-03-12,Unassigned,1.0747
+2020-03-13,,0.9679
+2020-03-13,Customer Service,1.0087
+2020-03-13,Entertainment and Recreation,0.9720
+2020-03-13,Facilities/Constr,1.0777
+2020-03-13,Finance/Insurance,0.9985
+2020-03-13,Food & Beverage,0.9743
+2020-03-13,Healthcare,1.0555
+2020-03-13,Hospitality Staff,1.0378
+2020-03-13,Human Resources,1.0440
+2020-03-13,IT,1.0784
+2020-03-13,Manufacturing/Operations Staff,1.0564
+2020-03-13,Marketing/Advertising,1.0124
+2020-03-13,Product Management,1.0579
+2020-03-13,Retail Staff,1.0519
+2020-03-13,Sales,0.9858
+2020-03-13,Security,1.0550
+2020-03-13,Skilled Trades,1.0137
+2020-03-13,Supply Chain Staff,1.0893
+2020-03-13,Unassigned,1.0385
+2020-03-14,,0.9415
+2020-03-14,Customer Service,0.9685
+2020-03-14,Entertainment and Recreation,0.9233
+2020-03-14,Facilities/Constr,1.0328
+2020-03-14,Finance/Insurance,0.9447
+2020-03-14,Food & Beverage,0.9256
+2020-03-14,Healthcare,0.9948
+2020-03-14,Hospitality Staff,0.9809
+2020-03-14,Human Resources,1.0063
+2020-03-14,IT,1.0028
+2020-03-14,Manufacturing/Operations Staff,1.0143
+2020-03-14,Marketing/Advertising,0.9667
+2020-03-14,Product Management,1.0234
+2020-03-14,Retail Staff,0.9834
+2020-03-14,Sales,0.9484
+2020-03-14,Security,1.0157
+2020-03-14,Skilled Trades,0.9720
+2020-03-14,Supply Chain Staff,1.0289
+2020-03-14,Unassigned,0.9943
+2020-03-15,,0.9414
+2020-03-15,Customer Service,0.9738
+2020-03-15,Entertainment and Recreation,0.9070
+2020-03-15,Facilities/Constr,1.0412
+2020-03-15,Finance/Insurance,0.9400
+2020-03-15,Food & Beverage,0.9031
+2020-03-15,Healthcare,0.9943
+2020-03-15,Hospitality Staff,0.9642
+2020-03-15,Human Resources,1.0013
+2020-03-15,IT,0.9979
+2020-03-15,Manufacturing/Operations Staff,1.0153
+2020-03-15,Marketing/Advertising,0.9620
+2020-03-15,Product Management,1.0226
+2020-03-15,Retail Staff,0.9734
+2020-03-15,Sales,0.9459
+2020-03-15,Security,1.0111
+2020-03-15,Skilled Trades,0.9672
+2020-03-15,Supply Chain Staff,1.0156
+2020-03-15,Unassigned,0.9915
+2020-03-16,,0.9163
+2020-03-16,Customer Service,0.9278
+2020-03-16,Entertainment and Recreation,0.8306
+2020-03-16,Facilities/Constr,0.9865
+2020-03-16,Finance/Insurance,0.8885
+2020-03-16,Food & Beverage,0.8405
+2020-03-16,Healthcare,0.9417
+2020-03-16,Hospitality Staff,0.9004
+2020-03-16,Human Resources,0.9676
+2020-03-16,IT,0.9311
+2020-03-16,Manufacturing/Operations Staff,0.9638
+2020-03-16,Marketing/Advertising,0.9177
+2020-03-16,Product Management,0.9881
+2020-03-16,Retail Staff,0.9216
+2020-03-16,Sales,0.8990
+2020-03-16,Security,0.9759
+2020-03-16,Skilled Trades,0.9306
+2020-03-16,Supply Chain Staff,0.9583
+2020-03-16,Unassigned,0.9498
+2020-03-17,,0.8644
+2020-03-17,Customer Service,0.8363
+2020-03-17,Entertainment and Recreation,0.7276
+2020-03-17,Facilities/Constr,0.9145
+2020-03-17,Finance/Insurance,0.8134
+2020-03-17,Food & Beverage,0.7323
+2020-03-17,Healthcare,0.8800
+2020-03-17,Hospitality Staff,0.7980
+2020-03-17,Human Resources,0.8926
+2020-03-17,IT,0.8584
+2020-03-17,Manufacturing/Operations Staff,0.9165
+2020-03-17,Marketing/Advertising,0.8319
+2020-03-17,Product Management,0.9171
+2020-03-17,Retail Staff,0.8321
+2020-03-17,Sales,0.8223
+2020-03-17,Security,0.9210
+2020-03-17,Skilled Trades,0.8726
+2020-03-17,Supply Chain Staff,0.9017
+2020-03-17,Unassigned,0.8803
+2020-03-18,,0.8202
+2020-03-18,Customer Service,0.7685
+2020-03-18,Entertainment and Recreation,0.6480
+2020-03-18,Facilities/Constr,0.8781
+2020-03-18,Finance/Insurance,0.7488
+2020-03-18,Food & Beverage,0.6488
+2020-03-18,Healthcare,0.8294
+2020-03-18,Hospitality Staff,0.7282
+2020-03-18,Human Resources,0.8176
+2020-03-18,IT,0.7826
+2020-03-18,Manufacturing/Operations Staff,0.8692
+2020-03-18,Marketing/Advertising,0.7740
+2020-03-18,Product Management,0.8633
+2020-03-18,Retail Staff,0.7659
+2020-03-18,Sales,0.7643
+2020-03-18,Security,0.8673
+2020-03-18,Skilled Trades,0.8353
+2020-03-18,Supply Chain Staff,0.8896
+2020-03-18,Unassigned,0.8288
+2020-03-19,,0.7520
+2020-03-19,Customer Service,0.7101
+2020-03-19,Entertainment and Recreation,0.5815
+2020-03-19,Facilities/Constr,0.8263
+2020-03-19,Finance/Insurance,0.6880
+2020-03-19,Food & Beverage,0.5902
+2020-03-19,Healthcare,0.7719
+2020-03-19,Hospitality Staff,0.6614
+2020-03-19,Human Resources,0.7399
+2020-03-19,IT,0.7100
+2020-03-19,Manufacturing/Operations Staff,0.8255
+2020-03-19,Marketing/Advertising,0.7143
+2020-03-19,Product Management,0.8032
+2020-03-19,Retail Staff,0.7019
+2020-03-19,Sales,0.6997
+2020-03-19,Security,0.8137
+2020-03-19,Skilled Trades,0.7780
+2020-03-19,Supply Chain Staff,0.8496
+2020-03-19,Unassigned,0.7819
+2020-03-20,,0.7070
+2020-03-20,Customer Service,0.6559
+2020-03-20,Entertainment and Recreation,0.5349
+2020-03-20,Facilities/Constr,0.7670
+2020-03-20,Finance/Insurance,0.6352
+2020-03-20,Food & Beverage,0.5242
+2020-03-20,Healthcare,0.7562
+2020-03-20,Hospitality Staff,0.5978
+2020-03-20,Human Resources,0.6861
+2020-03-20,IT,0.6591
+2020-03-20,Manufacturing/Operations Staff,0.7916
+2020-03-20,Marketing/Advertising,0.6518
+2020-03-20,Product Management,0.7383
+2020-03-20,Retail Staff,0.6519
+2020-03-20,Sales,0.6485
+2020-03-20,Security,0.7553
+2020-03-20,Skilled Trades,0.7423
+2020-03-20,Supply Chain Staff,0.8148
+2020-03-20,Unassigned,0.7429
+2020-03-21,,0.6893
+2020-03-21,Customer Service,0.6247
+2020-03-21,Entertainment and Recreation,0.4964
+2020-03-21,Facilities/Constr,0.7341
+2020-03-21,Finance/Insurance,0.6100
+2020-03-21,Food & Beverage,0.4791
+2020-03-21,Healthcare,0.7350
+2020-03-21,Hospitality Staff,0.5584
+2020-03-21,Human Resources,0.6539
+2020-03-21,IT,0.6347
+2020-03-21,Manufacturing/Operations Staff,0.7666
+2020-03-21,Marketing/Advertising,0.6180
+2020-03-21,Product Management,0.7087
+2020-03-21,Retail Staff,0.6226
+2020-03-21,Sales,0.6225
+2020-03-21,Security,0.7241
+2020-03-21,Skilled Trades,0.7207
+2020-03-21,Supply Chain Staff,0.7816
+2020-03-21,Unassigned,0.7149
+2020-03-22,,0.6871
+2020-03-22,Customer Service,0.6089
+2020-03-22,Entertainment and Recreation,0.4811
+2020-03-22,Facilities/Constr,0.7097
+2020-03-22,Finance/Insurance,0.6025
+2020-03-22,Food & Beverage,0.4584
+2020-03-22,Healthcare,0.7243
+2020-03-22,Hospitality Staff,0.5466
+2020-03-22,Human Resources,0.6462
+2020-03-22,IT,0.6223
+2020-03-22,Manufacturing/Operations Staff,0.7551
+2020-03-22,Marketing/Advertising,0.6083
+2020-03-22,Product Management,0.7044
+2020-03-22,Retail Staff,0.6132
+2020-03-22,Sales,0.6116
+2020-03-22,Security,0.7162
+2020-03-22,Skilled Trades,0.7103
+2020-03-22,Supply Chain Staff,0.7678
+2020-03-22,Unassigned,0.6994
+2020-03-23,,0.6618
+2020-03-23,Customer Service,0.5813
+2020-03-23,Entertainment and Recreation,0.4612
+2020-03-23,Facilities/Constr,0.6787
+2020-03-23,Finance/Insurance,0.5729
+2020-03-23,Food & Beverage,0.4340
+2020-03-23,Healthcare,0.7206
+2020-03-23,Hospitality Staff,0.5127
+2020-03-23,Human Resources,0.6219
+2020-03-23,IT,0.6041
+2020-03-23,Manufacturing/Operations Staff,0.7397
+2020-03-23,Marketing/Advertising,0.5707
+2020-03-23,Product Management,0.6595
+2020-03-23,Retail Staff,0.5964
+2020-03-23,Sales,0.5765
+2020-03-23,Security,0.6905
+2020-03-23,Skilled Trades,0.6860
+2020-03-23,Supply Chain Staff,0.7590
+2020-03-23,Unassigned,0.6737
+2020-03-24,,0.6190
+2020-03-24,Customer Service,0.5246
+2020-03-24,Entertainment and Recreation,0.4322
+2020-03-24,Facilities/Constr,0.6289
+2020-03-24,Finance/Insurance,0.5417
+2020-03-24,Food & Beverage,0.3901
+2020-03-24,Healthcare,0.7063
+2020-03-24,Hospitality Staff,0.4614
+2020-03-24,Human Resources,0.5742
+2020-03-24,IT,0.5854
+2020-03-24,Manufacturing/Operations Staff,0.7186
+2020-03-24,Marketing/Advertising,0.5229
+2020-03-24,Product Management,0.6074
+2020-03-24,Retail Staff,0.5408
+2020-03-24,Sales,0.5474
+2020-03-24,Security,0.6673
+2020-03-24,Skilled Trades,0.6557
+2020-03-24,Supply Chain Staff,0.7050
+2020-03-24,Unassigned,0.6544
+2020-03-25,,0.5644
+2020-03-25,Customer Service,0.4654
+2020-03-25,Entertainment and Recreation,0.3832
+2020-03-25,Facilities/Constr,0.5512
+2020-03-25,Finance/Insurance,0.4938
+2020-03-25,Food & Beverage,0.3395
+2020-03-25,Healthcare,0.6624
+2020-03-25,Hospitality Staff,0.4016
+2020-03-25,Human Resources,0.5410
+2020-03-25,IT,0.5447
+2020-03-25,Manufacturing/Operations Staff,0.6584
+2020-03-25,Marketing/Advertising,0.4557
+2020-03-25,Product Management,0.5418
+2020-03-25,Retail Staff,0.4788
+2020-03-25,Sales,0.4844
+2020-03-25,Security,0.6396
+2020-03-25,Skilled Trades,0.5871
+2020-03-25,Supply Chain Staff,0.6111
+2020-03-25,Unassigned,0.5939
+2020-03-26,,0.5373
+2020-03-26,Customer Service,0.4377
+2020-03-26,Entertainment and Recreation,0.3566
+2020-03-26,Facilities/Constr,0.5023
+2020-03-26,Finance/Insurance,0.4701
+2020-03-26,Food & Beverage,0.3056
+2020-03-26,Healthcare,0.6593
+2020-03-26,Hospitality Staff,0.3837
+2020-03-26,Human Resources,0.5359
+2020-03-26,IT,0.5281
+2020-03-26,Manufacturing/Operations Staff,0.6290
+2020-03-26,Marketing/Advertising,0.4202
+2020-03-26,Product Management,0.5162
+2020-03-26,Retail Staff,0.4603
+2020-03-26,Sales,0.4511
+2020-03-26,Security,0.6262
+2020-03-26,Skilled Trades,0.5634
+2020-03-26,Supply Chain Staff,0.5679
+2020-03-26,Unassigned,0.5647
+2020-03-27,,0.4834
+2020-03-27,Customer Service,0.3790
+2020-03-27,Entertainment and Recreation,0.3098
+2020-03-27,Facilities/Constr,0.4563
+2020-03-27,Finance/Insurance,0.4244
+2020-03-27,Food & Beverage,0.2754
+2020-03-27,Healthcare,0.5868
+2020-03-27,Hospitality Staff,0.3484
+2020-03-27,Human Resources,0.4682
+2020-03-27,IT,0.4734
+2020-03-27,Manufacturing/Operations Staff,0.5640
+2020-03-27,Marketing/Advertising,0.3751
+2020-03-27,Product Management,0.4858
+2020-03-27,Retail Staff,0.4020
+2020-03-27,Sales,0.4013
+2020-03-27,Security,0.5667
+2020-03-27,Skilled Trades,0.5004
+2020-03-27,Supply Chain Staff,0.4991
+2020-03-27,Unassigned,0.5058
+2020-03-28,,0.4845
+2020-03-28,Customer Service,0.3963
+2020-03-28,Entertainment and Recreation,0.3212
+2020-03-28,Facilities/Constr,0.4750
+2020-03-28,Finance/Insurance,0.4368
+2020-03-28,Food & Beverage,0.2880
+2020-03-28,Healthcare,0.6013
+2020-03-28,Hospitality Staff,0.3699
+2020-03-28,Human Resources,0.4837
+2020-03-28,IT,0.4886
+2020-03-28,Manufacturing/Operations Staff,0.5932
+2020-03-28,Marketing/Advertising,0.3869
+2020-03-28,Product Management,0.4964
+2020-03-28,Retail Staff,0.4215
+2020-03-28,Sales,0.4248
+2020-03-28,Security,0.6056
+2020-03-28,Skilled Trades,0.5269
+2020-03-28,Supply Chain Staff,0.5157
+2020-03-28,Unassigned,0.5094
+2020-03-29,,0.4818
+2020-03-29,Customer Service,0.4042
+2020-03-29,Entertainment and Recreation,0.3463
+2020-03-29,Facilities/Constr,0.4948
+2020-03-29,Finance/Insurance,0.4591
+2020-03-29,Food & Beverage,0.2991
+2020-03-29,Healthcare,0.6193
+2020-03-29,Hospitality Staff,0.3890
+2020-03-29,Human Resources,0.4887
+2020-03-29,IT,0.5387
+2020-03-29,Manufacturing/Operations Staff,0.6580
+2020-03-29,Marketing/Advertising,0.4018
+2020-03-29,Product Management,0.5403
+2020-03-29,Retail Staff,0.4297
+2020-03-29,Sales,0.4677
+2020-03-29,Security,0.6335
+2020-03-29,Skilled Trades,0.5512
+2020-03-29,Supply Chain Staff,0.5405
+2020-03-29,Unassigned,0.5324
+2020-03-30,,0.4717
+2020-03-30,Customer Service,0.4008
+2020-03-30,Entertainment and Recreation,0.3425
+2020-03-30,Facilities/Constr,0.4948
+2020-03-30,Finance/Insurance,0.4586
+2020-03-30,Food & Beverage,0.3038
+2020-03-30,Healthcare,0.6028
+2020-03-30,Hospitality Staff,0.3881
+2020-03-30,Human Resources,0.4924
+2020-03-30,IT,0.5329
+2020-03-30,Manufacturing/Operations Staff,0.6564
+2020-03-30,Marketing/Advertising,0.4096
+2020-03-30,Product Management,0.5404
+2020-03-30,Retail Staff,0.4247
+2020-03-30,Sales,0.4653
+2020-03-30,Security,0.6440
+2020-03-30,Skilled Trades,0.5434
+2020-03-30,Supply Chain Staff,0.5044
+2020-03-30,Unassigned,0.5283
+2020-03-31,,0.4691
+2020-03-31,Customer Service,0.4204
+2020-03-31,Entertainment and Recreation,0.3457
+2020-03-31,Facilities/Constr,0.4728
+2020-03-31,Finance/Insurance,0.4649
+2020-03-31,Food & Beverage,0.3183
+2020-03-31,Healthcare,0.5592
+2020-03-31,Hospitality Staff,0.3713
+2020-03-31,Human Resources,0.5073
+2020-03-31,IT,0.5092
+2020-03-31,Manufacturing/Operations Staff,0.6602
+2020-03-31,Marketing/Advertising,0.4224
+2020-03-31,Product Management,0.5837
+2020-03-31,Retail Staff,0.4418
+2020-03-31,Sales,0.4549
+2020-03-31,Security,0.6239
+2020-03-31,Skilled Trades,0.5215
+2020-03-31,Supply Chain Staff,0.4869
+2020-03-31,Unassigned,0.5566
+2020-04-01,,0.4591
+2020-04-01,Customer Service,0.4216
+2020-04-01,Entertainment and Recreation,0.3352
+2020-04-01,Facilities/Constr,0.4483
+2020-04-01,Finance/Insurance,0.4570
+2020-04-01,Food & Beverage,0.3186
+2020-04-01,Healthcare,0.5269
+2020-04-01,Hospitality Staff,0.3495
+2020-04-01,Human Resources,0.4833
+2020-04-01,IT,0.4674
+2020-04-01,Manufacturing/Operations Staff,0.6307
+2020-04-01,Marketing/Advertising,0.4169
+2020-04-01,Product Management,0.5744
+2020-04-01,Retail Staff,0.4362
+2020-04-01,Sales,0.4399
+2020-04-01,Security,0.5953
+2020-04-01,Skilled Trades,0.5010
+2020-04-01,Supply Chain Staff,0.4926
+2020-04-01,Unassigned,0.6083
+2020-04-02,,0.4535
+2020-04-02,Customer Service,0.3959
+2020-04-02,Entertainment and Recreation,0.3096
+2020-04-02,Facilities/Constr,0.4051
+2020-04-02,Finance/Insurance,0.4329
+2020-04-02,Food & Beverage,0.3022
+2020-04-02,Healthcare,0.4783
+2020-04-02,Hospitality Staff,0.2983
+2020-04-02,Human Resources,0.4415
+2020-04-02,IT,0.4057
+2020-04-02,Manufacturing/Operations Staff,0.5815
+2020-04-02,Marketing/Advertising,0.3933
+2020-04-02,Product Management,0.5334
+2020-04-02,Retail Staff,0.4000
+2020-04-02,Sales,0.4067
+2020-04-02,Security,0.5603
+2020-04-02,Skilled Trades,0.4675
+2020-04-02,Supply Chain Staff,0.4630
+2020-04-02,Unassigned,0.6167
+2020-04-03,,0.4775
+2020-04-03,Customer Service,0.4181
+2020-04-03,Entertainment and Recreation,0.3072
+2020-04-03,Facilities/Constr,0.3912
+2020-04-03,Finance/Insurance,0.4455
+2020-04-03,Food & Beverage,0.3107
+2020-04-03,Healthcare,0.4508
+2020-04-03,Hospitality Staff,0.2761
+2020-04-03,Human Resources,0.4493
+2020-04-03,IT,0.3809
+2020-04-03,Manufacturing/Operations Staff,0.5662
+2020-04-03,Marketing/Advertising,0.4011
+2020-04-03,Product Management,0.5379
+2020-04-03,Retail Staff,0.4181
+2020-04-03,Sales,0.4084
+2020-04-03,Security,0.5592
+2020-04-03,Skilled Trades,0.4718
+2020-04-03,Supply Chain Staff,0.4759
+2020-04-03,Unassigned,0.6621
+2020-04-04,,0.4639
+2020-04-04,Customer Service,0.3802
+2020-04-04,Entertainment and Recreation,0.2839
+2020-04-04,Facilities/Constr,0.3522
+2020-04-04,Finance/Insurance,0.4179
+2020-04-04,Food & Beverage,0.2909
+2020-04-04,Healthcare,0.4144
+2020-04-04,Hospitality Staff,0.2263
+2020-04-04,Human Resources,0.3992
+2020-04-04,IT,0.3293
+2020-04-04,Manufacturing/Operations Staff,0.5090
+2020-04-04,Marketing/Advertising,0.3717
+2020-04-04,Product Management,0.5094
+2020-04-04,Retail Staff,0.3690
+2020-04-04,Sales,0.3657
+2020-04-04,Security,0.5010
+2020-04-04,Skilled Trades,0.4237
+2020-04-04,Supply Chain Staff,0.4230
+2020-04-04,Unassigned,0.6531
+2020-04-05,,0.4611
+2020-04-05,Customer Service,0.3663
+2020-04-05,Entertainment and Recreation,0.2534
+2020-04-05,Facilities/Constr,0.3277
+2020-04-05,Finance/Insurance,0.3905
+2020-04-05,Food & Beverage,0.2738
+2020-04-05,Healthcare,0.3871
+2020-04-05,Hospitality Staff,0.1986
+2020-04-05,Human Resources,0.3785
+2020-04-05,IT,0.2684
+2020-04-05,Manufacturing/Operations Staff,0.4374
+2020-04-05,Marketing/Advertising,0.3503
+2020-04-05,Product Management,0.4677
+2020-04-05,Retail Staff,0.3492
+2020-04-05,Sales,0.3207
+2020-04-05,Security,0.4685
+2020-04-05,Skilled Trades,0.3962
+2020-04-05,Supply Chain Staff,0.3899
+2020-04-05,Unassigned,0.6296
+2020-04-06,,0.4583
+2020-04-06,Customer Service,0.3567
+2020-04-06,Entertainment and Recreation,0.2403
+2020-04-06,Facilities/Constr,0.3022
+2020-04-06,Finance/Insurance,0.3859
+2020-04-06,Food & Beverage,0.2654
+2020-04-06,Healthcare,0.3690
+2020-04-06,Hospitality Staff,0.1748
+2020-04-06,Human Resources,0.3573
+2020-04-06,IT,0.2259
+2020-04-06,Manufacturing/Operations Staff,0.3955
+2020-04-06,Marketing/Advertising,0.3390
+2020-04-06,Product Management,0.4589
+2020-04-06,Retail Staff,0.3307
+2020-04-06,Sales,0.2988
+2020-04-06,Security,0.4529
+2020-04-06,Skilled Trades,0.3786
+2020-04-06,Supply Chain Staff,0.3693
+2020-04-06,Unassigned,0.6551
+2020-04-07,,0.4797
+2020-04-07,Customer Service,0.3495
+2020-04-07,Entertainment and Recreation,0.2541
+2020-04-07,Facilities/Constr,0.3203
+2020-04-07,Finance/Insurance,0.3835
+2020-04-07,Food & Beverage,0.2759
+2020-04-07,Healthcare,0.3895
+2020-04-07,Hospitality Staff,0.1872
+2020-04-07,Human Resources,0.3635
+2020-04-07,IT,0.2043
+2020-04-07,Manufacturing/Operations Staff,0.3556
+2020-04-07,Marketing/Advertising,0.3448
+2020-04-07,Product Management,0.4404
+2020-04-07,Retail Staff,0.3283
+2020-04-07,Sales,0.3016
+2020-04-07,Security,0.4667
+2020-04-07,Skilled Trades,0.3959
+2020-04-07,Supply Chain Staff,0.3711
+2020-04-07,Unassigned,0.7590
+2020-04-08,,0.4826
+2020-04-08,Customer Service,0.3311
+2020-04-08,Entertainment and Recreation,0.2519
+2020-04-08,Facilities/Constr,0.3171
+2020-04-08,Finance/Insurance,0.3761
+2020-04-08,Food & Beverage,0.2716
+2020-04-08,Healthcare,0.3805
+2020-04-08,Hospitality Staff,0.1833
+2020-04-08,Human Resources,0.3651
+2020-04-08,IT,0.1999
+2020-04-08,Manufacturing/Operations Staff,0.3496
+2020-04-08,Marketing/Advertising,0.3439
+2020-04-08,Product Management,0.4315
+2020-04-08,Retail Staff,0.3189
+2020-04-08,Sales,0.2962
+2020-04-08,Security,0.4544
+2020-04-08,Skilled Trades,0.3968
+2020-04-08,Supply Chain Staff,0.3506
+2020-04-08,Unassigned,0.7376
+2020-04-09,,0.4798
+2020-04-09,Customer Service,0.3146
+2020-04-09,Entertainment and Recreation,0.2486
+2020-04-09,Facilities/Constr,0.3188
+2020-04-09,Finance/Insurance,0.3796
+2020-04-09,Food & Beverage,0.2706
+2020-04-09,Healthcare,0.3742
+2020-04-09,Hospitality Staff,0.1830
+2020-04-09,Human Resources,0.3646
+2020-04-09,IT,0.1967
+2020-04-09,Manufacturing/Operations Staff,0.3446
+2020-04-09,Marketing/Advertising,0.3401
+2020-04-09,Product Management,0.4329
+2020-04-09,Retail Staff,0.3140
+2020-04-09,Sales,0.2941
+2020-04-09,Security,0.4494
+2020-04-09,Skilled Trades,0.3964
+2020-04-09,Supply Chain Staff,0.3436
+2020-04-09,Unassigned,0.7347
+2020-04-10,,0.4678
+2020-04-10,Customer Service,0.2994
+2020-04-10,Entertainment and Recreation,0.2515
+2020-04-10,Facilities/Constr,0.3196
+2020-04-10,Finance/Insurance,0.3795
+2020-04-10,Food & Beverage,0.2733
+2020-04-10,Healthcare,0.3810
+2020-04-10,Hospitality Staff,0.1957
+2020-04-10,Human Resources,0.3589
+2020-04-10,IT,0.1964
+2020-04-10,Manufacturing/Operations Staff,0.3414
+2020-04-10,Marketing/Advertising,0.3343
+2020-04-10,Product Management,0.4440
+2020-04-10,Retail Staff,0.3065
+2020-04-10,Sales,0.2938
+2020-04-10,Security,0.4517
+2020-04-10,Skilled Trades,0.3905
+2020-04-10,Supply Chain Staff,0.3331
+2020-04-10,Unassigned,0.7352
+2020-04-11,,0.4516
+2020-04-11,Customer Service,0.2720
+2020-04-11,Entertainment and Recreation,0.2437
+2020-04-11,Facilities/Constr,0.3025
+2020-04-11,Finance/Insurance,0.3703
+2020-04-11,Food & Beverage,0.2551
+2020-04-11,Healthcare,0.3707
+2020-04-11,Hospitality Staff,0.1935
+2020-04-11,Human Resources,0.3413
+2020-04-11,IT,0.1901
+2020-04-11,Manufacturing/Operations Staff,0.3319
+2020-04-11,Marketing/Advertising,0.3220
+2020-04-11,Product Management,0.4238
+2020-04-11,Retail Staff,0.2850
+2020-04-11,Sales,0.2839
+2020-04-11,Security,0.4397
+2020-04-11,Skilled Trades,0.3763
+2020-04-11,Supply Chain Staff,0.3164
+2020-04-11,Unassigned,0.7099
+2020-04-12,,0.4595
+2020-04-12,Customer Service,0.2727
+2020-04-12,Entertainment and Recreation,0.2519
+2020-04-12,Facilities/Constr,0.3075
+2020-04-12,Finance/Insurance,0.3728
+2020-04-12,Food & Beverage,0.2689
+2020-04-12,Healthcare,0.3731
+2020-04-12,Hospitality Staff,0.2010
+2020-04-12,Human Resources,0.3459
+2020-04-12,IT,0.1938
+2020-04-12,Manufacturing/Operations Staff,0.3376
+2020-04-12,Marketing/Advertising,0.3215
+2020-04-12,Product Management,0.4223
+2020-04-12,Retail Staff,0.2891
+2020-04-12,Sales,0.2843
+2020-04-12,Security,0.4549
+2020-04-12,Skilled Trades,0.3842
+2020-04-12,Supply Chain Staff,0.3263
+2020-04-12,Unassigned,0.7293
+2020-04-13,,0.4537
+2020-04-13,Customer Service,0.2683
+2020-04-13,Entertainment and Recreation,0.2545
+2020-04-13,Facilities/Constr,0.3121
+2020-04-13,Finance/Insurance,0.3708
+2020-04-13,Food & Beverage,0.2697
+2020-04-13,Healthcare,0.3727
+2020-04-13,Hospitality Staff,0.2102
+2020-04-13,Human Resources,0.3407
+2020-04-13,IT,0.1947
+2020-04-13,Manufacturing/Operations Staff,0.3349
+2020-04-13,Marketing/Advertising,0.3172
+2020-04-13,Product Management,0.4137
+2020-04-13,Retail Staff,0.2871
+2020-04-13,Sales,0.2855
+2020-04-13,Security,0.4508
+2020-04-13,Skilled Trades,0.3835
+2020-04-13,Supply Chain Staff,0.3261
+2020-04-13,Unassigned,0.7178
+2020-04-14,,0.4083
+2020-04-14,Customer Service,0.2433
+2020-04-14,Entertainment and Recreation,0.2073
+2020-04-14,Facilities/Constr,0.2781
+2020-04-14,Finance/Insurance,0.3358
+2020-04-14,Food & Beverage,0.2463
+2020-04-14,Healthcare,0.3270
+2020-04-14,Hospitality Staff,0.1788
+2020-04-14,Human Resources,0.2961
+2020-04-14,IT,0.1571
+2020-04-14,Manufacturing/Operations Staff,0.2909
+2020-04-14,Marketing/Advertising,0.2772
+2020-04-14,Product Management,0.3658
+2020-04-14,Retail Staff,0.2614
+2020-04-14,Sales,0.2458
+2020-04-14,Security,0.4217
+2020-04-14,Skilled Trades,0.3360
+2020-04-14,Supply Chain Staff,0.3000
+2020-04-14,Unassigned,0.5812
+2020-04-15,,0.3938
+2020-04-15,Customer Service,0.2441
+2020-04-15,Entertainment and Recreation,0.2112
+2020-04-15,Facilities/Constr,0.2859
+2020-04-15,Finance/Insurance,0.3364
+2020-04-15,Food & Beverage,0.2564
+2020-04-15,Healthcare,0.3251
+2020-04-15,Hospitality Staff,0.1847
+2020-04-15,Human Resources,0.2895
+2020-04-15,IT,0.1551
+2020-04-15,Manufacturing/Operations Staff,0.2976
+2020-04-15,Marketing/Advertising,0.2667
+2020-04-15,Product Management,0.3722
+2020-04-15,Retail Staff,0.2676
+2020-04-15,Sales,0.2472
+2020-04-15,Security,0.4303
+2020-04-15,Skilled Trades,0.3344
+2020-04-15,Supply Chain Staff,0.3049
+2020-04-15,Unassigned,0.5781
+2020-04-16,,0.3854
+2020-04-16,Customer Service,0.2443
+2020-04-16,Entertainment and Recreation,0.2176
+2020-04-16,Facilities/Constr,0.2890
+2020-04-16,Finance/Insurance,0.3326
+2020-04-16,Food & Beverage,0.2589
+2020-04-16,Healthcare,0.3217
+2020-04-16,Hospitality Staff,0.1904
+2020-04-16,Human Resources,0.2853
+2020-04-16,IT,0.1593
+2020-04-16,Manufacturing/Operations Staff,0.3020
+2020-04-16,Marketing/Advertising,0.2642
+2020-04-16,Product Management,0.3810
+2020-04-16,Retail Staff,0.2710
+2020-04-16,Sales,0.2517
+2020-04-16,Security,0.4317
+2020-04-16,Skilled Trades,0.3357
+2020-04-16,Supply Chain Staff,0.3057
+2020-04-16,Unassigned,0.5737
+2020-04-17,,0.3880
+2020-04-17,Customer Service,0.2504
+2020-04-17,Entertainment and Recreation,0.2231
+2020-04-17,Facilities/Constr,0.2991
+2020-04-17,Finance/Insurance,0.3378
+2020-04-17,Food & Beverage,0.2692
+2020-04-17,Healthcare,0.3308
+2020-04-17,Hospitality Staff,0.2008
+2020-04-17,Human Resources,0.2778
+2020-04-17,IT,0.1618
+2020-04-17,Manufacturing/Operations Staff,0.3135
+2020-04-17,Marketing/Advertising,0.2651
+2020-04-17,Product Management,0.3797
+2020-04-17,Retail Staff,0.2801
+2020-04-17,Sales,0.2551
+2020-04-17,Security,0.4415
+2020-04-17,Skilled Trades,0.3474
+2020-04-17,Supply Chain Staff,0.3163
+2020-04-17,Unassigned,0.5752
+2020-04-18,,0.3988
+2020-04-18,Customer Service,0.2663
+2020-04-18,Entertainment and Recreation,0.2327
+2020-04-18,Facilities/Constr,0.3180
+2020-04-18,Finance/Insurance,0.3480
+2020-04-18,Food & Beverage,0.2890
+2020-04-18,Healthcare,0.3384
+2020-04-18,Hospitality Staff,0.2129
+2020-04-18,Human Resources,0.2843
+2020-04-18,IT,0.1654
+2020-04-18,Manufacturing/Operations Staff,0.3243
+2020-04-18,Marketing/Advertising,0.2794
+2020-04-18,Product Management,0.3953
+2020-04-18,Retail Staff,0.3012
+2020-04-18,Sales,0.2637
+2020-04-18,Security,0.4612
+2020-04-18,Skilled Trades,0.3645
+2020-04-18,Supply Chain Staff,0.3351
+2020-04-18,Unassigned,0.6039
+2020-04-19,,0.3897
+2020-04-19,Customer Service,0.2614
+2020-04-19,Entertainment and Recreation,0.2264
+2020-04-19,Facilities/Constr,0.3118
+2020-04-19,Finance/Insurance,0.3442
+2020-04-19,Food & Beverage,0.2791
+2020-04-19,Healthcare,0.3333
+2020-04-19,Hospitality Staff,0.2099
+2020-04-19,Human Resources,0.2706
+2020-04-19,IT,0.1617
+2020-04-19,Manufacturing/Operations Staff,0.3170
+2020-04-19,Marketing/Advertising,0.2769
+2020-04-19,Product Management,0.3875
+2020-04-19,Retail Staff,0.2955
+2020-04-19,Sales,0.2626
+2020-04-19,Security,0.4469
+2020-04-19,Skilled Trades,0.3543
+2020-04-19,Supply Chain Staff,0.3233
+2020-04-19,Unassigned,0.5806
+2020-04-20,,0.3958
+2020-04-20,Customer Service,0.2736
+2020-04-20,Entertainment and Recreation,0.2250
+2020-04-20,Facilities/Constr,0.3147
+2020-04-20,Finance/Insurance,0.3490
+2020-04-20,Food & Beverage,0.2814
+2020-04-20,Healthcare,0.3304
+2020-04-20,Hospitality Staff,0.2093
+2020-04-20,Human Resources,0.2667
+2020-04-20,IT,0.1634
+2020-04-20,Manufacturing/Operations Staff,0.3217
+2020-04-20,Marketing/Advertising,0.2739
+2020-04-20,Product Management,0.3993
+2020-04-20,Retail Staff,0.3016
+2020-04-20,Sales,0.2716
+2020-04-20,Security,0.4520
+2020-04-20,Skilled Trades,0.3617
+2020-04-20,Supply Chain Staff,0.3250
+2020-04-20,Unassigned,0.5767
+2020-04-21,,0.4018
+2020-04-21,Customer Service,0.2893
+2020-04-21,Entertainment and Recreation,0.2247
+2020-04-21,Facilities/Constr,0.3099
+2020-04-21,Finance/Insurance,0.3544
+2020-04-21,Food & Beverage,0.2891
+2020-04-21,Healthcare,0.3288
+2020-04-21,Hospitality Staff,0.2086
+2020-04-21,Human Resources,0.2647
+2020-04-21,IT,0.1629
+2020-04-21,Manufacturing/Operations Staff,0.3292
+2020-04-21,Marketing/Advertising,0.2734
+2020-04-21,Product Management,0.4154
+2020-04-21,Retail Staff,0.3120
+2020-04-21,Sales,0.2793
+2020-04-21,Security,0.4469
+2020-04-21,Skilled Trades,0.3691
+2020-04-21,Supply Chain Staff,0.3333
+2020-04-21,Unassigned,0.5738
+2020-04-22,,0.4181
+2020-04-22,Customer Service,0.3000
+2020-04-22,Entertainment and Recreation,0.2238
+2020-04-22,Facilities/Constr,0.3117
+2020-04-22,Finance/Insurance,0.3621
+2020-04-22,Food & Beverage,0.2947
+2020-04-22,Healthcare,0.3348
+2020-04-22,Hospitality Staff,0.2112
+2020-04-22,Human Resources,0.2580
+2020-04-22,IT,0.1644
+2020-04-22,Manufacturing/Operations Staff,0.3317
+2020-04-22,Marketing/Advertising,0.2826
+2020-04-22,Product Management,0.4104
+2020-04-22,Retail Staff,0.3200
+2020-04-22,Sales,0.2829
+2020-04-22,Security,0.4426
+2020-04-22,Skilled Trades,0.3800
+2020-04-22,Supply Chain Staff,0.3420
+2020-04-22,Unassigned,0.5815
+2020-04-23,,0.4252
+2020-04-23,Customer Service,0.3181
+2020-04-23,Entertainment and Recreation,0.2258
+2020-04-23,Facilities/Constr,0.3205
+2020-04-23,Finance/Insurance,0.3670
+2020-04-23,Food & Beverage,0.3079
+2020-04-23,Healthcare,0.3345
+2020-04-23,Hospitality Staff,0.2186
+2020-04-23,Human Resources,0.2528
+2020-04-23,IT,0.1616
+2020-04-23,Manufacturing/Operations Staff,0.3327
+2020-04-23,Marketing/Advertising,0.2970
+2020-04-23,Product Management,0.4016
+2020-04-23,Retail Staff,0.3342
+2020-04-23,Sales,0.2860
+2020-04-23,Security,0.4428
+2020-04-23,Skilled Trades,0.3859
+2020-04-23,Supply Chain Staff,0.3532
+2020-04-23,Unassigned,0.5852
+2020-04-24,,0.4304
+2020-04-24,Customer Service,0.3259
+2020-04-24,Entertainment and Recreation,0.2221
+2020-04-24,Facilities/Constr,0.3244
+2020-04-24,Finance/Insurance,0.3672
+2020-04-24,Food & Beverage,0.3098
+2020-04-24,Healthcare,0.3347
+2020-04-24,Hospitality Staff,0.2173
+2020-04-24,Human Resources,0.2646
+2020-04-24,IT,0.1587
+2020-04-24,Manufacturing/Operations Staff,0.3312
+2020-04-24,Marketing/Advertising,0.3157
+2020-04-24,Product Management,0.3895
+2020-04-24,Retail Staff,0.3339
+2020-04-24,Sales,0.2834
+2020-04-24,Security,0.4465
+2020-04-24,Skilled Trades,0.3869
+2020-04-24,Supply Chain Staff,0.3559
+2020-04-24,Unassigned,0.5814
+2020-04-25,,0.4306
+2020-04-25,Customer Service,0.3305
+2020-04-25,Entertainment and Recreation,0.2217
+2020-04-25,Facilities/Constr,0.3239
+2020-04-25,Finance/Insurance,0.3684
+2020-04-25,Food & Beverage,0.3126
+2020-04-25,Healthcare,0.3291
+2020-04-25,Hospitality Staff,0.2151
+2020-04-25,Human Resources,0.2619
+2020-04-25,IT,0.1576
+2020-04-25,Manufacturing/Operations Staff,0.3313
+2020-04-25,Marketing/Advertising,0.3239
+2020-04-25,Product Management,0.3922
+2020-04-25,Retail Staff,0.3364
+2020-04-25,Sales,0.2838
+2020-04-25,Security,0.4419
+2020-04-25,Skilled Trades,0.3868
+2020-04-25,Supply Chain Staff,0.3565
+2020-04-25,Unassigned,0.5777
+2020-04-26,,0.4339
+2020-04-26,Customer Service,0.3330
+2020-04-26,Entertainment and Recreation,0.2221
+2020-04-26,Facilities/Constr,0.3257
+2020-04-26,Finance/Insurance,0.3701
+2020-04-26,Food & Beverage,0.3135
+2020-04-26,Healthcare,0.3320
+2020-04-26,Hospitality Staff,0.2137
+2020-04-26,Human Resources,0.2633
+2020-04-26,IT,0.1557
+2020-04-26,Manufacturing/Operations Staff,0.3312
+2020-04-26,Marketing/Advertising,0.3227
+2020-04-26,Product Management,0.3924
+2020-04-26,Retail Staff,0.3416
+2020-04-26,Sales,0.2828
+2020-04-26,Security,0.4456
+2020-04-26,Skilled Trades,0.3905
+2020-04-26,Supply Chain Staff,0.3595
+2020-04-26,Unassigned,0.5798
+2020-04-27,,0.4572
+2020-04-27,Customer Service,0.3417
+2020-04-27,Entertainment and Recreation,0.2426
+2020-04-27,Facilities/Constr,0.3454
+2020-04-27,Finance/Insurance,0.3805
+2020-04-27,Food & Beverage,0.3344
+2020-04-27,Healthcare,0.3443
+2020-04-27,Hospitality Staff,0.2280
+2020-04-27,Human Resources,0.2687
+2020-04-27,IT,0.1566
+2020-04-27,Manufacturing/Operations Staff,0.3418
+2020-04-27,Marketing/Advertising,0.3473
+2020-04-27,Product Management,0.4004
+2020-04-27,Retail Staff,0.3568
+2020-04-27,Sales,0.2876
+2020-04-27,Security,0.4420
+2020-04-27,Skilled Trades,0.4066
+2020-04-27,Supply Chain Staff,0.3796
+2020-04-27,Unassigned,0.5946
+2020-04-28,,0.4619
+2020-04-28,Customer Service,0.3480
+2020-04-28,Entertainment and Recreation,0.2500
+2020-04-28,Facilities/Constr,0.3545
+2020-04-28,Finance/Insurance,0.3831
+2020-04-28,Food & Beverage,0.3427
+2020-04-28,Healthcare,0.3520
+2020-04-28,Hospitality Staff,0.2434
+2020-04-28,Human Resources,0.2679
+2020-04-28,IT,0.1559
+2020-04-28,Manufacturing/Operations Staff,0.3478
+2020-04-28,Marketing/Advertising,0.3573
+2020-04-28,Product Management,0.3944
+2020-04-28,Retail Staff,0.3658
+2020-04-28,Sales,0.2825
+2020-04-28,Security,0.4478
+2020-04-28,Skilled Trades,0.4185
+2020-04-28,Supply Chain Staff,0.3851
+2020-04-28,Unassigned,0.6079
+2020-04-29,,0.4541
+2020-04-29,Customer Service,0.3575
+2020-04-29,Entertainment and Recreation,0.2558
+2020-04-29,Facilities/Constr,0.3568
+2020-04-29,Finance/Insurance,0.3859
+2020-04-29,Food & Beverage,0.3490
+2020-04-29,Healthcare,0.3516
+2020-04-29,Hospitality Staff,0.2452
+2020-04-29,Human Resources,0.2709
+2020-04-29,IT,0.1539
+2020-04-29,Manufacturing/Operations Staff,0.3505
+2020-04-29,Marketing/Advertising,0.3676
+2020-04-29,Product Management,0.4160
+2020-04-29,Retail Staff,0.3764
+2020-04-29,Sales,0.2811
+2020-04-29,Security,0.4578
+2020-04-29,Skilled Trades,0.4194
+2020-04-29,Supply Chain Staff,0.3840
+2020-04-29,Unassigned,0.6110
+2020-04-30,,0.4445
+2020-04-30,Customer Service,0.3651
+2020-04-30,Entertainment and Recreation,0.2658
+2020-04-30,Facilities/Constr,0.3707
+2020-04-30,Finance/Insurance,0.3885
+2020-04-30,Food & Beverage,0.3559
+2020-04-30,Healthcare,0.3480
+2020-04-30,Hospitality Staff,0.2467
+2020-04-30,Human Resources,0.2749
+2020-04-30,IT,0.1536
+2020-04-30,Manufacturing/Operations Staff,0.3570
+2020-04-30,Marketing/Advertising,0.3604
+2020-04-30,Product Management,0.4367
+2020-04-30,Retail Staff,0.3814
+2020-04-30,Sales,0.2893
+2020-04-30,Security,0.4644
+2020-04-30,Skilled Trades,0.4276
+2020-04-30,Supply Chain Staff,0.3902
+2020-04-30,Unassigned,0.6181
+2020-05-01,,0.4685
+2020-05-01,Customer Service,0.3888
+2020-05-01,Entertainment and Recreation,0.2898
+2020-05-01,Facilities/Constr,0.3889
+2020-05-01,Finance/Insurance,0.4047
+2020-05-01,Food & Beverage,0.3870
+2020-05-01,Healthcare,0.3643
+2020-05-01,Hospitality Staff,0.2562
+2020-05-01,Human Resources,0.2815
+2020-05-01,IT,0.1578
+2020-05-01,Manufacturing/Operations Staff,0.3796
+2020-05-01,Marketing/Advertising,0.3585
+2020-05-01,Product Management,0.4731
+2020-05-01,Retail Staff,0.4048
+2020-05-01,Sales,0.3064
+2020-05-01,Security,0.4928
+2020-05-01,Skilled Trades,0.4591
+2020-05-01,Supply Chain Staff,0.4252
+2020-05-01,Unassigned,0.6709
+2020-05-02,,0.4624
+2020-05-02,Customer Service,0.4093
+2020-05-02,Entertainment and Recreation,0.2988
+2020-05-02,Facilities/Constr,0.3990
+2020-05-02,Finance/Insurance,0.4083
+2020-05-02,Food & Beverage,0.4034
+2020-05-02,Healthcare,0.3662
+2020-05-02,Hospitality Staff,0.2633
+2020-05-02,Human Resources,0.2885
+2020-05-02,IT,0.1586
+2020-05-02,Manufacturing/Operations Staff,0.3881
+2020-05-02,Marketing/Advertising,0.3480
+2020-05-02,Product Management,0.4771
+2020-05-02,Retail Staff,0.4192
+2020-05-02,Sales,0.3128
+2020-05-02,Security,0.5108
+2020-05-02,Skilled Trades,0.4690
+2020-05-02,Supply Chain Staff,0.4451
+2020-05-02,Unassigned,0.6899
+2020-05-03,,0.4608
+2020-05-03,Customer Service,0.4134
+2020-05-03,Entertainment and Recreation,0.3031
+2020-05-03,Facilities/Constr,0.3975
+2020-05-03,Finance/Insurance,0.4093
+2020-05-03,Food & Beverage,0.4094
+2020-05-03,Healthcare,0.3645
+2020-05-03,Hospitality Staff,0.2681
+2020-05-03,Human Resources,0.2885
+2020-05-03,IT,0.1593
+2020-05-03,Manufacturing/Operations Staff,0.3893
+2020-05-03,Marketing/Advertising,0.3480
+2020-05-03,Product Management,0.4771
+2020-05-03,Retail Staff,0.4205
+2020-05-03,Sales,0.3142
+2020-05-03,Security,0.5124
+2020-05-03,Skilled Trades,0.4706
+2020-05-03,Supply Chain Staff,0.4504
+2020-05-03,Unassigned,0.6928
+2020-05-04,,0.4416
+2020-05-04,Customer Service,0.4097
+2020-05-04,Entertainment and Recreation,0.2883
+2020-05-04,Facilities/Constr,0.3803
+2020-05-04,Finance/Insurance,0.4031
+2020-05-04,Food & Beverage,0.3983
+2020-05-04,Healthcare,0.3573
+2020-05-04,Hospitality Staff,0.2682
+2020-05-04,Human Resources,0.2809
+2020-05-04,IT,0.1539
+2020-05-04,Manufacturing/Operations Staff,0.3870
+2020-05-04,Marketing/Advertising,0.3287
+2020-05-04,Product Management,0.4620
+2020-05-04,Retail Staff,0.4151
+2020-05-04,Sales,0.3082
+2020-05-04,Security,0.5169
+2020-05-04,Skilled Trades,0.4625
+2020-05-04,Supply Chain Staff,0.4468
+2020-05-04,Unassigned,0.6809
+2020-05-05,,0.4357
+2020-05-05,Customer Service,0.4209
+2020-05-05,Entertainment and Recreation,0.2871
+2020-05-05,Facilities/Constr,0.3861
+2020-05-05,Finance/Insurance,0.4133
+2020-05-05,Food & Beverage,0.4085
+2020-05-05,Healthcare,0.3550
+2020-05-05,Hospitality Staff,0.2658
+2020-05-05,Human Resources,0.2907
+2020-05-05,IT,0.1546
+2020-05-05,Manufacturing/Operations Staff,0.3907
+2020-05-05,Marketing/Advertising,0.3191
+2020-05-05,Product Management,0.4537
+2020-05-05,Retail Staff,0.4209
+2020-05-05,Sales,0.3070
+2020-05-05,Security,0.5201
+2020-05-05,Skilled Trades,0.4578
+2020-05-05,Supply Chain Staff,0.4532
+2020-05-05,Unassigned,0.6881
+2020-05-06,,0.4368
+2020-05-06,Customer Service,0.4365
+2020-05-06,Entertainment and Recreation,0.2956
+2020-05-06,Facilities/Constr,0.3860
+2020-05-06,Finance/Insurance,0.4197
+2020-05-06,Food & Beverage,0.4150
+2020-05-06,Healthcare,0.3549
+2020-05-06,Hospitality Staff,0.2683
+2020-05-06,Human Resources,0.3001
+2020-05-06,IT,0.1550
+2020-05-06,Manufacturing/Operations Staff,0.3956
+2020-05-06,Marketing/Advertising,0.3141
+2020-05-06,Product Management,0.4529
+2020-05-06,Retail Staff,0.4317
+2020-05-06,Sales,0.3071
+2020-05-06,Security,0.5165
+2020-05-06,Skilled Trades,0.4691
+2020-05-06,Supply Chain Staff,0.4661
+2020-05-06,Unassigned,0.6956
+2020-05-07,,0.4511
+2020-05-07,Customer Service,0.4510
+2020-05-07,Entertainment and Recreation,0.2982
+2020-05-07,Facilities/Constr,0.3777
+2020-05-07,Finance/Insurance,0.4333
+2020-05-07,Food & Beverage,0.4245
+2020-05-07,Healthcare,0.3667
+2020-05-07,Hospitality Staff,0.2738
+2020-05-07,Human Resources,0.3104
+2020-05-07,IT,0.1570
+2020-05-07,Manufacturing/Operations Staff,0.3985
+2020-05-07,Marketing/Advertising,0.3243
+2020-05-07,Product Management,0.4541
+2020-05-07,Retail Staff,0.4461
+2020-05-07,Sales,0.3051
+2020-05-07,Security,0.5222
+2020-05-07,Skilled Trades,0.4800
+2020-05-07,Supply Chain Staff,0.4697
+2020-05-07,Unassigned,0.7114
+2020-05-08,,0.4408
+2020-05-08,Customer Service,0.4491
+2020-05-08,Entertainment and Recreation,0.2853
+2020-05-08,Facilities/Constr,0.3753
+2020-05-08,Finance/Insurance,0.4274
+2020-05-08,Food & Beverage,0.4105
+2020-05-08,Healthcare,0.3502
+2020-05-08,Hospitality Staff,0.2734
+2020-05-08,Human Resources,0.3101
+2020-05-08,IT,0.1558
+2020-05-08,Manufacturing/Operations Staff,0.3888
+2020-05-08,Marketing/Advertising,0.3168
+2020-05-08,Product Management,0.4387
+2020-05-08,Retail Staff,0.4434
+2020-05-08,Sales,0.3007
+2020-05-08,Security,0.4890
+2020-05-08,Skilled Trades,0.4727
+2020-05-08,Supply Chain Staff,0.4495
+2020-05-08,Unassigned,0.6733
+2020-05-09,,0.4540
+2020-05-09,Customer Service,0.4424
+2020-05-09,Entertainment and Recreation,0.2844
+2020-05-09,Facilities/Constr,0.3808
+2020-05-09,Finance/Insurance,0.4310
+2020-05-09,Food & Beverage,0.4043
+2020-05-09,Healthcare,0.3503
+2020-05-09,Hospitality Staff,0.2778
+2020-05-09,Human Resources,0.3101
+2020-05-09,IT,0.1556
+2020-05-09,Manufacturing/Operations Staff,0.3883
+2020-05-09,Marketing/Advertising,0.3183
+2020-05-09,Product Management,0.4501
+2020-05-09,Retail Staff,0.4417
+2020-05-09,Sales,0.3047
+2020-05-09,Security,0.4892
+2020-05-09,Skilled Trades,0.4772
+2020-05-09,Supply Chain Staff,0.4400
+2020-05-09,Unassigned,0.6684
+2020-05-10,,0.4533
+2020-05-10,Customer Service,0.4371
+2020-05-10,Entertainment and Recreation,0.2853
+2020-05-10,Facilities/Constr,0.3865
+2020-05-10,Finance/Insurance,0.4313
+2020-05-10,Food & Beverage,0.4055
+2020-05-10,Healthcare,0.3506
+2020-05-10,Hospitality Staff,0.2773
+2020-05-10,Human Resources,0.3092
+2020-05-10,IT,0.1549
+2020-05-10,Manufacturing/Operations Staff,0.3886
+2020-05-10,Marketing/Advertising,0.3190
+2020-05-10,Product Management,0.4528
+2020-05-10,Retail Staff,0.4394
+2020-05-10,Sales,0.3053
+2020-05-10,Security,0.4862
+2020-05-10,Skilled Trades,0.4778
+2020-05-10,Supply Chain Staff,0.4388
+2020-05-10,Unassigned,0.6684
+2020-05-11,,0.4424
+2020-05-11,Customer Service,0.4412
+2020-05-11,Entertainment and Recreation,0.2950
+2020-05-11,Facilities/Constr,0.3972
+2020-05-11,Finance/Insurance,0.4354
+2020-05-11,Food & Beverage,0.4161
+2020-05-11,Healthcare,0.3526
+2020-05-11,Hospitality Staff,0.2857
+2020-05-11,Human Resources,0.3195
+2020-05-11,IT,0.1566
+2020-05-11,Manufacturing/Operations Staff,0.3918
+2020-05-11,Marketing/Advertising,0.3252
+2020-05-11,Product Management,0.4518
+2020-05-11,Retail Staff,0.4433
+2020-05-11,Sales,0.3097
+2020-05-11,Security,0.4937
+2020-05-11,Skilled Trades,0.4814
+2020-05-11,Supply Chain Staff,0.4413
+2020-05-11,Unassigned,0.6725
+2020-05-12,,0.4210
+2020-05-12,Customer Service,0.4636
+2020-05-12,Entertainment and Recreation,0.3198
+2020-05-12,Facilities/Constr,0.4376
+2020-05-12,Finance/Insurance,0.4359
+2020-05-12,Food & Beverage,0.4416
+2020-05-12,Healthcare,0.3628
+2020-05-12,Hospitality Staff,0.3060
+2020-05-12,Human Resources,0.3235
+2020-05-12,IT,0.1620
+2020-05-12,Manufacturing/Operations Staff,0.4011
+2020-05-12,Marketing/Advertising,0.3504
+2020-05-12,Product Management,0.4445
+2020-05-12,Retail Staff,0.4589
+2020-05-12,Sales,0.3302
+2020-05-12,Security,0.5219
+2020-05-12,Skilled Trades,0.4871
+2020-05-12,Supply Chain Staff,0.4432
+2020-05-12,Unassigned,0.6781
+2020-05-13,,0.4089
+2020-05-13,Customer Service,0.4926
+2020-05-13,Entertainment and Recreation,0.3416
+2020-05-13,Facilities/Constr,0.5218
+2020-05-13,Finance/Insurance,0.4494
+2020-05-13,Food & Beverage,0.4807
+2020-05-13,Healthcare,0.4066
+2020-05-13,Hospitality Staff,0.3525
+2020-05-13,Human Resources,0.3485
+2020-05-13,IT,0.1735
+2020-05-13,Manufacturing/Operations Staff,0.4322
+2020-05-13,Marketing/Advertising,0.3818
+2020-05-13,Product Management,0.4463
+2020-05-13,Retail Staff,0.4695
+2020-05-13,Sales,0.3634
+2020-05-13,Security,0.6133
+2020-05-13,Skilled Trades,0.5237
+2020-05-13,Supply Chain Staff,0.4703
+2020-05-13,Unassigned,0.7119
+2020-05-14,,0.4025
+2020-05-14,Customer Service,0.5296
+2020-05-14,Entertainment and Recreation,0.3619
+2020-05-14,Facilities/Constr,0.5920
+2020-05-14,Finance/Insurance,0.4552
+2020-05-14,Food & Beverage,0.5120
+2020-05-14,Healthcare,0.4498
+2020-05-14,Hospitality Staff,0.3821
+2020-05-14,Human Resources,0.3719
+2020-05-14,IT,0.1881
+2020-05-14,Manufacturing/Operations Staff,0.4554
+2020-05-14,Marketing/Advertising,0.4116
+2020-05-14,Product Management,0.4778
+2020-05-14,Retail Staff,0.4886
+2020-05-14,Sales,0.3925
+2020-05-14,Security,0.6726
+2020-05-14,Skilled Trades,0.5455
+2020-05-14,Supply Chain Staff,0.4942
+2020-05-14,Unassigned,0.7274
+2020-05-15,,0.3621
+2020-05-15,Customer Service,0.5344
+2020-05-15,Entertainment and Recreation,0.3786
+2020-05-15,Facilities/Constr,0.6507
+2020-05-15,Finance/Insurance,0.4570
+2020-05-15,Food & Beverage,0.5290
+2020-05-15,Healthcare,0.4443
+2020-05-15,Hospitality Staff,0.4122
+2020-05-15,Human Resources,0.3796
+2020-05-15,IT,0.1857
+2020-05-15,Manufacturing/Operations Staff,0.4799
+2020-05-15,Marketing/Advertising,0.4339
+2020-05-15,Product Management,0.4799
+2020-05-15,Retail Staff,0.4856
+2020-05-15,Sales,0.4122
+2020-05-15,Security,0.6946
+2020-05-15,Skilled Trades,0.5581
+2020-05-15,Supply Chain Staff,0.5090
+2020-05-15,Unassigned,0.7253
+2020-05-16,,0.3342
+2020-05-16,Customer Service,0.5279
+2020-05-16,Entertainment and Recreation,0.3786
+2020-05-16,Facilities/Constr,0.6854
+2020-05-16,Finance/Insurance,0.4570
+2020-05-16,Food & Beverage,0.5386
+2020-05-16,Healthcare,0.4374
+2020-05-16,Hospitality Staff,0.4265
+2020-05-16,Human Resources,0.3681
+2020-05-16,IT,0.1833
+2020-05-16,Manufacturing/Operations Staff,0.4929
+2020-05-16,Marketing/Advertising,0.4459
+2020-05-16,Product Management,0.4748
+2020-05-16,Retail Staff,0.4791
+2020-05-16,Sales,0.4184
+2020-05-16,Security,0.6744
+2020-05-16,Skilled Trades,0.5581
+2020-05-16,Supply Chain Staff,0.5228
+2020-05-16,Unassigned,0.7223
+2020-05-17,,0.3278
+2020-05-17,Customer Service,0.5282
+2020-05-17,Entertainment and Recreation,0.3776
+2020-05-17,Facilities/Constr,0.6978
+2020-05-17,Finance/Insurance,0.4576
+2020-05-17,Food & Beverage,0.5396
+2020-05-17,Healthcare,0.4340
+2020-05-17,Hospitality Staff,0.4361
+2020-05-17,Human Resources,0.3642
+2020-05-17,IT,0.1822
+2020-05-17,Manufacturing/Operations Staff,0.4980
+2020-05-17,Marketing/Advertising,0.4485
+2020-05-17,Product Management,0.4732
+2020-05-17,Retail Staff,0.4782
+2020-05-17,Sales,0.4211
+2020-05-17,Security,0.6662
+2020-05-17,Skilled Trades,0.5586
+2020-05-17,Supply Chain Staff,0.5279
+2020-05-17,Unassigned,0.7186
+2020-05-18,,0.3379
+2020-05-18,Customer Service,0.5296
+2020-05-18,Entertainment and Recreation,0.3834
+2020-05-18,Facilities/Constr,0.7429
+2020-05-18,Finance/Insurance,0.4611
+2020-05-18,Food & Beverage,0.5446
+2020-05-18,Healthcare,0.4316
+2020-05-18,Hospitality Staff,0.4533
+2020-05-18,Human Resources,0.3577
+2020-05-18,IT,0.1808
+2020-05-18,Manufacturing/Operations Staff,0.5170
+2020-05-18,Marketing/Advertising,0.4534
+2020-05-18,Product Management,0.4758
+2020-05-18,Retail Staff,0.4755
+2020-05-18,Sales,0.4263
+2020-05-18,Security,0.6458
+2020-05-18,Skilled Trades,0.5785
+2020-05-18,Supply Chain Staff,0.5361
+2020-05-18,Unassigned,0.7227
+2020-05-19,,0.3439
+2020-05-19,Customer Service,0.5076
+2020-05-19,Entertainment and Recreation,0.3767
+2020-05-19,Facilities/Constr,0.7810
+2020-05-19,Finance/Insurance,0.4624
+2020-05-19,Food & Beverage,0.5359
+2020-05-19,Healthcare,0.4180
+2020-05-19,Hospitality Staff,0.4569
+2020-05-19,Human Resources,0.3483
+2020-05-19,IT,0.1713
+2020-05-19,Manufacturing/Operations Staff,0.5307
+2020-05-19,Marketing/Advertising,0.4452
+2020-05-19,Product Management,0.4892
+2020-05-19,Retail Staff,0.4645
+2020-05-19,Sales,0.4265
+2020-05-19,Security,0.5851
+2020-05-19,Skilled Trades,0.5992
+2020-05-19,Supply Chain Staff,0.5538
+2020-05-19,Unassigned,0.7207
+2020-05-20,,0.3223
+2020-05-20,Customer Service,0.4713
+2020-05-20,Entertainment and Recreation,0.3609
+2020-05-20,Facilities/Constr,0.7652
+2020-05-20,Finance/Insurance,0.4536
+2020-05-20,Food & Beverage,0.5130
+2020-05-20,Healthcare,0.3699
+2020-05-20,Hospitality Staff,0.4537
+2020-05-20,Human Resources,0.3163
+2020-05-20,IT,0.1547
+2020-05-20,Manufacturing/Operations Staff,0.5300
+2020-05-20,Marketing/Advertising,0.4245
+2020-05-20,Product Management,0.4842
+2020-05-20,Retail Staff,0.4453
+2020-05-20,Sales,0.4115
+2020-05-20,Security,0.4883
+2020-05-20,Skilled Trades,0.5783
+2020-05-20,Supply Chain Staff,0.5515
+2020-05-20,Unassigned,0.6860
+2020-05-21,,0.2886
+2020-05-21,Customer Service,0.4359
+2020-05-21,Entertainment and Recreation,0.3613
+2020-05-21,Facilities/Constr,0.7791
+2020-05-21,Finance/Insurance,0.4524
+2020-05-21,Food & Beverage,0.4938
+2020-05-21,Healthcare,0.3180
+2020-05-21,Hospitality Staff,0.4651
+2020-05-21,Human Resources,0.2928
+2020-05-21,IT,0.1371
+2020-05-21,Manufacturing/Operations Staff,0.5469
+2020-05-21,Marketing/Advertising,0.4025
+2020-05-21,Product Management,0.4588
+2020-05-21,Retail Staff,0.4234
+2020-05-21,Sales,0.4081
+2020-05-21,Security,0.4149
+2020-05-21,Skilled Trades,0.5820
+2020-05-21,Supply Chain Staff,0.5544
+2020-05-21,Unassigned,0.6717
+2020-05-22,,0.2784
+2020-05-22,Customer Service,0.4256
+2020-05-22,Entertainment and Recreation,0.3578
+2020-05-22,Facilities/Constr,0.7958
+2020-05-22,Finance/Insurance,0.4537
+2020-05-22,Food & Beverage,0.4879
+2020-05-22,Healthcare,0.3133
+2020-05-22,Hospitality Staff,0.4641
+2020-05-22,Human Resources,0.2736
+2020-05-22,IT,0.1344
+2020-05-22,Manufacturing/Operations Staff,0.5562
+2020-05-22,Marketing/Advertising,0.3933
+2020-05-22,Product Management,0.4610
+2020-05-22,Retail Staff,0.4199
+2020-05-22,Sales,0.4048
+2020-05-22,Security,0.3820
+2020-05-22,Skilled Trades,0.5804
+2020-05-22,Supply Chain Staff,0.5648
+2020-05-22,Unassigned,0.6718
+2020-05-23,,0.2763
+2020-05-23,Customer Service,0.4245
+2020-05-23,Entertainment and Recreation,0.3555
+2020-05-23,Facilities/Constr,0.7910
+2020-05-23,Finance/Insurance,0.4506
+2020-05-23,Food & Beverage,0.4871
+2020-05-23,Healthcare,0.3111
+2020-05-23,Hospitality Staff,0.4722
+2020-05-23,Human Resources,0.2757
+2020-05-23,IT,0.1328
+2020-05-23,Manufacturing/Operations Staff,0.5537
+2020-05-23,Marketing/Advertising,0.3907
+2020-05-23,Product Management,0.4534
+2020-05-23,Retail Staff,0.4189
+2020-05-23,Sales,0.4032
+2020-05-23,Security,0.3760
+2020-05-23,Skilled Trades,0.5781
+2020-05-23,Supply Chain Staff,0.5604
+2020-05-23,Unassigned,0.6623
+2020-05-24,,0.2760
+2020-05-24,Customer Service,0.4240
+2020-05-24,Entertainment and Recreation,0.3532
+2020-05-24,Facilities/Constr,0.7935
+2020-05-24,Finance/Insurance,0.4497
+2020-05-24,Food & Beverage,0.4922
+2020-05-24,Healthcare,0.3111
+2020-05-24,Hospitality Staff,0.4855
+2020-05-24,Human Resources,0.2766
+2020-05-24,IT,0.1329
+2020-05-24,Manufacturing/Operations Staff,0.5512
+2020-05-24,Marketing/Advertising,0.3909
+2020-05-24,Product Management,0.4509
+2020-05-24,Retail Staff,0.4179
+2020-05-24,Sales,0.4014
+2020-05-24,Security,0.3840
+2020-05-24,Skilled Trades,0.5761
+2020-05-24,Supply Chain Staff,0.5583
+2020-05-24,Unassigned,0.6598
+2020-05-25,,0.2443
+2020-05-25,Customer Service,0.3972
+2020-05-25,Entertainment and Recreation,0.3232
+2020-05-25,Facilities/Constr,0.7454
+2020-05-25,Finance/Insurance,0.4163
+2020-05-25,Food & Beverage,0.4742
+2020-05-25,Healthcare,0.2834
+2020-05-25,Hospitality Staff,0.4616
+2020-05-25,Human Resources,0.2555
+2020-05-25,IT,0.1221
+2020-05-25,Manufacturing/Operations Staff,0.5025
+2020-05-25,Marketing/Advertising,0.3718
+2020-05-25,Product Management,0.4212
+2020-05-25,Retail Staff,0.3999
+2020-05-25,Sales,0.3752
+2020-05-25,Security,0.3572
+2020-05-25,Skilled Trades,0.5217
+2020-05-25,Supply Chain Staff,0.5192
+2020-05-25,Unassigned,0.6141
+2020-05-26,,0.2204
+2020-05-26,Customer Service,0.3714
+2020-05-26,Entertainment and Recreation,0.3073
+2020-05-26,Facilities/Constr,0.6982
+2020-05-26,Finance/Insurance,0.3964
+2020-05-26,Food & Beverage,0.4512
+2020-05-26,Healthcare,0.2651
+2020-05-26,Hospitality Staff,0.4663
+2020-05-26,Human Resources,0.2340
+2020-05-26,IT,0.1144
+2020-05-26,Manufacturing/Operations Staff,0.4735
+2020-05-26,Marketing/Advertising,0.3539
+2020-05-26,Product Management,0.3866
+2020-05-26,Retail Staff,0.3680
+2020-05-26,Sales,0.3557
+2020-05-26,Security,0.3356
+2020-05-26,Skilled Trades,0.4812
+2020-05-26,Supply Chain Staff,0.4820
+2020-05-26,Unassigned,0.5687
+2020-05-27,,0.2317
+2020-05-27,Customer Service,0.3787
+2020-05-27,Entertainment and Recreation,0.3145
+2020-05-27,Facilities/Constr,0.6910
+2020-05-27,Finance/Insurance,0.3926
+2020-05-27,Food & Beverage,0.4616
+2020-05-27,Healthcare,0.2618
+2020-05-27,Hospitality Staff,0.4744
+2020-05-27,Human Resources,0.2282
+2020-05-27,IT,0.1164
+2020-05-27,Manufacturing/Operations Staff,0.4610
+2020-05-27,Marketing/Advertising,0.3482
+2020-05-27,Product Management,0.3824
+2020-05-27,Retail Staff,0.3716
+2020-05-27,Sales,0.3619
+2020-05-27,Security,0.3374
+2020-05-27,Skilled Trades,0.4794
+2020-05-27,Supply Chain Staff,0.4684
+2020-05-27,Unassigned,0.5741
+2020-05-28,,0.2415
+2020-05-28,Customer Service,0.3686
+2020-05-28,Entertainment and Recreation,0.3124
+2020-05-28,Facilities/Constr,0.6970
+2020-05-28,Finance/Insurance,0.3909
+2020-05-28,Food & Beverage,0.4676
+2020-05-28,Healthcare,0.2625
+2020-05-28,Hospitality Staff,0.4749
+2020-05-28,Human Resources,0.2308
+2020-05-28,IT,0.1132
+2020-05-28,Manufacturing/Operations Staff,0.4560
+2020-05-28,Marketing/Advertising,0.3492
+2020-05-28,Product Management,0.3791
+2020-05-28,Retail Staff,0.3650
+2020-05-28,Sales,0.3558
+2020-05-28,Security,0.3311
+2020-05-28,Skilled Trades,0.4775
+2020-05-28,Supply Chain Staff,0.4728
+2020-05-28,Unassigned,0.5846
+2020-05-29,,0.2435
+2020-05-29,Customer Service,0.3598
+2020-05-29,Entertainment and Recreation,0.3159
+2020-05-29,Facilities/Constr,0.6668
+2020-05-29,Finance/Insurance,0.3906
+2020-05-29,Food & Beverage,0.4666
+2020-05-29,Healthcare,0.2608
+2020-05-29,Hospitality Staff,0.4665
+2020-05-29,Human Resources,0.2190
+2020-05-29,IT,0.1078
+2020-05-29,Manufacturing/Operations Staff,0.4436
+2020-05-29,Marketing/Advertising,0.3347
+2020-05-29,Product Management,0.3641
+2020-05-29,Retail Staff,0.3541
+2020-05-29,Sales,0.3529
+2020-05-29,Security,0.3009
+2020-05-29,Skilled Trades,0.4753
+2020-05-29,Supply Chain Staff,0.4721
+2020-05-29,Unassigned,0.5947
+2020-05-30,,0.2337
+2020-05-30,Customer Service,0.3518
+2020-05-30,Entertainment and Recreation,0.3145
+2020-05-30,Facilities/Constr,0.6305
+2020-05-30,Finance/Insurance,0.3880
+2020-05-30,Food & Beverage,0.4523
+2020-05-30,Healthcare,0.2594
+2020-05-30,Hospitality Staff,0.4409
+2020-05-30,Human Resources,0.2099
+2020-05-30,IT,0.1046
+2020-05-30,Manufacturing/Operations Staff,0.4277
+2020-05-30,Marketing/Advertising,0.3189
+2020-05-30,Product Management,0.3539
+2020-05-30,Retail Staff,0.3384
+2020-05-30,Sales,0.3479
+2020-05-30,Security,0.2886
+2020-05-30,Skilled Trades,0.4684
+2020-05-30,Supply Chain Staff,0.4678
+2020-05-30,Unassigned,0.6022
+2020-05-31,,0.2252
+2020-05-31,Customer Service,0.3366
+2020-05-31,Entertainment and Recreation,0.3025
+2020-05-31,Facilities/Constr,0.5974
+2020-05-31,Finance/Insurance,0.3723
+2020-05-31,Food & Beverage,0.4220
+2020-05-31,Healthcare,0.2504
+2020-05-31,Hospitality Staff,0.4055
+2020-05-31,Human Resources,0.2017
+2020-05-31,IT,0.1016
+2020-05-31,Manufacturing/Operations Staff,0.4115
+2020-05-31,Marketing/Advertising,0.3015
+2020-05-31,Product Management,0.3423
+2020-05-31,Retail Staff,0.3183
+2020-05-31,Sales,0.3357
+2020-05-31,Security,0.2731
+2020-05-31,Skilled Trades,0.4534
+2020-05-31,Supply Chain Staff,0.4477
+2020-05-31,Unassigned,0.5767
+2020-06-01,,0.2191
+2020-06-01,Customer Service,0.3173
+2020-06-01,Entertainment and Recreation,0.2890
+2020-06-01,Facilities/Constr,0.5555
+2020-06-01,Finance/Insurance,0.3451
+2020-06-01,Food & Beverage,0.3944
+2020-06-01,Healthcare,0.2402
+2020-06-01,Hospitality Staff,0.3767
+2020-06-01,Human Resources,0.1933
+2020-06-01,IT,0.0954
+2020-06-01,Manufacturing/Operations Staff,0.3868
+2020-06-01,Marketing/Advertising,0.2740
+2020-06-01,Product Management,0.3241
+2020-06-01,Retail Staff,0.2953
+2020-06-01,Sales,0.3153
+2020-06-01,Security,0.2640
+2020-06-01,Skilled Trades,0.4353
+2020-06-01,Supply Chain Staff,0.4215
+2020-06-01,Unassigned,0.5471
+2020-06-02,,0.2153
+2020-06-02,Customer Service,0.2986
+2020-06-02,Entertainment and Recreation,0.2690
+2020-06-02,Facilities/Constr,0.4900
+2020-06-02,Finance/Insurance,0.3000
+2020-06-02,Food & Beverage,0.3809
+2020-06-02,Healthcare,0.2369
+2020-06-02,Hospitality Staff,0.3600
+2020-06-02,Human Resources,0.1806
+2020-06-02,IT,0.0833
+2020-06-02,Manufacturing/Operations Staff,0.3363
+2020-06-02,Marketing/Advertising,0.2410
+2020-06-02,Product Management,0.2918
+2020-06-02,Retail Staff,0.2772
+2020-06-02,Sales,0.2789
+2020-06-02,Security,0.2468
+2020-06-02,Skilled Trades,0.3931
+2020-06-02,Supply Chain Staff,0.3708
+2020-06-02,Unassigned,0.5052
+2020-06-03,,0.2305
+2020-06-03,Customer Service,0.3539
+2020-06-03,Entertainment and Recreation,0.3030
+2020-06-03,Facilities/Constr,0.5600
+2020-06-03,Finance/Insurance,0.3355
+2020-06-03,Food & Beverage,0.4178
+2020-06-03,Healthcare,0.2348
+2020-06-03,Hospitality Staff,0.3827
+2020-06-03,Human Resources,0.2166
+2020-06-03,IT,0.0975
+2020-06-03,Manufacturing/Operations Staff,0.3982
+2020-06-03,Marketing/Advertising,0.2858
+2020-06-03,Product Management,0.3194
+2020-06-03,Retail Staff,0.3257
+2020-06-03,Sales,0.3254
+2020-06-03,Security,0.3004
+2020-06-03,Skilled Trades,0.4616
+2020-06-03,Supply Chain Staff,0.4351
+2020-06-03,Unassigned,0.6555
+2020-06-04,,0.2262
+2020-06-04,Customer Service,0.3639
+2020-06-04,Entertainment and Recreation,0.3048
+2020-06-04,Facilities/Constr,0.5398
+2020-06-04,Finance/Insurance,0.3314
+2020-06-04,Food & Beverage,0.4281
+2020-06-04,Healthcare,0.2090
+2020-06-04,Hospitality Staff,0.3796
+2020-06-04,Human Resources,0.2035
+2020-06-04,IT,0.1009
+2020-06-04,Manufacturing/Operations Staff,0.4005
+2020-06-04,Marketing/Advertising,0.2934
+2020-06-04,Product Management,0.2899
+2020-06-04,Retail Staff,0.3335
+2020-06-04,Sales,0.3300
+2020-06-04,Security,0.3113
+2020-06-04,Skilled Trades,0.4682
+2020-06-04,Supply Chain Staff,0.4328
+2020-06-04,Unassigned,0.6624
+2020-06-05,,0.2414
+2020-06-05,Customer Service,0.3813
+2020-06-05,Entertainment and Recreation,0.3189
+2020-06-05,Facilities/Constr,0.5909
+2020-06-05,Finance/Insurance,0.3367
+2020-06-05,Food & Beverage,0.4474
+2020-06-05,Healthcare,0.2021
+2020-06-05,Hospitality Staff,0.4065
+2020-06-05,Human Resources,0.2217
+2020-06-05,IT,0.1071
+2020-06-05,Manufacturing/Operations Staff,0.4236
+2020-06-05,Marketing/Advertising,0.3194
+2020-06-05,Product Management,0.2799
+2020-06-05,Retail Staff,0.3535
+2020-06-05,Sales,0.3446
+2020-06-05,Security,0.3509
+2020-06-05,Skilled Trades,0.4952
+2020-06-05,Supply Chain Staff,0.4457
+2020-06-05,Unassigned,0.6737
+2020-06-06,,0.2630
+2020-06-06,Customer Service,0.3994
+2020-06-06,Entertainment and Recreation,0.3346
+2020-06-06,Facilities/Constr,0.6420
+2020-06-06,Finance/Insurance,0.3486
+2020-06-06,Food & Beverage,0.4807
+2020-06-06,Healthcare,0.1973
+2020-06-06,Hospitality Staff,0.4397
+2020-06-06,Human Resources,0.2339
+2020-06-06,IT,0.1141
+2020-06-06,Manufacturing/Operations Staff,0.4471
+2020-06-06,Marketing/Advertising,0.3434
+2020-06-06,Product Management,0.2932
+2020-06-06,Retail Staff,0.3800
+2020-06-06,Sales,0.3650
+2020-06-06,Security,0.3719
+2020-06-06,Skilled Trades,0.5166
+2020-06-06,Supply Chain Staff,0.4578
+2020-06-06,Unassigned,0.6861
+2020-06-07,,0.2751
+2020-06-07,Customer Service,0.4210
+2020-06-07,Entertainment and Recreation,0.3533
+2020-06-07,Facilities/Constr,0.6810
+2020-06-07,Finance/Insurance,0.3706
+2020-06-07,Food & Beverage,0.5198
+2020-06-07,Healthcare,0.2061
+2020-06-07,Hospitality Staff,0.4732
+2020-06-07,Human Resources,0.2450
+2020-06-07,IT,0.1189
+2020-06-07,Manufacturing/Operations Staff,0.4703
+2020-06-07,Marketing/Advertising,0.3671
+2020-06-07,Product Management,0.3061
+2020-06-07,Retail Staff,0.4104
+2020-06-07,Sales,0.3843
+2020-06-07,Security,0.3888
+2020-06-07,Skilled Trades,0.5386
+2020-06-07,Supply Chain Staff,0.4796
+2020-06-07,Unassigned,0.7260
+2020-06-08,,0.2952
+2020-06-08,Customer Service,0.4711
+2020-06-08,Entertainment and Recreation,0.4056
+2020-06-08,Facilities/Constr,0.7760
+2020-06-08,Finance/Insurance,0.4278
+2020-06-08,Food & Beverage,0.5746
+2020-06-08,Healthcare,0.2202
+2020-06-08,Hospitality Staff,0.5358
+2020-06-08,Human Resources,0.2729
+2020-06-08,IT,0.1363
+2020-06-08,Manufacturing/Operations Staff,0.5407
+2020-06-08,Marketing/Advertising,0.4201
+2020-06-08,Product Management,0.3607
+2020-06-08,Retail Staff,0.4589
+2020-06-08,Sales,0.4411
+2020-06-08,Security,0.4301
+2020-06-08,Skilled Trades,0.6044
+2020-06-08,Supply Chain Staff,0.5416
+2020-06-08,Unassigned,0.7307
+2020-06-09,,0.3243
+2020-06-09,Customer Service,0.5199
+2020-06-09,Entertainment and Recreation,0.4483
+2020-06-09,Facilities/Constr,0.8872
+2020-06-09,Finance/Insurance,0.4977
+2020-06-09,Food & Beverage,0.6323
+2020-06-09,Healthcare,0.2465
+2020-06-09,Hospitality Staff,0.5762
+2020-06-09,Human Resources,0.3106
+2020-06-09,IT,0.1516
+2020-06-09,Manufacturing/Operations Staff,0.6295
+2020-06-09,Marketing/Advertising,0.4753
+2020-06-09,Product Management,0.4392
+2020-06-09,Retail Staff,0.5209
+2020-06-09,Sales,0.4959
+2020-06-09,Security,0.4999
+2020-06-09,Skilled Trades,0.7048
+2020-06-09,Supply Chain Staff,0.6473
+2020-06-09,Unassigned,0.7196
+2020-06-10,,0.3075
+2020-06-10,Customer Service,0.4687
+2020-06-10,Entertainment and Recreation,0.4266
+2020-06-10,Facilities/Constr,0.8393
+2020-06-10,Finance/Insurance,0.4716
+2020-06-10,Food & Beverage,0.6030
+2020-06-10,Healthcare,0.2513
+2020-06-10,Hospitality Staff,0.5520
+2020-06-10,Human Resources,0.2818
+2020-06-10,IT,0.1393
+2020-06-10,Manufacturing/Operations Staff,0.5883
+2020-06-10,Marketing/Advertising,0.4473
+2020-06-10,Product Management,0.4321
+2020-06-10,Retail Staff,0.4799
+2020-06-10,Sales,0.4541
+2020-06-10,Security,0.4662
+2020-06-10,Skilled Trades,0.6589
+2020-06-10,Supply Chain Staff,0.5978
+2020-06-10,Unassigned,0.4732
+2020-06-11,,0.3065
+2020-06-11,Customer Service,0.4723
+2020-06-11,Entertainment and Recreation,0.4333
+2020-06-11,Facilities/Constr,0.8436
+2020-06-11,Finance/Insurance,0.4734
+2020-06-11,Food & Beverage,0.6126
+2020-06-11,Healthcare,0.2572
+2020-06-11,Hospitality Staff,0.5635
+2020-06-11,Human Resources,0.2922
+2020-06-11,IT,0.1419
+2020-06-11,Manufacturing/Operations Staff,0.5900
+2020-06-11,Marketing/Advertising,0.4475
+2020-06-11,Product Management,0.4557
+2020-06-11,Retail Staff,0.4840
+2020-06-11,Sales,0.4637
+2020-06-11,Security,0.4685
+2020-06-11,Skilled Trades,0.6690
+2020-06-11,Supply Chain Staff,0.6129
+2020-06-11,Unassigned,0.3596
+2020-06-12,,0.3100
+2020-06-12,Customer Service,0.4804
+2020-06-12,Entertainment and Recreation,0.4379
+2020-06-12,Facilities/Constr,0.8349
+2020-06-12,Finance/Insurance,0.4751
+2020-06-12,Food & Beverage,0.6262
+2020-06-12,Healthcare,0.2552
+2020-06-12,Hospitality Staff,0.5685
+2020-06-12,Human Resources,0.2824
+2020-06-12,IT,0.1431
+2020-06-12,Manufacturing/Operations Staff,0.5921
+2020-06-12,Marketing/Advertising,0.4554
+2020-06-12,Product Management,0.4888
+2020-06-12,Retail Staff,0.4957
+2020-06-12,Sales,0.4661
+2020-06-12,Security,0.4699
+2020-06-12,Skilled Trades,0.6697
+2020-06-12,Supply Chain Staff,0.6205
+2020-06-12,Unassigned,0.2553
+2020-06-13,,0.3187
+2020-06-13,Customer Service,0.4849
+2020-06-13,Entertainment and Recreation,0.4425
+2020-06-13,Facilities/Constr,0.8425
+2020-06-13,Finance/Insurance,0.4767
+2020-06-13,Food & Beverage,0.6318
+2020-06-13,Healthcare,0.2613
+2020-06-13,Hospitality Staff,0.5714
+2020-06-13,Human Resources,0.2833
+2020-06-13,IT,0.1432
+2020-06-13,Manufacturing/Operations Staff,0.5961
+2020-06-13,Marketing/Advertising,0.4564
+2020-06-13,Product Management,0.5038
+2020-06-13,Retail Staff,0.5010
+2020-06-13,Sales,0.4611
+2020-06-13,Security,0.4783
+2020-06-13,Skilled Trades,0.6740
+2020-06-13,Supply Chain Staff,0.6254
+2020-06-13,Unassigned,0.1872
+2020-06-14,,0.3199
+2020-06-14,Customer Service,0.4839
+2020-06-14,Entertainment and Recreation,0.4438
+2020-06-14,Facilities/Constr,0.8407
+2020-06-14,Finance/Insurance,0.4742
+2020-06-14,Food & Beverage,0.6349
+2020-06-14,Healthcare,0.2677
+2020-06-14,Hospitality Staff,0.5709
+2020-06-14,Human Resources,0.2833
+2020-06-14,IT,0.1431
+2020-06-14,Manufacturing/Operations Staff,0.5951
+2020-06-14,Marketing/Advertising,0.4550
+2020-06-14,Product Management,0.5052
+2020-06-14,Retail Staff,0.4952
+2020-06-14,Sales,0.4591
+2020-06-14,Security,0.4767
+2020-06-14,Skilled Trades,0.6733
+2020-06-14,Supply Chain Staff,0.6271
+2020-06-14,Unassigned,0.1516
+2020-06-15,,0.3279
+2020-06-15,Customer Service,0.4860
+2020-06-15,Entertainment and Recreation,0.4460
+2020-06-15,Facilities/Constr,0.8440
+2020-06-15,Finance/Insurance,0.4722
+2020-06-15,Food & Beverage,0.6422
+2020-06-15,Healthcare,0.2771
+2020-06-15,Hospitality Staff,0.5806
+2020-06-15,Human Resources,0.2921
+2020-06-15,IT,0.1429
+2020-06-15,Manufacturing/Operations Staff,0.5955
+2020-06-15,Marketing/Advertising,0.4568
+2020-06-15,Product Management,0.5080
+2020-06-15,Retail Staff,0.4925
+2020-06-15,Sales,0.4589
+2020-06-15,Security,0.4794
+2020-06-15,Skilled Trades,0.6778
+2020-06-15,Supply Chain Staff,0.6302
+2020-06-15,Unassigned,0.1516
+2020-06-16,,0.3322
+2020-06-16,Customer Service,0.4973
+2020-06-16,Entertainment and Recreation,0.4595
+2020-06-16,Facilities/Constr,0.8408
+2020-06-16,Finance/Insurance,0.4686
+2020-06-16,Food & Beverage,0.6533
+2020-06-16,Healthcare,0.2568
+2020-06-16,Hospitality Staff,0.5897
+2020-06-16,Human Resources,0.2931
+2020-06-16,IT,0.1475
+2020-06-16,Manufacturing/Operations Staff,0.5971
+2020-06-16,Marketing/Advertising,0.4709
+2020-06-16,Product Management,0.5201
+2020-06-16,Retail Staff,0.4899
+2020-06-16,Sales,0.4786
+2020-06-16,Security,0.4829
+2020-06-16,Skilled Trades,0.6835
+2020-06-16,Supply Chain Staff,0.6321
+2020-06-16,Unassigned,0.1519
+2020-06-17,,0.3457
+2020-06-17,Customer Service,0.4980
+2020-06-17,Entertainment and Recreation,0.4605
+2020-06-17,Facilities/Constr,0.8312
+2020-06-17,Finance/Insurance,0.4637
+2020-06-17,Food & Beverage,0.6611
+2020-06-17,Healthcare,0.2446
+2020-06-17,Hospitality Staff,0.5958
+2020-06-17,Human Resources,0.2996
+2020-06-17,IT,0.1481
+2020-06-17,Manufacturing/Operations Staff,0.5952
+2020-06-17,Marketing/Advertising,0.4740
+2020-06-17,Product Management,0.5072
+2020-06-17,Retail Staff,0.4922
+2020-06-17,Sales,0.4892
+2020-06-17,Security,0.4894
+2020-06-17,Skilled Trades,0.6901
+2020-06-17,Supply Chain Staff,0.6443
+2020-06-17,Unassigned,0.1527
+2020-06-18,,0.3629
+2020-06-18,Customer Service,0.4854
+2020-06-18,Entertainment and Recreation,0.4519
+2020-06-18,Facilities/Constr,0.8114
+2020-06-18,Finance/Insurance,0.4565
+2020-06-18,Food & Beverage,0.6576
+2020-06-18,Healthcare,0.2568
+2020-06-18,Hospitality Staff,0.5984
+2020-06-18,Human Resources,0.2965
+2020-06-18,IT,0.1441
+2020-06-18,Manufacturing/Operations Staff,0.5885
+2020-06-18,Marketing/Advertising,0.4663
+2020-06-18,Product Management,0.4959
+2020-06-18,Retail Staff,0.4840
+2020-06-18,Sales,0.4745
+2020-06-18,Security,0.4958
+2020-06-18,Skilled Trades,0.6795
+2020-06-18,Supply Chain Staff,0.6337
+2020-06-18,Unassigned,0.1524
+2020-06-19,,0.3568
+2020-06-19,Customer Service,0.4851
+2020-06-19,Entertainment and Recreation,0.4438
+2020-06-19,Facilities/Constr,0.7811
+2020-06-19,Finance/Insurance,0.4515
+2020-06-19,Food & Beverage,0.6732
+2020-06-19,Healthcare,0.2479
+2020-06-19,Hospitality Staff,0.6135
+2020-06-19,Human Resources,0.3008
+2020-06-19,IT,0.1408
+2020-06-19,Manufacturing/Operations Staff,0.5822
+2020-06-19,Marketing/Advertising,0.4558
+2020-06-19,Product Management,0.4794
+2020-06-19,Retail Staff,0.4910
+2020-06-19,Sales,0.4706
+2020-06-19,Security,0.4862
+2020-06-19,Skilled Trades,0.6709
+2020-06-19,Supply Chain Staff,0.6099
+2020-06-19,Unassigned,0.1543
+2020-06-20,,0.3524
+2020-06-20,Customer Service,0.5034
+2020-06-20,Entertainment and Recreation,0.4531
+2020-06-20,Facilities/Constr,0.7630
+2020-06-20,Finance/Insurance,0.4531
+2020-06-20,Food & Beverage,0.7305
+2020-06-20,Healthcare,0.2509
+2020-06-20,Hospitality Staff,0.6366
+2020-06-20,Human Resources,0.3052
+2020-06-20,IT,0.1400
+2020-06-20,Manufacturing/Operations Staff,0.5878
+2020-06-20,Marketing/Advertising,0.4677
+2020-06-20,Product Management,0.4870
+2020-06-20,Retail Staff,0.5241
+2020-06-20,Sales,0.4718
+2020-06-20,Security,0.4763
+2020-06-20,Skilled Trades,0.6703
+2020-06-20,Supply Chain Staff,0.6117
+2020-06-20,Unassigned,0.1603
+2020-06-21,,0.3515
+2020-06-21,Customer Service,0.5242
+2020-06-21,Entertainment and Recreation,0.4607
+2020-06-21,Facilities/Constr,0.7588
+2020-06-21,Finance/Insurance,0.4576
+2020-06-21,Food & Beverage,0.7822
+2020-06-21,Healthcare,0.2451
+2020-06-21,Hospitality Staff,0.6496
+2020-06-21,Human Resources,0.3083
+2020-06-21,IT,0.1396
+2020-06-21,Manufacturing/Operations Staff,0.5855
+2020-06-21,Marketing/Advertising,0.4816
+2020-06-21,Product Management,0.5066
+2020-06-21,Retail Staff,0.5528
+2020-06-21,Sales,0.4800
+2020-06-21,Security,0.4762
+2020-06-21,Skilled Trades,0.6666
+2020-06-21,Supply Chain Staff,0.6146
+2020-06-21,Unassigned,0.1658
+2020-06-22,,0.3499
+2020-06-22,Customer Service,0.5280
+2020-06-22,Entertainment and Recreation,0.4658
+2020-06-22,Facilities/Constr,0.7479
+2020-06-22,Finance/Insurance,0.4559
+2020-06-22,Food & Beverage,0.7976
+2020-06-22,Healthcare,0.2538
+2020-06-22,Hospitality Staff,0.6529
+2020-06-22,Human Resources,0.3018
+2020-06-22,IT,0.1374
+2020-06-22,Manufacturing/Operations Staff,0.5914
+2020-06-22,Marketing/Advertising,0.4858
+2020-06-22,Product Management,0.5020
+2020-06-22,Retail Staff,0.5592
+2020-06-22,Sales,0.4799
+2020-06-22,Security,0.4735
+2020-06-22,Skilled Trades,0.6681
+2020-06-22,Supply Chain Staff,0.6186
+2020-06-22,Unassigned,0.1676
+2020-06-23,,0.3475
+2020-06-23,Customer Service,0.5297
+2020-06-23,Entertainment and Recreation,0.4656
+2020-06-23,Facilities/Constr,0.7296
+2020-06-23,Finance/Insurance,0.4534
+2020-06-23,Food & Beverage,0.7902
+2020-06-23,Healthcare,0.2414
+2020-06-23,Hospitality Staff,0.6371
+2020-06-23,Human Resources,0.3004
+2020-06-23,IT,0.1394
+2020-06-23,Manufacturing/Operations Staff,0.5850
+2020-06-23,Marketing/Advertising,0.4854
+2020-06-23,Product Management,0.4858
+2020-06-23,Retail Staff,0.5611
+2020-06-23,Sales,0.4771
+2020-06-23,Security,0.4713
+2020-06-23,Skilled Trades,0.6597
+2020-06-23,Supply Chain Staff,0.5863
+2020-06-23,Unassigned,0.1665
+2020-06-24,,0.3548
+2020-06-24,Customer Service,0.5319
+2020-06-24,Entertainment and Recreation,0.4705
+2020-06-24,Facilities/Constr,0.7273
+2020-06-24,Finance/Insurance,0.4490
+2020-06-24,Food & Beverage,0.7970
+2020-06-24,Healthcare,0.2399
+2020-06-24,Hospitality Staff,0.6448
+2020-06-24,Human Resources,0.3024
+2020-06-24,IT,0.1409
+2020-06-24,Manufacturing/Operations Staff,0.5899
+2020-06-24,Marketing/Advertising,0.4879
+2020-06-24,Product Management,0.4970
+2020-06-24,Retail Staff,0.5624
+2020-06-24,Sales,0.4734
+2020-06-24,Security,0.4562
+2020-06-24,Skilled Trades,0.6617
+2020-06-24,Supply Chain Staff,0.5812
+2020-06-24,Unassigned,0.1663
+2020-06-25,,0.3568
+2020-06-25,Customer Service,0.5453
+2020-06-25,Entertainment and Recreation,0.4834
+2020-06-25,Facilities/Constr,0.7407
+2020-06-25,Finance/Insurance,0.4539
+2020-06-25,Food & Beverage,0.7969
+2020-06-25,Healthcare,0.2427
+2020-06-25,Hospitality Staff,0.6476
+2020-06-25,Human Resources,0.3069
+2020-06-25,IT,0.1424
+2020-06-25,Manufacturing/Operations Staff,0.6003
+2020-06-25,Marketing/Advertising,0.5053
+2020-06-25,Product Management,0.5277
+2020-06-25,Retail Staff,0.5737
+2020-06-25,Sales,0.4841
+2020-06-25,Security,0.4597
+2020-06-25,Skilled Trades,0.6712
+2020-06-25,Supply Chain Staff,0.5751
+2020-06-25,Unassigned,0.1663
+2020-06-26,,0.3501
+2020-06-26,Customer Service,0.5453
+2020-06-26,Entertainment and Recreation,0.5027
+2020-06-26,Facilities/Constr,0.7593
+2020-06-26,Finance/Insurance,0.4602
+2020-06-26,Food & Beverage,0.7816
+2020-06-26,Healthcare,0.2575
+2020-06-26,Hospitality Staff,0.6426
+2020-06-26,Human Resources,0.3131
+2020-06-26,IT,0.1499
+2020-06-26,Manufacturing/Operations Staff,0.6082
+2020-06-26,Marketing/Advertising,0.5213
+2020-06-26,Product Management,0.5487
+2020-06-26,Retail Staff,0.5636
+2020-06-26,Sales,0.4946
+2020-06-26,Security,0.4803
+2020-06-26,Skilled Trades,0.6818
+2020-06-26,Supply Chain Staff,0.6008
+2020-06-26,Unassigned,0.1642
+2020-06-27,,0.3548
+2020-06-27,Customer Service,0.5258
+2020-06-27,Entertainment and Recreation,0.4921
+2020-06-27,Facilities/Constr,0.7613
+2020-06-27,Finance/Insurance,0.4570
+2020-06-27,Food & Beverage,0.7214
+2020-06-27,Healthcare,0.2657
+2020-06-27,Hospitality Staff,0.6198
+2020-06-27,Human Resources,0.3072
+2020-06-27,IT,0.1502
+2020-06-27,Manufacturing/Operations Staff,0.6043
+2020-06-27,Marketing/Advertising,0.5110
+2020-06-27,Product Management,0.5355
+2020-06-27,Retail Staff,0.5327
+2020-06-27,Sales,0.4946
+2020-06-27,Security,0.4881
+2020-06-27,Skilled Trades,0.6839
+2020-06-27,Supply Chain Staff,0.6075
+2020-06-27,Unassigned,0.1574
+2020-06-28,,0.3612
+2020-06-28,Customer Service,0.5072
+2020-06-28,Entertainment and Recreation,0.4835
+2020-06-28,Facilities/Constr,0.7626
+2020-06-28,Finance/Insurance,0.4513
+2020-06-28,Food & Beverage,0.6684
+2020-06-28,Healthcare,0.2695
+2020-06-28,Hospitality Staff,0.6064
+2020-06-28,Human Resources,0.3034
+2020-06-28,IT,0.1501
+2020-06-28,Manufacturing/Operations Staff,0.6091
+2020-06-28,Marketing/Advertising,0.4967
+2020-06-28,Product Management,0.5171
+2020-06-28,Retail Staff,0.5065
+2020-06-28,Sales,0.4893
+2020-06-28,Security,0.4897
+2020-06-28,Skilled Trades,0.6928
+2020-06-28,Supply Chain Staff,0.6078
+2020-06-28,Unassigned,0.1523
+2020-06-29,,0.3698
+2020-06-29,Customer Service,0.5037
+2020-06-29,Entertainment and Recreation,0.4722
+2020-06-29,Facilities/Constr,0.7611
+2020-06-29,Finance/Insurance,0.4526
+2020-06-29,Food & Beverage,0.6547
+2020-06-29,Healthcare,0.2763
+2020-06-29,Hospitality Staff,0.6019
+2020-06-29,Human Resources,0.3050
+2020-06-29,IT,0.1509
+2020-06-29,Manufacturing/Operations Staff,0.6080
+2020-06-29,Marketing/Advertising,0.4856
+2020-06-29,Product Management,0.5122
+2020-06-29,Retail Staff,0.5033
+2020-06-29,Sales,0.4898
+2020-06-29,Security,0.4894
+2020-06-29,Skilled Trades,0.6943
+2020-06-29,Supply Chain Staff,0.6085
+2020-06-29,Unassigned,0.1516
+2020-06-30,,0.3684
+2020-06-30,Customer Service,0.5044
+2020-06-30,Entertainment and Recreation,0.4683
+2020-06-30,Facilities/Constr,0.7574
+2020-06-30,Finance/Insurance,0.4641
+2020-06-30,Food & Beverage,0.6484
+2020-06-30,Healthcare,0.3017
+2020-06-30,Hospitality Staff,0.6193
+2020-06-30,Human Resources,0.3041
+2020-06-30,IT,0.1494
+2020-06-30,Manufacturing/Operations Staff,0.6101
+2020-06-30,Marketing/Advertising,0.4813
+2020-06-30,Product Management,0.5112
+2020-06-30,Retail Staff,0.5092
+2020-06-30,Sales,0.4898
+2020-06-30,Security,0.4942
+2020-06-30,Skilled Trades,0.6892
+2020-06-30,Supply Chain Staff,0.6178
+2020-06-30,Unassigned,0.1524
+2020-07-01,,0.3591
+2020-07-01,Customer Service,0.5319
+2020-07-01,Entertainment and Recreation,0.4863
+2020-07-01,Facilities/Constr,0.7960
+2020-07-01,Finance/Insurance,0.5010
+2020-07-01,Food & Beverage,0.6698
+2020-07-01,Healthcare,0.3122
+2020-07-01,Hospitality Staff,0.6329
+2020-07-01,Human Resources,0.3147
+2020-07-01,IT,0.1595
+2020-07-01,Manufacturing/Operations Staff,0.6246
+2020-07-01,Marketing/Advertising,0.5078
+2020-07-01,Product Management,0.5301
+2020-07-01,Retail Staff,0.5321
+2020-07-01,Sales,0.5179
+2020-07-01,Security,0.5422
+2020-07-01,Skilled Trades,0.7130
+2020-07-01,Supply Chain Staff,0.6441
+2020-07-01,Unassigned,0.1618
+2020-07-02,,0.3827
+2020-07-02,Customer Service,0.5486
+2020-07-02,Entertainment and Recreation,0.4920
+2020-07-02,Facilities/Constr,0.8263
+2020-07-02,Finance/Insurance,0.5218
+2020-07-02,Food & Beverage,0.6765
+2020-07-02,Healthcare,0.3359
+2020-07-02,Hospitality Staff,0.6395
+2020-07-02,Human Resources,0.3265
+2020-07-02,IT,0.1639
+2020-07-02,Manufacturing/Operations Staff,0.6339
+2020-07-02,Marketing/Advertising,0.5116
+2020-07-02,Product Management,0.5369
+2020-07-02,Retail Staff,0.5421
+2020-07-02,Sales,0.5300
+2020-07-02,Security,0.5583
+2020-07-02,Skilled Trades,0.7310
+2020-07-02,Supply Chain Staff,0.6718
+2020-07-02,Unassigned,0.1696
+2020-07-03,,0.3827
+2020-07-03,Customer Service,0.5359
+2020-07-03,Entertainment and Recreation,0.4551
+2020-07-03,Facilities/Constr,0.8005
+2020-07-03,Finance/Insurance,0.5079
+2020-07-03,Food & Beverage,0.6561
+2020-07-03,Healthcare,0.3355
+2020-07-03,Hospitality Staff,0.6120
+2020-07-03,Human Resources,0.3146
+2020-07-03,IT,0.1519
+2020-07-03,Manufacturing/Operations Staff,0.5955
+2020-07-03,Marketing/Advertising,0.4959
+2020-07-03,Product Management,0.5162
+2020-07-03,Retail Staff,0.5364
+2020-07-03,Sales,0.5069
+2020-07-03,Security,0.5356
+2020-07-03,Skilled Trades,0.6897
+2020-07-03,Supply Chain Staff,0.6462
+2020-07-03,Unassigned,0.1663
+2020-07-04,,0.3657
+2020-07-04,Customer Service,0.5106
+2020-07-04,Entertainment and Recreation,0.4315
+2020-07-04,Facilities/Constr,0.7567
+2020-07-04,Finance/Insurance,0.4836
+2020-07-04,Food & Beverage,0.6229
+2020-07-04,Healthcare,0.3144
+2020-07-04,Hospitality Staff,0.5886
+2020-07-04,Human Resources,0.2989
+2020-07-04,IT,0.1417
+2020-07-04,Manufacturing/Operations Staff,0.5574
+2020-07-04,Marketing/Advertising,0.4736
+2020-07-04,Product Management,0.4782
+2020-07-04,Retail Staff,0.5098
+2020-07-04,Sales,0.4806
+2020-07-04,Security,0.5049
+2020-07-04,Skilled Trades,0.6478
+2020-07-04,Supply Chain Staff,0.6048
+2020-07-04,Unassigned,0.1586
+2020-07-05,,0.3653
+2020-07-05,Customer Service,0.5064
+2020-07-05,Entertainment and Recreation,0.4271
+2020-07-05,Facilities/Constr,0.7502
+2020-07-05,Finance/Insurance,0.4839
+2020-07-05,Food & Beverage,0.6122
+2020-07-05,Healthcare,0.3134
+2020-07-05,Hospitality Staff,0.5840
+2020-07-05,Human Resources,0.2976
+2020-07-05,IT,0.1413
+2020-07-05,Manufacturing/Operations Staff,0.5490
+2020-07-05,Marketing/Advertising,0.4724
+2020-07-05,Product Management,0.4754
+2020-07-05,Retail Staff,0.5053
+2020-07-05,Sales,0.4783
+2020-07-05,Security,0.4960
+2020-07-05,Skilled Trades,0.6397
+2020-07-05,Supply Chain Staff,0.5974
+2020-07-05,Unassigned,0.1583
+2020-07-06,,0.3770
+2020-07-06,Customer Service,0.4964
+2020-07-06,Entertainment and Recreation,0.4131
+2020-07-06,Facilities/Constr,0.7038
+2020-07-06,Finance/Insurance,0.4913
+2020-07-06,Food & Beverage,0.5907
+2020-07-06,Healthcare,0.3172
+2020-07-06,Hospitality Staff,0.5491
+2020-07-06,Human Resources,0.3043
+2020-07-06,IT,0.1432
+2020-07-06,Manufacturing/Operations Staff,0.5201
+2020-07-06,Marketing/Advertising,0.4732
+2020-07-06,Product Management,0.4861
+2020-07-06,Retail Staff,0.5034
+2020-07-06,Sales,0.4678
+2020-07-06,Security,0.5153
+2020-07-06,Skilled Trades,0.6183
+2020-07-06,Supply Chain Staff,0.5855
+2020-07-06,Unassigned,0.1628
+2020-07-07,,0.4228
+2020-07-07,Customer Service,0.4958
+2020-07-07,Entertainment and Recreation,0.3922
+2020-07-07,Facilities/Constr,0.6643
+2020-07-07,Finance/Insurance,0.5001
+2020-07-07,Food & Beverage,0.5821
+2020-07-07,Healthcare,0.3356
+2020-07-07,Hospitality Staff,0.5168
+2020-07-07,Human Resources,0.3159
+2020-07-07,IT,0.1467
+2020-07-07,Manufacturing/Operations Staff,0.4900
+2020-07-07,Marketing/Advertising,0.4783
+2020-07-07,Product Management,0.5176
+2020-07-07,Retail Staff,0.5190
+2020-07-07,Sales,0.4598
+2020-07-07,Security,0.5340
+2020-07-07,Skilled Trades,0.6030
+2020-07-07,Supply Chain Staff,0.5915
+2020-07-07,Unassigned,0.1731
+2020-07-08,,0.4868
+2020-07-08,Customer Service,0.4679
+2020-07-08,Entertainment and Recreation,0.3519
+2020-07-08,Facilities/Constr,0.5753
+2020-07-08,Finance/Insurance,0.4867
+2020-07-08,Food & Beverage,0.5369
+2020-07-08,Healthcare,0.3684
+2020-07-08,Hospitality Staff,0.4763
+2020-07-08,Human Resources,0.3185
+2020-07-08,IT,0.1401
+2020-07-08,Manufacturing/Operations Staff,0.4445
+2020-07-08,Marketing/Advertising,0.4468
+2020-07-08,Product Management,0.5163
+2020-07-08,Retail Staff,0.5084
+2020-07-08,Sales,0.4293
+2020-07-08,Security,0.5194
+2020-07-08,Skilled Trades,0.5613
+2020-07-08,Supply Chain Staff,0.5612
+2020-07-08,Unassigned,0.1757
+2020-07-09,,0.5306
+2020-07-09,Customer Service,0.4495
+2020-07-09,Entertainment and Recreation,0.3265
+2020-07-09,Facilities/Constr,0.4882
+2020-07-09,Finance/Insurance,0.4885
+2020-07-09,Food & Beverage,0.5156
+2020-07-09,Healthcare,0.3787
+2020-07-09,Hospitality Staff,0.4431
+2020-07-09,Human Resources,0.3236
+2020-07-09,IT,0.1437
+2020-07-09,Manufacturing/Operations Staff,0.4078
+2020-07-09,Marketing/Advertising,0.4384
+2020-07-09,Product Management,0.5296
+2020-07-09,Retail Staff,0.5013
+2020-07-09,Sales,0.4202
+2020-07-09,Security,0.5388
+2020-07-09,Skilled Trades,0.5331
+2020-07-09,Supply Chain Staff,0.5449
+2020-07-09,Unassigned,0.1821
+2020-07-10,,0.6091
+2020-07-10,Customer Service,0.4588
+2020-07-10,Entertainment and Recreation,0.3300
+2020-07-10,Facilities/Constr,0.4504
+2020-07-10,Finance/Insurance,0.5136
+2020-07-10,Food & Beverage,0.5144
+2020-07-10,Healthcare,0.4194
+2020-07-10,Hospitality Staff,0.4320
+2020-07-10,Human Resources,0.3587
+2020-07-10,IT,0.1564
+2020-07-10,Manufacturing/Operations Staff,0.4102
+2020-07-10,Marketing/Advertising,0.4474
+2020-07-10,Product Management,0.5682
+2020-07-10,Retail Staff,0.5103
+2020-07-10,Sales,0.4325
+2020-07-10,Security,0.5931
+2020-07-10,Skilled Trades,0.5569
+2020-07-10,Supply Chain Staff,0.5571
+2020-07-10,Unassigned,0.1980
+2020-07-11,,0.6594
+2020-07-11,Customer Service,0.4952
+2020-07-11,Entertainment and Recreation,0.3432
+2020-07-11,Facilities/Constr,0.4593
+2020-07-11,Finance/Insurance,0.5545
+2020-07-11,Food & Beverage,0.5348
+2020-07-11,Healthcare,0.4508
+2020-07-11,Hospitality Staff,0.4407
+2020-07-11,Human Resources,0.3890
+2020-07-11,IT,0.1690
+2020-07-11,Manufacturing/Operations Staff,0.4260
+2020-07-11,Marketing/Advertising,0.4744
+2020-07-11,Product Management,0.6144
+2020-07-11,Retail Staff,0.5351
+2020-07-11,Sales,0.4479
+2020-07-11,Security,0.6562
+2020-07-11,Skilled Trades,0.5904
+2020-07-11,Supply Chain Staff,0.5820
+2020-07-11,Unassigned,0.2130
+2020-07-12,,0.6692
+2020-07-12,Customer Service,0.4973
+2020-07-12,Entertainment and Recreation,0.3446
+2020-07-12,Facilities/Constr,0.4527
+2020-07-12,Finance/Insurance,0.5575
+2020-07-12,Food & Beverage,0.5370
+2020-07-12,Healthcare,0.4546
+2020-07-12,Hospitality Staff,0.4342
+2020-07-12,Human Resources,0.3929
+2020-07-12,IT,0.1701
+2020-07-12,Manufacturing/Operations Staff,0.4229
+2020-07-12,Marketing/Advertising,0.4805
+2020-07-12,Product Management,0.6168
+2020-07-12,Retail Staff,0.5356
+2020-07-12,Sales,0.4484
+2020-07-12,Security,0.6692
+2020-07-12,Skilled Trades,0.5938
+2020-07-12,Supply Chain Staff,0.5809
+2020-07-12,Unassigned,0.2152
+2020-07-13,,0.6735
+2020-07-13,Customer Service,0.5052
+2020-07-13,Entertainment and Recreation,0.3467
+2020-07-13,Facilities/Constr,0.4599
+2020-07-13,Finance/Insurance,0.5625
+2020-07-13,Food & Beverage,0.5387
+2020-07-13,Healthcare,0.4587
+2020-07-13,Hospitality Staff,0.4385
+2020-07-13,Human Resources,0.3991
+2020-07-13,IT,0.1718
+2020-07-13,Manufacturing/Operations Staff,0.4328
+2020-07-13,Marketing/Advertising,0.4829
+2020-07-13,Product Management,0.6337
+2020-07-13,Retail Staff,0.5342
+2020-07-13,Sales,0.4490
+2020-07-13,Security,0.6628
+2020-07-13,Skilled Trades,0.6001
+2020-07-13,Supply Chain Staff,0.5915
+2020-07-13,Unassigned,0.2174
+2020-07-14,,0.6954
+2020-07-14,Customer Service,0.5097
+2020-07-14,Entertainment and Recreation,0.3526
+2020-07-14,Facilities/Constr,0.4662
+2020-07-14,Finance/Insurance,0.5683
+2020-07-14,Food & Beverage,0.5408
+2020-07-14,Healthcare,0.4727
+2020-07-14,Hospitality Staff,0.4396
+2020-07-14,Human Resources,0.4066
+2020-07-14,IT,0.1710
+2020-07-14,Manufacturing/Operations Staff,0.4434
+2020-07-14,Marketing/Advertising,0.4798
+2020-07-14,Product Management,0.6363
+2020-07-14,Retail Staff,0.5301
+2020-07-14,Sales,0.4444
+2020-07-14,Security,0.6426
+2020-07-14,Skilled Trades,0.6177
+2020-07-14,Supply Chain Staff,0.5977
+2020-07-14,Unassigned,0.2198
+2020-07-15,,0.7008
+2020-07-15,Customer Service,0.5111
+2020-07-15,Entertainment and Recreation,0.3473
+2020-07-15,Facilities/Constr,0.4713
+2020-07-15,Finance/Insurance,0.5699
+2020-07-15,Food & Beverage,0.5434
+2020-07-15,Healthcare,0.4740
+2020-07-15,Hospitality Staff,0.4418
+2020-07-15,Human Resources,0.4026
+2020-07-15,IT,0.1740
+2020-07-15,Manufacturing/Operations Staff,0.4468
+2020-07-15,Marketing/Advertising,0.4779
+2020-07-15,Product Management,0.6365
+2020-07-15,Retail Staff,0.5287
+2020-07-15,Sales,0.4457
+2020-07-15,Security,0.6521
+2020-07-15,Skilled Trades,0.6206
+2020-07-15,Supply Chain Staff,0.5983
+2020-07-15,Unassigned,0.2215
+2020-07-16,,0.6921
+2020-07-16,Customer Service,0.5149
+2020-07-16,Entertainment and Recreation,0.3386
+2020-07-16,Facilities/Constr,0.4743
+2020-07-16,Finance/Insurance,0.5688
+2020-07-16,Food & Beverage,0.5411
+2020-07-16,Healthcare,0.4727
+2020-07-16,Hospitality Staff,0.4442
+2020-07-16,Human Resources,0.3981
+2020-07-16,IT,0.1719
+2020-07-16,Manufacturing/Operations Staff,0.4443
+2020-07-16,Marketing/Advertising,0.4726
+2020-07-16,Product Management,0.6268
+2020-07-16,Retail Staff,0.5302
+2020-07-16,Sales,0.4368
+2020-07-16,Security,0.6337
+2020-07-16,Skilled Trades,0.6165
+2020-07-16,Supply Chain Staff,0.5992
+2020-07-16,Unassigned,0.2216
+2020-07-17,,0.6869
+2020-07-17,Customer Service,0.5172
+2020-07-17,Entertainment and Recreation,0.3359
+2020-07-17,Facilities/Constr,0.4617
+2020-07-17,Finance/Insurance,0.5707
+2020-07-17,Food & Beverage,0.5401
+2020-07-17,Healthcare,0.4677
+2020-07-17,Hospitality Staff,0.4438
+2020-07-17,Human Resources,0.3880
+2020-07-17,IT,0.1733
+2020-07-17,Manufacturing/Operations Staff,0.4444
+2020-07-17,Marketing/Advertising,0.4717
+2020-07-17,Product Management,0.6230
+2020-07-17,Retail Staff,0.5232
+2020-07-17,Sales,0.4346
+2020-07-17,Security,0.6205
+2020-07-17,Skilled Trades,0.6086
+2020-07-17,Supply Chain Staff,0.6019
+2020-07-17,Unassigned,0.2217
+2020-07-18,,0.6909
+2020-07-18,Customer Service,0.4977
+2020-07-18,Entertainment and Recreation,0.3307
+2020-07-18,Facilities/Constr,0.4580
+2020-07-18,Finance/Insurance,0.5576
+2020-07-18,Food & Beverage,0.5398
+2020-07-18,Healthcare,0.4680
+2020-07-18,Hospitality Staff,0.4355
+2020-07-18,Human Resources,0.3828
+2020-07-18,IT,0.1723
+2020-07-18,Manufacturing/Operations Staff,0.4403
+2020-07-18,Marketing/Advertising,0.4689
+2020-07-18,Product Management,0.6205
+2020-07-18,Retail Staff,0.5124
+2020-07-18,Sales,0.4368
+2020-07-18,Security,0.6019
+2020-07-18,Skilled Trades,0.6068
+2020-07-18,Supply Chain Staff,0.6016
+2020-07-18,Unassigned,0.2206
+2020-07-19,,0.6942
+2020-07-19,Customer Service,0.5008
+2020-07-19,Entertainment and Recreation,0.3293
+2020-07-19,Facilities/Constr,0.4531
+2020-07-19,Finance/Insurance,0.5596
+2020-07-19,Food & Beverage,0.5440
+2020-07-19,Healthcare,0.4704
+2020-07-19,Hospitality Staff,0.4351
+2020-07-19,Human Resources,0.3848
+2020-07-19,IT,0.1724
+2020-07-19,Manufacturing/Operations Staff,0.4392
+2020-07-19,Marketing/Advertising,0.4699
+2020-07-19,Product Management,0.6263
+2020-07-19,Retail Staff,0.5215
+2020-07-19,Sales,0.4379
+2020-07-19,Security,0.6003
+2020-07-19,Skilled Trades,0.6068
+2020-07-19,Supply Chain Staff,0.6015
+2020-07-19,Unassigned,0.2221
+2020-07-20,,0.7053
+2020-07-20,Customer Service,0.4975
+2020-07-20,Entertainment and Recreation,0.3272
+2020-07-20,Facilities/Constr,0.4459
+2020-07-20,Finance/Insurance,0.5524
+2020-07-20,Food & Beverage,0.5427
+2020-07-20,Healthcare,0.4730
+2020-07-20,Hospitality Staff,0.4232
+2020-07-20,Human Resources,0.3809
+2020-07-20,IT,0.1706
+2020-07-20,Manufacturing/Operations Staff,0.4358
+2020-07-20,Marketing/Advertising,0.4710
+2020-07-20,Product Management,0.6046
+2020-07-20,Retail Staff,0.5207
+2020-07-20,Sales,0.4362
+2020-07-20,Security,0.6051
+2020-07-20,Skilled Trades,0.6080
+2020-07-20,Supply Chain Staff,0.6021
+2020-07-20,Unassigned,0.2209
+2020-07-21,,0.7051
+2020-07-21,Customer Service,0.5024
+2020-07-21,Entertainment and Recreation,0.3281
+2020-07-21,Facilities/Constr,0.4476
+2020-07-21,Finance/Insurance,0.5539
+2020-07-21,Food & Beverage,0.5490
+2020-07-21,Healthcare,0.4694
+2020-07-21,Hospitality Staff,0.4135
+2020-07-21,Human Resources,0.3776
+2020-07-21,IT,0.1763
+2020-07-21,Manufacturing/Operations Staff,0.4360
+2020-07-21,Marketing/Advertising,0.4747
+2020-07-21,Product Management,0.5991
+2020-07-21,Retail Staff,0.5129
+2020-07-21,Sales,0.4525
+2020-07-21,Security,0.6424
+2020-07-21,Skilled Trades,0.6054
+2020-07-21,Supply Chain Staff,0.6133
+2020-07-21,Unassigned,0.2233
+2020-07-22,,0.7034
+2020-07-22,Customer Service,0.5187
+2020-07-22,Entertainment and Recreation,0.3263
+2020-07-22,Facilities/Constr,0.4419
+2020-07-22,Finance/Insurance,0.5509
+2020-07-22,Food & Beverage,0.5554
+2020-07-22,Healthcare,0.4673
+2020-07-22,Hospitality Staff,0.3993
+2020-07-22,Human Resources,0.3793
+2020-07-22,IT,0.1720
+2020-07-22,Manufacturing/Operations Staff,0.4354
+2020-07-22,Marketing/Advertising,0.4804
+2020-07-22,Product Management,0.6053
+2020-07-22,Retail Staff,0.5094
+2020-07-22,Sales,0.4555
+2020-07-22,Security,0.6201
+2020-07-22,Skilled Trades,0.6081
+2020-07-22,Supply Chain Staff,0.6202
+2020-07-22,Unassigned,0.2234
+2020-07-23,,0.7070
+2020-07-23,Customer Service,0.5324
+2020-07-23,Entertainment and Recreation,0.3263
+2020-07-23,Facilities/Constr,0.4486
+2020-07-23,Finance/Insurance,0.5609
+2020-07-23,Food & Beverage,0.5609
+2020-07-23,Healthcare,0.4703
+2020-07-23,Hospitality Staff,0.3978
+2020-07-23,Human Resources,0.3866
+2020-07-23,IT,0.1744
+2020-07-23,Manufacturing/Operations Staff,0.4436
+2020-07-23,Marketing/Advertising,0.4859
+2020-07-23,Product Management,0.6203
+2020-07-23,Retail Staff,0.5140
+2020-07-23,Sales,0.4578
+2020-07-23,Security,0.6314
+2020-07-23,Skilled Trades,0.6125
+2020-07-23,Supply Chain Staff,0.6248
+2020-07-23,Unassigned,0.2256
+2020-07-24,,0.7090
+2020-07-24,Customer Service,0.5319
+2020-07-24,Entertainment and Recreation,0.3307
+2020-07-24,Facilities/Constr,0.4545
+2020-07-24,Finance/Insurance,0.5609
+2020-07-24,Food & Beverage,0.5594
+2020-07-24,Healthcare,0.4712
+2020-07-24,Hospitality Staff,0.3941
+2020-07-24,Human Resources,0.3924
+2020-07-24,IT,0.1723
+2020-07-24,Manufacturing/Operations Staff,0.4438
+2020-07-24,Marketing/Advertising,0.4837
+2020-07-24,Product Management,0.6211
+2020-07-24,Retail Staff,0.5205
+2020-07-24,Sales,0.4626
+2020-07-24,Security,0.6390
+2020-07-24,Skilled Trades,0.6124
+2020-07-24,Supply Chain Staff,0.6242
+2020-07-24,Unassigned,0.2257
+2020-07-25,,0.7123
+2020-07-25,Customer Service,0.5390
+2020-07-25,Entertainment and Recreation,0.3320
+2020-07-25,Facilities/Constr,0.4548
+2020-07-25,Finance/Insurance,0.5630
+2020-07-25,Food & Beverage,0.5607
+2020-07-25,Healthcare,0.4741
+2020-07-25,Hospitality Staff,0.3949
+2020-07-25,Human Resources,0.3963
+2020-07-25,IT,0.1719
+2020-07-25,Manufacturing/Operations Staff,0.4455
+2020-07-25,Marketing/Advertising,0.4864
+2020-07-25,Product Management,0.6282
+2020-07-25,Retail Staff,0.5267
+2020-07-25,Sales,0.4578
+2020-07-25,Security,0.6401
+2020-07-25,Skilled Trades,0.6144
+2020-07-25,Supply Chain Staff,0.6243
+2020-07-25,Unassigned,0.2263
+2020-07-26,,0.7094
+2020-07-26,Customer Service,0.5369
+2020-07-26,Entertainment and Recreation,0.3323
+2020-07-26,Facilities/Constr,0.4562
+2020-07-26,Finance/Insurance,0.5605
+2020-07-26,Food & Beverage,0.5574
+2020-07-26,Healthcare,0.4753
+2020-07-26,Hospitality Staff,0.3963
+2020-07-26,Human Resources,0.3988
+2020-07-26,IT,0.1721
+2020-07-26,Manufacturing/Operations Staff,0.4471
+2020-07-26,Marketing/Advertising,0.4858
+2020-07-26,Product Management,0.6283
+2020-07-26,Retail Staff,0.5234
+2020-07-26,Sales,0.4555
+2020-07-26,Security,0.6408
+2020-07-26,Skilled Trades,0.6126
+2020-07-26,Supply Chain Staff,0.6282
+2020-07-26,Unassigned,0.2257
+2020-07-27,,0.7087
+2020-07-27,Customer Service,0.5381
+2020-07-27,Entertainment and Recreation,0.3287
+2020-07-27,Facilities/Constr,0.4613
+2020-07-27,Finance/Insurance,0.5666
+2020-07-27,Food & Beverage,0.5577
+2020-07-27,Healthcare,0.4724
+2020-07-27,Hospitality Staff,0.4066
+2020-07-27,Human Resources,0.3993
+2020-07-27,IT,0.1711
+2020-07-27,Manufacturing/Operations Staff,0.4458
+2020-07-27,Marketing/Advertising,0.4846
+2020-07-27,Product Management,0.6453
+2020-07-27,Retail Staff,0.5266
+2020-07-27,Sales,0.4516
+2020-07-27,Security,0.6330
+2020-07-27,Skilled Trades,0.6164
+2020-07-27,Supply Chain Staff,0.6316
+2020-07-27,Unassigned,0.2267
+2020-07-28,,0.7081
+2020-07-28,Customer Service,0.5322
+2020-07-28,Entertainment and Recreation,0.3210
+2020-07-28,Facilities/Constr,0.4550
+2020-07-28,Finance/Insurance,0.5584
+2020-07-28,Food & Beverage,0.5442
+2020-07-28,Healthcare,0.4689
+2020-07-28,Hospitality Staff,0.4159
+2020-07-28,Human Resources,0.4002
+2020-07-28,IT,0.1681
+2020-07-28,Manufacturing/Operations Staff,0.4440
+2020-07-28,Marketing/Advertising,0.4766
+2020-07-28,Product Management,0.6506
+2020-07-28,Retail Staff,0.5258
+2020-07-28,Sales,0.4428
+2020-07-28,Security,0.6158
+2020-07-28,Skilled Trades,0.6149
+2020-07-28,Supply Chain Staff,0.6220
+2020-07-28,Unassigned,0.2241
+2020-07-29,,0.6965
+2020-07-29,Customer Service,0.5189
+2020-07-29,Entertainment and Recreation,0.3217
+2020-07-29,Facilities/Constr,0.4504
+2020-07-29,Finance/Insurance,0.5631
+2020-07-29,Food & Beverage,0.5354
+2020-07-29,Healthcare,0.4686
+2020-07-29,Hospitality Staff,0.4184
+2020-07-29,Human Resources,0.4029
+2020-07-29,IT,0.1683
+2020-07-29,Manufacturing/Operations Staff,0.4459
+2020-07-29,Marketing/Advertising,0.4675
+2020-07-29,Product Management,0.6506
+2020-07-29,Retail Staff,0.5272
+2020-07-29,Sales,0.4397
+2020-07-29,Security,0.6214
+2020-07-29,Skilled Trades,0.6075
+2020-07-29,Supply Chain Staff,0.6216
+2020-07-29,Unassigned,0.2238
+2020-07-30,,0.6902
+2020-07-30,Customer Service,0.5093
+2020-07-30,Entertainment and Recreation,0.3281
+2020-07-30,Facilities/Constr,0.4433
+2020-07-30,Finance/Insurance,0.5541
+2020-07-30,Food & Beverage,0.5298
+2020-07-30,Healthcare,0.4681
+2020-07-30,Hospitality Staff,0.4215
+2020-07-30,Human Resources,0.4052
+2020-07-30,IT,0.1659
+2020-07-30,Manufacturing/Operations Staff,0.4414
+2020-07-30,Marketing/Advertising,0.4637
+2020-07-30,Product Management,0.6516
+2020-07-30,Retail Staff,0.5259
+2020-07-30,Sales,0.4406
+2020-07-30,Security,0.6210
+2020-07-30,Skilled Trades,0.5991
+2020-07-30,Supply Chain Staff,0.6166
+2020-07-30,Unassigned,0.2225
+2020-07-31,,0.6922
+2020-07-31,Customer Service,0.5066
+2020-07-31,Entertainment and Recreation,0.3214
+2020-07-31,Facilities/Constr,0.4352
+2020-07-31,Finance/Insurance,0.5498
+2020-07-31,Food & Beverage,0.5245
+2020-07-31,Healthcare,0.4606
+2020-07-31,Hospitality Staff,0.4239
+2020-07-31,Human Resources,0.4036
+2020-07-31,IT,0.1646
+2020-07-31,Manufacturing/Operations Staff,0.4351
+2020-07-31,Marketing/Advertising,0.4590
+2020-07-31,Product Management,0.6497
+2020-07-31,Retail Staff,0.5197
+2020-07-31,Sales,0.4317
+2020-07-31,Security,0.6071
+2020-07-31,Skilled Trades,0.6006
+2020-07-31,Supply Chain Staff,0.6068
+2020-07-31,Unassigned,0.2208
+2020-08-01,,0.6922
+2020-08-01,Customer Service,0.5202
+2020-08-01,Entertainment and Recreation,0.3280
+2020-08-01,Facilities/Constr,0.4354
+2020-08-01,Finance/Insurance,0.5600
+2020-08-01,Food & Beverage,0.5336
+2020-08-01,Healthcare,0.4741
+2020-08-01,Hospitality Staff,0.4307
+2020-08-01,Human Resources,0.4138
+2020-08-01,IT,0.1695
+2020-08-01,Manufacturing/Operations Staff,0.4515
+2020-08-01,Marketing/Advertising,0.4599
+2020-08-01,Product Management,0.6557
+2020-08-01,Retail Staff,0.5323
+2020-08-01,Sales,0.4516
+2020-08-01,Security,0.6394
+2020-08-01,Skilled Trades,0.6078
+2020-08-01,Supply Chain Staff,0.6473
+2020-08-01,Unassigned,0.2255
+2020-08-02,,0.7015
+2020-08-02,Customer Service,0.5301
+2020-08-02,Entertainment and Recreation,0.3285
+2020-08-02,Facilities/Constr,0.4357
+2020-08-02,Finance/Insurance,0.5629
+2020-08-02,Food & Beverage,0.5325
+2020-08-02,Healthcare,0.4758
+2020-08-02,Hospitality Staff,0.4293
+2020-08-02,Human Resources,0.4139
+2020-08-02,IT,0.1706
+2020-08-02,Manufacturing/Operations Staff,0.4526
+2020-08-02,Marketing/Advertising,0.4579
+2020-08-02,Product Management,0.6549
+2020-08-02,Retail Staff,0.5323
+2020-08-02,Sales,0.4534
+2020-08-02,Security,0.6501
+2020-08-02,Skilled Trades,0.6117
+2020-08-02,Supply Chain Staff,0.6529
+2020-08-02,Unassigned,0.2266
+2020-08-03,,0.6954
+2020-08-03,Customer Service,0.5257
+2020-08-03,Entertainment and Recreation,0.3313
+2020-08-03,Facilities/Constr,0.4343
+2020-08-03,Finance/Insurance,0.5655
+2020-08-03,Food & Beverage,0.5334
+2020-08-03,Healthcare,0.4789
+2020-08-03,Hospitality Staff,0.4296
+2020-08-03,Human Resources,0.4194
+2020-08-03,IT,0.1717
+2020-08-03,Manufacturing/Operations Staff,0.4568
+2020-08-03,Marketing/Advertising,0.4536
+2020-08-03,Product Management,0.6488
+2020-08-03,Retail Staff,0.5257
+2020-08-03,Sales,0.4639
+2020-08-03,Security,0.6544
+2020-08-03,Skilled Trades,0.6088
+2020-08-03,Supply Chain Staff,0.6520
+2020-08-03,Unassigned,0.2263
+2020-08-04,,0.6862
+2020-08-04,Customer Service,0.5187
+2020-08-04,Entertainment and Recreation,0.3366
+2020-08-04,Facilities/Constr,0.4395
+2020-08-04,Finance/Insurance,0.5721
+2020-08-04,Food & Beverage,0.5328
+2020-08-04,Healthcare,0.4810
+2020-08-04,Hospitality Staff,0.4277
+2020-08-04,Human Resources,0.4287
+2020-08-04,IT,0.1731
+2020-08-04,Manufacturing/Operations Staff,0.4570
+2020-08-04,Marketing/Advertising,0.4562
+2020-08-04,Product Management,0.6443
+2020-08-04,Retail Staff,0.5203
+2020-08-04,Sales,0.4648
+2020-08-04,Security,0.6671
+2020-08-04,Skilled Trades,0.6024
+2020-08-04,Supply Chain Staff,0.6632
+2020-08-04,Unassigned,0.2256
+2020-08-05,,0.6988
+2020-08-05,Customer Service,0.5215
+2020-08-05,Entertainment and Recreation,0.3325
+2020-08-05,Facilities/Constr,0.4380
+2020-08-05,Finance/Insurance,0.5670
+2020-08-05,Food & Beverage,0.5329
+2020-08-05,Healthcare,0.4828
+2020-08-05,Hospitality Staff,0.4296
+2020-08-05,Human Resources,0.4298
+2020-08-05,IT,0.1726
+2020-08-05,Manufacturing/Operations Staff,0.4518
+2020-08-05,Marketing/Advertising,0.4582
+2020-08-05,Product Management,0.6295
+2020-08-05,Retail Staff,0.5237
+2020-08-05,Sales,0.4470
+2020-08-05,Security,0.6485
+2020-08-05,Skilled Trades,0.6008
+2020-08-05,Supply Chain Staff,0.6656
+2020-08-05,Unassigned,0.2257
+2020-08-06,,0.7060
+2020-08-06,Customer Service,0.5199
+2020-08-06,Entertainment and Recreation,0.3257
+2020-08-06,Facilities/Constr,0.4329
+2020-08-06,Finance/Insurance,0.5700
+2020-08-06,Food & Beverage,0.5353
+2020-08-06,Healthcare,0.4873
+2020-08-06,Hospitality Staff,0.4108
+2020-08-06,Human Resources,0.4304
+2020-08-06,IT,0.1731
+2020-08-06,Manufacturing/Operations Staff,0.4522
+2020-08-06,Marketing/Advertising,0.4602
+2020-08-06,Product Management,0.6236
+2020-08-06,Retail Staff,0.5271
+2020-08-06,Sales,0.4456
+2020-08-06,Security,0.6448
+2020-08-06,Skilled Trades,0.6062
+2020-08-06,Supply Chain Staff,0.6666
+2020-08-06,Unassigned,0.2275
+2020-08-07,,0.7220
+2020-08-07,Customer Service,0.5248
+2020-08-07,Entertainment and Recreation,0.3216
+2020-08-07,Facilities/Constr,0.4317
+2020-08-07,Finance/Insurance,0.5820
+2020-08-07,Food & Beverage,0.5392
+2020-08-07,Healthcare,0.4999
+2020-08-07,Hospitality Staff,0.3998
+2020-08-07,Human Resources,0.4348
+2020-08-07,IT,0.1736
+2020-08-07,Manufacturing/Operations Staff,0.4612
+2020-08-07,Marketing/Advertising,0.4622
+2020-08-07,Product Management,0.6259
+2020-08-07,Retail Staff,0.5344
+2020-08-07,Sales,0.4569
+2020-08-07,Security,0.6533
+2020-08-07,Skilled Trades,0.6177
+2020-08-07,Supply Chain Staff,0.6805
+2020-08-07,Unassigned,0.2311
+2020-08-08,,0.7292
+2020-08-08,Customer Service,0.5097
+2020-08-08,Entertainment and Recreation,0.3160
+2020-08-08,Facilities/Constr,0.4331
+2020-08-08,Finance/Insurance,0.5831
+2020-08-08,Food & Beverage,0.5276
+2020-08-08,Healthcare,0.4888
+2020-08-08,Hospitality Staff,0.3871
+2020-08-08,Human Resources,0.4242
+2020-08-08,IT,0.1699
+2020-08-08,Manufacturing/Operations Staff,0.4515
+2020-08-08,Marketing/Advertising,0.4602
+2020-08-08,Product Management,0.5889
+2020-08-08,Retail Staff,0.5223
+2020-08-08,Sales,0.4477
+2020-08-08,Security,0.6192
+2020-08-08,Skilled Trades,0.6174
+2020-08-08,Supply Chain Staff,0.6441
+2020-08-08,Unassigned,0.2305
+2020-08-09,,0.7178
+2020-08-09,Customer Service,0.4937
+2020-08-09,Entertainment and Recreation,0.3122
+2020-08-09,Facilities/Constr,0.4266
+2020-08-09,Finance/Insurance,0.5795
+2020-08-09,Food & Beverage,0.5193
+2020-08-09,Healthcare,0.4853
+2020-08-09,Hospitality Staff,0.3806
+2020-08-09,Human Resources,0.4225
+2020-08-09,IT,0.1676
+2020-08-09,Manufacturing/Operations Staff,0.4504
+2020-08-09,Marketing/Advertising,0.4538
+2020-08-09,Product Management,0.5822
+2020-08-09,Retail Staff,0.5080
+2020-08-09,Sales,0.4413
+2020-08-09,Security,0.6072
+2020-08-09,Skilled Trades,0.6112
+2020-08-09,Supply Chain Staff,0.6326
+2020-08-09,Unassigned,0.2279
+2020-08-10,,0.6769
+2020-08-10,Customer Service,0.4652
+2020-08-10,Entertainment and Recreation,0.2872
+2020-08-10,Facilities/Constr,0.3898
+2020-08-10,Finance/Insurance,0.5327
+2020-08-10,Food & Beverage,0.4827
+2020-08-10,Healthcare,0.4455
+2020-08-10,Hospitality Staff,0.3445
+2020-08-10,Human Resources,0.3884
+2020-08-10,IT,0.1549
+2020-08-10,Manufacturing/Operations Staff,0.4099
+2020-08-10,Marketing/Advertising,0.4206
+2020-08-10,Product Management,0.5395
+2020-08-10,Retail Staff,0.4796
+2020-08-10,Sales,0.4044
+2020-08-10,Security,0.5656
+2020-08-10,Skilled Trades,0.5660
+2020-08-10,Supply Chain Staff,0.5865
+2020-08-10,Unassigned,0.2116
+2020-08-11,,0.6710
+2020-08-11,Customer Service,0.4669
+2020-08-11,Entertainment and Recreation,0.2942
+2020-08-11,Facilities/Constr,0.3737
+2020-08-11,Finance/Insurance,0.5465
+2020-08-11,Food & Beverage,0.4800
+2020-08-11,Healthcare,0.4567
+2020-08-11,Hospitality Staff,0.3402
+2020-08-11,Human Resources,0.3845
+2020-08-11,IT,0.1566
+2020-08-11,Manufacturing/Operations Staff,0.4067
+2020-08-11,Marketing/Advertising,0.4183
+2020-08-11,Product Management,0.5447
+2020-08-11,Retail Staff,0.4779
+2020-08-11,Sales,0.4048
+2020-08-11,Security,0.5505
+2020-08-11,Skilled Trades,0.5528
+2020-08-11,Supply Chain Staff,0.5680
+2020-08-11,Unassigned,0.2127
+2020-08-12,,0.6809
+2020-08-12,Customer Service,0.4733
+2020-08-12,Entertainment and Recreation,0.3130
+2020-08-12,Facilities/Constr,0.3958
+2020-08-12,Finance/Insurance,0.5659
+2020-08-12,Food & Beverage,0.4993
+2020-08-12,Healthcare,0.4683
+2020-08-12,Hospitality Staff,0.3527
+2020-08-12,Human Resources,0.3920
+2020-08-12,IT,0.1627
+2020-08-12,Manufacturing/Operations Staff,0.4203
+2020-08-12,Marketing/Advertising,0.4313
+2020-08-12,Product Management,0.5793
+2020-08-12,Retail Staff,0.4871
+2020-08-12,Sales,0.4242
+2020-08-12,Security,0.5953
+2020-08-12,Skilled Trades,0.5797
+2020-08-12,Supply Chain Staff,0.6150
+2020-08-12,Unassigned,0.2174
+2020-08-13,,0.6639
+2020-08-13,Customer Service,0.4402
+2020-08-13,Entertainment and Recreation,0.2913
+2020-08-13,Facilities/Constr,0.3757
+2020-08-13,Finance/Insurance,0.5242
+2020-08-13,Food & Beverage,0.4798
+2020-08-13,Healthcare,0.4377
+2020-08-13,Hospitality Staff,0.3352
+2020-08-13,Human Resources,0.3500
+2020-08-13,IT,0.1475
+2020-08-13,Manufacturing/Operations Staff,0.3745
+2020-08-13,Marketing/Advertising,0.3988
+2020-08-13,Product Management,0.5301
+2020-08-13,Retail Staff,0.4518
+2020-08-13,Sales,0.3982
+2020-08-13,Security,0.5367
+2020-08-13,Skilled Trades,0.5422
+2020-08-13,Supply Chain Staff,0.5738
+2020-08-13,Unassigned,0.2007
+2020-08-14,,0.7302
+2020-08-14,Customer Service,0.4726
+2020-08-14,Entertainment and Recreation,0.3304
+2020-08-14,Facilities/Constr,0.4303
+2020-08-14,Finance/Insurance,0.5775
+2020-08-14,Food & Beverage,0.5272
+2020-08-14,Healthcare,0.4767
+2020-08-14,Hospitality Staff,0.3954
+2020-08-14,Human Resources,0.3872
+2020-08-14,IT,0.1722
+2020-08-14,Manufacturing/Operations Staff,0.3977
+2020-08-14,Marketing/Advertising,0.4416
+2020-08-14,Product Management,0.5637
+2020-08-14,Retail Staff,0.4955
+2020-08-14,Sales,0.4435
+2020-08-14,Security,0.5789
+2020-08-14,Skilled Trades,0.5792
+2020-08-14,Supply Chain Staff,0.6267
+2020-08-14,Unassigned,0.2198
+2020-08-15,,0.6422
+2020-08-15,Customer Service,0.4190
+2020-08-15,Entertainment and Recreation,0.2984
+2020-08-15,Facilities/Constr,0.3819
+2020-08-15,Finance/Insurance,0.5106
+2020-08-15,Food & Beverage,0.4674
+2020-08-15,Healthcare,0.4358
+2020-08-15,Hospitality Staff,0.3571
+2020-08-15,Human Resources,0.3467
+2020-08-15,IT,0.1555
+2020-08-15,Manufacturing/Operations Staff,0.3531
+2020-08-15,Marketing/Advertising,0.3833
+2020-08-15,Product Management,0.5249
+2020-08-15,Retail Staff,0.4377
+2020-08-15,Sales,0.3929
+2020-08-15,Security,0.5185
+2020-08-15,Skilled Trades,0.5117
+2020-08-15,Supply Chain Staff,0.5650
+2020-08-15,Unassigned,0.1940
+2020-08-16,,0.6300
+2020-08-16,Customer Service,0.4064
+2020-08-16,Entertainment and Recreation,0.2881
+2020-08-16,Facilities/Constr,0.3739
+2020-08-16,Finance/Insurance,0.4972
+2020-08-16,Food & Beverage,0.4450
+2020-08-16,Healthcare,0.4281
+2020-08-16,Hospitality Staff,0.3416
+2020-08-16,Human Resources,0.3363
+2020-08-16,IT,0.1578
+2020-08-16,Manufacturing/Operations Staff,0.3439
+2020-08-16,Marketing/Advertising,0.3715
+2020-08-16,Product Management,0.5186
+2020-08-16,Retail Staff,0.4254
+2020-08-16,Sales,0.3845
+2020-08-16,Security,0.5115
+2020-08-16,Skilled Trades,0.5005
+2020-08-16,Supply Chain Staff,0.5523
+2020-08-16,Unassigned,0.1894
+2020-08-17,,0.7229
+2020-08-17,Customer Service,0.4419
+2020-08-17,Entertainment and Recreation,0.3174
+2020-08-17,Facilities/Constr,0.4246
+2020-08-17,Finance/Insurance,0.5509
+2020-08-17,Food & Beverage,0.4740
+2020-08-17,Healthcare,0.4947
+2020-08-17,Hospitality Staff,0.3799
+2020-08-17,Human Resources,0.3792
+2020-08-17,IT,0.1727
+2020-08-17,Manufacturing/Operations Staff,0.3716
+2020-08-17,Marketing/Advertising,0.4157
+2020-08-17,Product Management,0.5771
+2020-08-17,Retail Staff,0.4590
+2020-08-17,Sales,0.4149
+2020-08-17,Security,0.5680
+2020-08-17,Skilled Trades,0.5704
+2020-08-17,Supply Chain Staff,0.6443
+2020-08-17,Unassigned,0.2118
+2020-08-18,,0.7940
+2020-08-18,Customer Service,0.5112
+2020-08-18,Entertainment and Recreation,0.3452
+2020-08-18,Facilities/Constr,0.4934
+2020-08-18,Finance/Insurance,0.6010
+2020-08-18,Food & Beverage,0.5760
+2020-08-18,Healthcare,0.5131
+2020-08-18,Hospitality Staff,0.4284
+2020-08-18,Human Resources,0.4218
+2020-08-18,IT,0.1854
+2020-08-18,Manufacturing/Operations Staff,0.4104
+2020-08-18,Marketing/Advertising,0.5232
+2020-08-18,Product Management,0.6290
+2020-08-18,Retail Staff,0.5477
+2020-08-18,Sales,0.4818
+2020-08-18,Security,0.5769
+2020-08-18,Skilled Trades,0.6271
+2020-08-18,Supply Chain Staff,0.6772
+2020-08-18,Unassigned,0.2331
+2020-08-19,,0.8646
+2020-08-19,Customer Service,0.5318
+2020-08-19,Entertainment and Recreation,0.3545
+2020-08-19,Facilities/Constr,0.5219
+2020-08-19,Finance/Insurance,0.6251
+2020-08-19,Food & Beverage,0.5968
+2020-08-19,Healthcare,0.5294
+2020-08-19,Hospitality Staff,0.4550
+2020-08-19,Human Resources,0.4411
+2020-08-19,IT,0.1926
+2020-08-19,Manufacturing/Operations Staff,0.4368
+2020-08-19,Marketing/Advertising,0.5760
+2020-08-19,Product Management,0.6395
+2020-08-19,Retail Staff,0.5590
+2020-08-19,Sales,0.5114
+2020-08-19,Security,0.5780
+2020-08-19,Skilled Trades,0.6511
+2020-08-19,Supply Chain Staff,0.6608
+2020-08-19,Unassigned,0.2421
+2020-08-20,,0.9444
+2020-08-20,Customer Service,0.5930
+2020-08-20,Entertainment and Recreation,0.4014
+2020-08-20,Facilities/Constr,0.5797
+2020-08-20,Finance/Insurance,0.6999
+2020-08-20,Food & Beverage,0.6490
+2020-08-20,Healthcare,0.5823
+2020-08-20,Hospitality Staff,0.5259
+2020-08-20,Human Resources,0.4942
+2020-08-20,IT,0.2157
+2020-08-20,Manufacturing/Operations Staff,0.5088
+2020-08-20,Marketing/Advertising,0.6667
+2020-08-20,Product Management,0.7294
+2020-08-20,Retail Staff,0.6237
+2020-08-20,Sales,0.5689
+2020-08-20,Security,0.6533
+2020-08-20,Skilled Trades,0.7205
+2020-08-20,Supply Chain Staff,0.7323
+2020-08-20,Unassigned,0.2695
+2020-08-21,,1.0027
+2020-08-21,Customer Service,0.6128
+2020-08-21,Entertainment and Recreation,0.4048
+2020-08-21,Facilities/Constr,0.6043
+2020-08-21,Finance/Insurance,0.7147
+2020-08-21,Food & Beverage,0.6643
+2020-08-21,Healthcare,0.5904
+2020-08-21,Hospitality Staff,0.5508
+2020-08-21,Human Resources,0.4994
+2020-08-21,IT,0.2142
+2020-08-21,Manufacturing/Operations Staff,0.5511
+2020-08-21,Marketing/Advertising,0.7249
+2020-08-21,Product Management,0.7631
+2020-08-21,Retail Staff,0.6410
+2020-08-21,Sales,0.5793
+2020-08-21,Security,0.6535
+2020-08-21,Skilled Trades,0.7587
+2020-08-21,Supply Chain Staff,0.7559
+2020-08-21,Unassigned,0.2764
+2020-08-22,,1.1101
+2020-08-22,Customer Service,0.6748
+2020-08-22,Entertainment and Recreation,0.4428
+2020-08-22,Facilities/Constr,0.6612
+2020-08-22,Finance/Insurance,0.7853
+2020-08-22,Food & Beverage,0.7405
+2020-08-22,Healthcare,0.6340
+2020-08-22,Hospitality Staff,0.6172
+2020-08-22,Human Resources,0.5458
+2020-08-22,IT,0.2348
+2020-08-22,Manufacturing/Operations Staff,0.6010
+2020-08-22,Marketing/Advertising,0.8083
+2020-08-22,Product Management,0.8472
+2020-08-22,Retail Staff,0.7141
+2020-08-22,Sales,0.6509
+2020-08-22,Security,0.7307
+2020-08-22,Skilled Trades,0.8305
+2020-08-22,Supply Chain Staff,0.8288
+2020-08-22,Unassigned,0.3043
+2020-08-23,,1.1312
+2020-08-23,Customer Service,0.6938
+2020-08-23,Entertainment and Recreation,0.4571
+2020-08-23,Facilities/Constr,0.6742
+2020-08-23,Finance/Insurance,0.8002
+2020-08-23,Food & Beverage,0.7703
+2020-08-23,Healthcare,0.6458
+2020-08-23,Hospitality Staff,0.6386
+2020-08-23,Human Resources,0.5600
+2020-08-23,IT,0.2334
+2020-08-23,Manufacturing/Operations Staff,0.6116
+2020-08-23,Marketing/Advertising,0.8280
+2020-08-23,Product Management,0.8596
+2020-08-23,Retail Staff,0.7383
+2020-08-23,Sales,0.6642
+2020-08-23,Security,0.7423
+2020-08-23,Skilled Trades,0.8463
+2020-08-23,Supply Chain Staff,0.8469
+2020-08-23,Unassigned,0.3112
+2020-08-24,,1.1367
+2020-08-24,Customer Service,0.7147
+2020-08-24,Entertainment and Recreation,0.4808
+2020-08-24,Facilities/Constr,0.6962
+2020-08-24,Finance/Insurance,0.8239
+2020-08-24,Food & Beverage,0.8101
+2020-08-24,Healthcare,0.6496
+2020-08-24,Hospitality Staff,0.6655
+2020-08-24,Human Resources,0.5702
+2020-08-24,IT,0.2438
+2020-08-24,Manufacturing/Operations Staff,0.6473
+2020-08-24,Marketing/Advertising,0.8607
+2020-08-24,Product Management,0.8701
+2020-08-24,Retail Staff,0.7688
+2020-08-24,Sales,0.6958
+2020-08-24,Security,0.7489
+2020-08-24,Skilled Trades,0.8535
+2020-08-24,Supply Chain Staff,0.8460
+2020-08-24,Unassigned,0.3183
+2020-08-25,,1.1445
+2020-08-25,Customer Service,0.6829
+2020-08-25,Entertainment and Recreation,0.4703
+2020-08-25,Facilities/Constr,0.6871
+2020-08-25,Finance/Insurance,0.8054
+2020-08-25,Food & Beverage,0.7593
+2020-08-25,Healthcare,0.6515
+2020-08-25,Hospitality Staff,0.6655
+2020-08-25,Human Resources,0.5630
+2020-08-25,IT,0.2417
+2020-08-25,Manufacturing/Operations Staff,0.6407
+2020-08-25,Marketing/Advertising,0.8308
+2020-08-25,Product Management,0.8535
+2020-08-25,Retail Staff,0.7372
+2020-08-25,Sales,0.6812
+2020-08-25,Security,0.7641
+2020-08-25,Skilled Trades,0.8530
+2020-08-25,Supply Chain Staff,0.8626
+2020-08-25,Unassigned,0.3111
+2020-08-26,,1.1246
+2020-08-26,Customer Service,0.6761
+2020-08-26,Entertainment and Recreation,0.4693
+2020-08-26,Facilities/Constr,0.6823
+2020-08-26,Finance/Insurance,0.8028
+2020-08-26,Food & Beverage,0.7535
+2020-08-26,Healthcare,0.6531
+2020-08-26,Hospitality Staff,0.6631
+2020-08-26,Human Resources,0.5683
+2020-08-26,IT,0.2396
+2020-08-26,Manufacturing/Operations Staff,0.6262
+2020-08-26,Marketing/Advertising,0.8309
+2020-08-26,Product Management,0.8446
+2020-08-26,Retail Staff,0.7453
+2020-08-26,Sales,0.6858
+2020-08-26,Security,0.7608
+2020-08-26,Skilled Trades,0.8413
+2020-08-26,Supply Chain Staff,0.8668
+2020-08-26,Unassigned,0.3097
+2020-08-27,,1.1209
+2020-08-27,Customer Service,0.6764
+2020-08-27,Entertainment and Recreation,0.4696
+2020-08-27,Facilities/Constr,0.6817
+2020-08-27,Finance/Insurance,0.7990
+2020-08-27,Food & Beverage,0.7585
+2020-08-27,Healthcare,0.6531
+2020-08-27,Hospitality Staff,0.6571
+2020-08-27,Human Resources,0.5823
+2020-08-27,IT,0.2432
+2020-08-27,Manufacturing/Operations Staff,0.6191
+2020-08-27,Marketing/Advertising,0.8277
+2020-08-27,Product Management,0.8114
+2020-08-27,Retail Staff,0.7501
+2020-08-27,Sales,0.6890
+2020-08-27,Security,0.7562
+2020-08-27,Skilled Trades,0.8391
+2020-08-27,Supply Chain Staff,0.8644
+2020-08-27,Unassigned,0.3084
+2020-08-28,,1.0405
+2020-08-28,Customer Service,0.6445
+2020-08-28,Entertainment and Recreation,0.4437
+2020-08-28,Facilities/Constr,0.6394
+2020-08-28,Finance/Insurance,0.7523
+2020-08-28,Food & Beverage,0.7241
+2020-08-28,Healthcare,0.6175
+2020-08-28,Hospitality Staff,0.6106
+2020-08-28,Human Resources,0.5549
+2020-08-28,IT,0.2286
+2020-08-28,Manufacturing/Operations Staff,0.5682
+2020-08-28,Marketing/Advertising,0.7782
+2020-08-28,Product Management,0.7408
+2020-08-28,Retail Staff,0.7169
+2020-08-28,Sales,0.6619
+2020-08-28,Security,0.7217
+2020-08-28,Skilled Trades,0.7801
+2020-08-28,Supply Chain Staff,0.8083
+2020-08-28,Unassigned,0.2890
+2020-08-29,,1.0407
+2020-08-29,Customer Service,0.6521
+2020-08-29,Entertainment and Recreation,0.4501
+2020-08-29,Facilities/Constr,0.6374
+2020-08-29,Finance/Insurance,0.7524
+2020-08-29,Food & Beverage,0.7250
+2020-08-29,Healthcare,0.6180
+2020-08-29,Hospitality Staff,0.6129
+2020-08-29,Human Resources,0.5640
+2020-08-29,IT,0.2284
+2020-08-29,Manufacturing/Operations Staff,0.5706
+2020-08-29,Marketing/Advertising,0.7764
+2020-08-29,Product Management,0.7222
+2020-08-29,Retail Staff,0.7250
+2020-08-29,Sales,0.6576
+2020-08-29,Security,0.7201
+2020-08-29,Skilled Trades,0.7840
+2020-08-29,Supply Chain Staff,0.8177
+2020-08-29,Unassigned,0.2885
+2020-08-30,,1.0373
+2020-08-30,Customer Service,0.6561
+2020-08-30,Entertainment and Recreation,0.4493
+2020-08-30,Facilities/Constr,0.6380
+2020-08-30,Finance/Insurance,0.7545
+2020-08-30,Food & Beverage,0.7296
+2020-08-30,Healthcare,0.6153
+2020-08-30,Hospitality Staff,0.6173
+2020-08-30,Human Resources,0.5645
+2020-08-30,IT,0.2284
+2020-08-30,Manufacturing/Operations Staff,0.5691
+2020-08-30,Marketing/Advertising,0.7759
+2020-08-30,Product Management,0.7198
+2020-08-30,Retail Staff,0.7295
+2020-08-30,Sales,0.6616
+2020-08-30,Security,0.7146
+2020-08-30,Skilled Trades,0.7835
+2020-08-30,Supply Chain Staff,0.8208
+2020-08-30,Unassigned,0.2888
+2020-08-31,,1.0147
+2020-08-31,Customer Service,0.6495
+2020-08-31,Entertainment and Recreation,0.4363
+2020-08-31,Facilities/Constr,0.6264
+2020-08-31,Finance/Insurance,0.7412
+2020-08-31,Food & Beverage,0.7202
+2020-08-31,Healthcare,0.6006
+2020-08-31,Hospitality Staff,0.6119
+2020-08-31,Human Resources,0.5616
+2020-08-31,IT,0.2225
+2020-08-31,Manufacturing/Operations Staff,0.5613
+2020-08-31,Marketing/Advertising,0.7721
+2020-08-31,Product Management,0.7104
+2020-08-31,Retail Staff,0.7255
+2020-08-31,Sales,0.6522
+2020-08-31,Security,0.7053
+2020-08-31,Skilled Trades,0.7685
+2020-08-31,Supply Chain Staff,0.7899
+2020-08-31,Unassigned,0.2846
+2020-09-01,,1.0037
+2020-09-01,Customer Service,0.6626
+2020-09-01,Entertainment and Recreation,0.4400
+2020-09-01,Facilities/Constr,0.6282
+2020-09-01,Finance/Insurance,0.7489
+2020-09-01,Food & Beverage,0.7330
+2020-09-01,Healthcare,0.6155
+2020-09-01,Hospitality Staff,0.6099
+2020-09-01,Human Resources,0.5623
+2020-09-01,IT,0.2227
+2020-09-01,Manufacturing/Operations Staff,0.5733
+2020-09-01,Marketing/Advertising,0.7711
+2020-09-01,Product Management,0.7156
+2020-09-01,Retail Staff,0.7270
+2020-09-01,Sales,0.6505
+2020-09-01,Security,0.7371
+2020-09-01,Skilled Trades,0.7662
+2020-09-01,Supply Chain Staff,0.8279
+2020-09-01,Unassigned,0.2879
+2020-09-02,,1.0061
+2020-09-02,Customer Service,0.6802
+2020-09-02,Entertainment and Recreation,0.4492
+2020-09-02,Facilities/Constr,0.6346
+2020-09-02,Finance/Insurance,0.7545
+2020-09-02,Food & Beverage,0.7473
+2020-09-02,Healthcare,0.6306
+2020-09-02,Hospitality Staff,0.6195
+2020-09-02,Human Resources,0.5675
+2020-09-02,IT,0.2271
+2020-09-02,Manufacturing/Operations Staff,0.5794
+2020-09-02,Marketing/Advertising,0.7799
+2020-09-02,Product Management,0.7367
+2020-09-02,Retail Staff,0.7431
+2020-09-02,Sales,0.6617
+2020-09-02,Security,0.7316
+2020-09-02,Skilled Trades,0.7688
+2020-09-02,Supply Chain Staff,0.8346
+2020-09-02,Unassigned,0.2903
+2020-09-03,,1.0093
+2020-09-03,Customer Service,0.6859
+2020-09-03,Entertainment and Recreation,0.4499
+2020-09-03,Facilities/Constr,0.6412
+2020-09-03,Finance/Insurance,0.7635
+2020-09-03,Food & Beverage,0.7491
+2020-09-03,Healthcare,0.6444
+2020-09-03,Hospitality Staff,0.6195
+2020-09-03,Human Resources,0.5737
+2020-09-03,IT,0.2307
+2020-09-03,Manufacturing/Operations Staff,0.5831
+2020-09-03,Marketing/Advertising,0.7953
+2020-09-03,Product Management,0.7629
+2020-09-03,Retail Staff,0.7457
+2020-09-03,Sales,0.6720
+2020-09-03,Security,0.7342
+2020-09-03,Skilled Trades,0.7721
+2020-09-03,Supply Chain Staff,0.8438
+2020-09-03,Unassigned,0.2924
+2020-09-04,,1.0194
+2020-09-04,Customer Service,0.6883
+2020-09-04,Entertainment and Recreation,0.4574
+2020-09-04,Facilities/Constr,0.6443
+2020-09-04,Finance/Insurance,0.7709
+2020-09-04,Food & Beverage,0.7572
+2020-09-04,Healthcare,0.6497
+2020-09-04,Hospitality Staff,0.6324
+2020-09-04,Human Resources,0.5787
+2020-09-04,IT,0.2352
+2020-09-04,Manufacturing/Operations Staff,0.5864
+2020-09-04,Marketing/Advertising,0.8109
+2020-09-04,Product Management,0.7731
+2020-09-04,Retail Staff,0.7584
+2020-09-04,Sales,0.6807
+2020-09-04,Security,0.7401
+2020-09-04,Skilled Trades,0.7748
+2020-09-04,Supply Chain Staff,0.8439
+2020-09-04,Unassigned,0.2942
+2020-09-05,,1.0227
+2020-09-05,Customer Service,0.6959
+2020-09-05,Entertainment and Recreation,0.4597
+2020-09-05,Facilities/Constr,0.6608
+2020-09-05,Finance/Insurance,0.7775
+2020-09-05,Food & Beverage,0.7746
+2020-09-05,Healthcare,0.6574
+2020-09-05,Hospitality Staff,0.6448
+2020-09-05,Human Resources,0.5807
+2020-09-05,IT,0.2353
+2020-09-05,Manufacturing/Operations Staff,0.5881
+2020-09-05,Marketing/Advertising,0.8235
+2020-09-05,Product Management,0.7653
+2020-09-05,Retail Staff,0.7679
+2020-09-05,Sales,0.6908
+2020-09-05,Security,0.7469
+2020-09-05,Skilled Trades,0.7772
+2020-09-05,Supply Chain Staff,0.8454
+2020-09-05,Unassigned,0.2960
+2020-09-06,,1.0200
+2020-09-06,Customer Service,0.6984
+2020-09-06,Entertainment and Recreation,0.4652
+2020-09-06,Facilities/Constr,0.6627
+2020-09-06,Finance/Insurance,0.7809
+2020-09-06,Food & Beverage,0.7821
+2020-09-06,Healthcare,0.6579
+2020-09-06,Hospitality Staff,0.6501
+2020-09-06,Human Resources,0.5840
+2020-09-06,IT,0.2350
+2020-09-06,Manufacturing/Operations Staff,0.5884
+2020-09-06,Marketing/Advertising,0.8314
+2020-09-06,Product Management,0.7638
+2020-09-06,Retail Staff,0.7767
+2020-09-06,Sales,0.6939
+2020-09-06,Security,0.7539
+2020-09-06,Skilled Trades,0.7756
+2020-09-06,Supply Chain Staff,0.8474
+2020-09-06,Unassigned,0.2961
+2020-09-07,,0.9630
+2020-09-07,Customer Service,0.6689
+2020-09-07,Entertainment and Recreation,0.4372
+2020-09-07,Facilities/Constr,0.6207
+2020-09-07,Finance/Insurance,0.7371
+2020-09-07,Food & Beverage,0.7552
+2020-09-07,Healthcare,0.6127
+2020-09-07,Hospitality Staff,0.6211
+2020-09-07,Human Resources,0.5520
+2020-09-07,IT,0.2196
+2020-09-07,Manufacturing/Operations Staff,0.5403
+2020-09-07,Marketing/Advertising,0.7891
+2020-09-07,Product Management,0.7096
+2020-09-07,Retail Staff,0.7533
+2020-09-07,Sales,0.6658
+2020-09-07,Security,0.7049
+2020-09-07,Skilled Trades,0.7249
+2020-09-07,Supply Chain Staff,0.8069
+2020-09-07,Unassigned,0.2782
+2020-09-08,,0.8986
+2020-09-08,Customer Service,0.6068
+2020-09-08,Entertainment and Recreation,0.4015
+2020-09-08,Facilities/Constr,0.5671
+2020-09-08,Finance/Insurance,0.6779
+2020-09-08,Food & Beverage,0.6985
+2020-09-08,Healthcare,0.5492
+2020-09-08,Hospitality Staff,0.5904
+2020-09-08,Human Resources,0.5014
+2020-09-08,IT,0.2016
+2020-09-08,Manufacturing/Operations Staff,0.4915
+2020-09-08,Marketing/Advertising,0.7311
+2020-09-08,Product Management,0.6262
+2020-09-08,Retail Staff,0.7047
+2020-09-08,Sales,0.6163
+2020-09-08,Security,0.6167
+2020-09-08,Skilled Trades,0.6690
+2020-09-08,Supply Chain Staff,0.7059
+2020-09-08,Unassigned,0.2560
+2020-09-09,,0.9097
+2020-09-09,Customer Service,0.5934
+2020-09-09,Entertainment and Recreation,0.3965
+2020-09-09,Facilities/Constr,0.5636
+2020-09-09,Finance/Insurance,0.6756
+2020-09-09,Food & Beverage,0.6932
+2020-09-09,Healthcare,0.5387
+2020-09-09,Hospitality Staff,0.5891
+2020-09-09,Human Resources,0.4985
+2020-09-09,IT,0.1982
+2020-09-09,Manufacturing/Operations Staff,0.4948
+2020-09-09,Marketing/Advertising,0.7180
+2020-09-09,Product Management,0.6106
+2020-09-09,Retail Staff,0.6983
+2020-09-09,Sales,0.6072
+2020-09-09,Security,0.6374
+2020-09-09,Skilled Trades,0.6686
+2020-09-09,Supply Chain Staff,0.6883
+2020-09-09,Unassigned,0.2542
+2020-09-10,,0.9109
+2020-09-10,Customer Service,0.5869
+2020-09-10,Entertainment and Recreation,0.4047
+2020-09-10,Facilities/Constr,0.5671
+2020-09-10,Finance/Insurance,0.6810
+2020-09-10,Food & Beverage,0.6991
+2020-09-10,Healthcare,0.5311
+2020-09-10,Hospitality Staff,0.5956
+2020-09-10,Human Resources,0.4918
+2020-09-10,IT,0.1954
+2020-09-10,Manufacturing/Operations Staff,0.5065
+2020-09-10,Marketing/Advertising,0.7050
+2020-09-10,Product Management,0.6005
+2020-09-10,Retail Staff,0.7023
+2020-09-10,Sales,0.5995
+2020-09-10,Security,0.6537
+2020-09-10,Skilled Trades,0.6709
+2020-09-10,Supply Chain Staff,0.6838
+2020-09-10,Unassigned,0.2554
+2020-09-11,,0.8872
+2020-09-11,Customer Service,0.5981
+2020-09-11,Entertainment and Recreation,0.4094
+2020-09-11,Facilities/Constr,0.5833
+2020-09-11,Finance/Insurance,0.6896
+2020-09-11,Food & Beverage,0.7108
+2020-09-11,Healthcare,0.5212
+2020-09-11,Hospitality Staff,0.6017
+2020-09-11,Human Resources,0.4799
+2020-09-11,IT,0.1936
+2020-09-11,Manufacturing/Operations Staff,0.5171
+2020-09-11,Marketing/Advertising,0.7108
+2020-09-11,Product Management,0.6294
+2020-09-11,Retail Staff,0.7141
+2020-09-11,Sales,0.5974
+2020-09-11,Security,0.6617
+2020-09-11,Skilled Trades,0.6748
+2020-09-11,Supply Chain Staff,0.6917
+2020-09-11,Unassigned,0.2568
+2020-09-12,,0.9048
+2020-09-12,Customer Service,0.5999
+2020-09-12,Entertainment and Recreation,0.4101
+2020-09-12,Facilities/Constr,0.5769
+2020-09-12,Finance/Insurance,0.6944
+2020-09-12,Food & Beverage,0.7143
+2020-09-12,Healthcare,0.5300
+2020-09-12,Hospitality Staff,0.5979
+2020-09-12,Human Resources,0.4787
+2020-09-12,IT,0.1957
+2020-09-12,Manufacturing/Operations Staff,0.5233
+2020-09-12,Marketing/Advertising,0.7164
+2020-09-12,Product Management,0.6535
+2020-09-12,Retail Staff,0.7177
+2020-09-12,Sales,0.6038
+2020-09-12,Security,0.6614
+2020-09-12,Skilled Trades,0.6842
+2020-09-12,Supply Chain Staff,0.6925
+2020-09-12,Unassigned,0.2586
+2020-09-13,,0.9132
+2020-09-13,Customer Service,0.6015
+2020-09-13,Entertainment and Recreation,0.4087
+2020-09-13,Facilities/Constr,0.5791
+2020-09-13,Finance/Insurance,0.6947
+2020-09-13,Food & Beverage,0.7150
+2020-09-13,Healthcare,0.5347
+2020-09-13,Hospitality Staff,0.5973
+2020-09-13,Human Resources,0.4672
+2020-09-13,IT,0.1973
+2020-09-13,Manufacturing/Operations Staff,0.5260
+2020-09-13,Marketing/Advertising,0.7192
+2020-09-13,Product Management,0.6622
+2020-09-13,Retail Staff,0.7153
+2020-09-13,Sales,0.6063
+2020-09-13,Security,0.6567
+2020-09-13,Skilled Trades,0.6882
+2020-09-13,Supply Chain Staff,0.6909
+2020-09-13,Unassigned,0.2593
+2020-09-14,,0.9818
+2020-09-14,Customer Service,0.6401
+2020-09-14,Entertainment and Recreation,0.4427
+2020-09-14,Facilities/Constr,0.6341
+2020-09-14,Finance/Insurance,0.7563
+2020-09-14,Food & Beverage,0.7663
+2020-09-14,Healthcare,0.5795
+2020-09-14,Hospitality Staff,0.6328
+2020-09-14,Human Resources,0.4857
+2020-09-14,IT,0.2154
+2020-09-14,Manufacturing/Operations Staff,0.5883
+2020-09-14,Marketing/Advertising,0.7765
+2020-09-14,Product Management,0.7327
+2020-09-14,Retail Staff,0.7492
+2020-09-14,Sales,0.6499
+2020-09-14,Security,0.7080
+2020-09-14,Skilled Trades,0.7478
+2020-09-14,Supply Chain Staff,0.7635
+2020-09-14,Unassigned,0.2816
+2020-09-15,,1.0927
+2020-09-15,Customer Service,0.6875
+2020-09-15,Entertainment and Recreation,0.4718
+2020-09-15,Facilities/Constr,0.6797
+2020-09-15,Finance/Insurance,0.8156
+2020-09-15,Food & Beverage,0.8260
+2020-09-15,Healthcare,0.6407
+2020-09-15,Hospitality Staff,0.6626
+2020-09-15,Human Resources,0.5370
+2020-09-15,IT,0.2350
+2020-09-15,Manufacturing/Operations Staff,0.6356
+2020-09-15,Marketing/Advertising,0.8350
+2020-09-15,Product Management,0.8283
+2020-09-15,Retail Staff,0.7977
+2020-09-15,Sales,0.6921
+2020-09-15,Security,0.7762
+2020-09-15,Skilled Trades,0.8195
+2020-09-15,Supply Chain Staff,0.8328
+2020-09-15,Unassigned,0.3040
+2020-09-16,,1.0930
+2020-09-16,Customer Service,0.6869
+2020-09-16,Entertainment and Recreation,0.4715
+2020-09-16,Facilities/Constr,0.6761
+2020-09-16,Finance/Insurance,0.8210
+2020-09-16,Food & Beverage,0.8255
+2020-09-16,Healthcare,0.6360
+2020-09-16,Hospitality Staff,0.6592
+2020-09-16,Human Resources,0.5469
+2020-09-16,IT,0.2386
+2020-09-16,Manufacturing/Operations Staff,0.6370
+2020-09-16,Marketing/Advertising,0.8453
+2020-09-16,Product Management,0.8480
+2020-09-16,Retail Staff,0.7959
+2020-09-16,Sales,0.6935
+2020-09-16,Security,0.7612
+2020-09-16,Skilled Trades,0.8235
+2020-09-16,Supply Chain Staff,0.8568
+2020-09-16,Unassigned,0.3044
+2020-09-17,,1.0770
+2020-09-17,Customer Service,0.6840
+2020-09-17,Entertainment and Recreation,0.4666
+2020-09-17,Facilities/Constr,0.6709
+2020-09-17,Finance/Insurance,0.8160
+2020-09-17,Food & Beverage,0.8235
+2020-09-17,Healthcare,0.6169
+2020-09-17,Hospitality Staff,0.6543
+2020-09-17,Human Resources,0.5335
+2020-09-17,IT,0.2384
+2020-09-17,Manufacturing/Operations Staff,0.6306
+2020-09-17,Marketing/Advertising,0.8512
+2020-09-17,Product Management,0.8476
+2020-09-17,Retail Staff,0.7878
+2020-09-17,Sales,0.7001
+2020-09-17,Security,0.7385
+2020-09-17,Skilled Trades,0.8148
+2020-09-17,Supply Chain Staff,0.8580
+2020-09-17,Unassigned,0.3015
+2020-09-18,,1.1161
+2020-09-18,Customer Service,0.6850
+2020-09-18,Entertainment and Recreation,0.4733
+2020-09-18,Facilities/Constr,0.6672
+2020-09-18,Finance/Insurance,0.8181
+2020-09-18,Food & Beverage,0.8265
+2020-09-18,Healthcare,0.6491
+2020-09-18,Hospitality Staff,0.6533
+2020-09-18,Human Resources,0.5480
+2020-09-18,IT,0.2400
+2020-09-18,Manufacturing/Operations Staff,0.6352
+2020-09-18,Marketing/Advertising,0.8534
+2020-09-18,Product Management,0.8538
+2020-09-18,Retail Staff,0.7848
+2020-09-18,Sales,0.7007
+2020-09-18,Security,0.7364
+2020-09-18,Skilled Trades,0.8337
+2020-09-18,Supply Chain Staff,0.8632
+2020-09-18,Unassigned,0.3050
+2020-09-19,,1.0955
+2020-09-19,Customer Service,0.6836
+2020-09-19,Entertainment and Recreation,0.4671
+2020-09-19,Facilities/Constr,0.6664
+2020-09-19,Finance/Insurance,0.8133
+2020-09-19,Food & Beverage,0.8220
+2020-09-19,Healthcare,0.6374
+2020-09-19,Hospitality Staff,0.6431
+2020-09-19,Human Resources,0.5304
+2020-09-19,IT,0.2383
+2020-09-19,Manufacturing/Operations Staff,0.6291
+2020-09-19,Marketing/Advertising,0.8494
+2020-09-19,Product Management,0.8533
+2020-09-19,Retail Staff,0.7801
+2020-09-19,Sales,0.6930
+2020-09-19,Security,0.7287
+2020-09-19,Skilled Trades,0.8202
+2020-09-19,Supply Chain Staff,0.8571
+2020-09-19,Unassigned,0.3029
+2020-09-20,,1.0878
+2020-09-20,Customer Service,0.6837
+2020-09-20,Entertainment and Recreation,0.4666
+2020-09-20,Facilities/Constr,0.6660
+2020-09-20,Finance/Insurance,0.8145
+2020-09-20,Food & Beverage,0.8251
+2020-09-20,Healthcare,0.6356
+2020-09-20,Hospitality Staff,0.6378
+2020-09-20,Human Resources,0.5352
+2020-09-20,IT,0.2379
+2020-09-20,Manufacturing/Operations Staff,0.6297
+2020-09-20,Marketing/Advertising,0.8481
+2020-09-20,Product Management,0.8538
+2020-09-20,Retail Staff,0.7792
+2020-09-20,Sales,0.6902
+2020-09-20,Security,0.7371
+2020-09-20,Skilled Trades,0.8153
+2020-09-20,Supply Chain Staff,0.8572
+2020-09-20,Unassigned,0.3033
+2020-09-21,,1.0180
+2020-09-21,Customer Service,0.6337
+2020-09-21,Entertainment and Recreation,0.4397
+2020-09-21,Facilities/Constr,0.6076
+2020-09-21,Finance/Insurance,0.7860
+2020-09-21,Food & Beverage,0.7642
+2020-09-21,Healthcare,0.6240
+2020-09-21,Hospitality Staff,0.5899
+2020-09-21,Human Resources,0.5252
+2020-09-21,IT,0.2266
+2020-09-21,Manufacturing/Operations Staff,0.5802
+2020-09-21,Marketing/Advertising,0.7915
+2020-09-21,Product Management,0.8024
+2020-09-21,Retail Staff,0.7152
+2020-09-21,Sales,0.6356
+2020-09-21,Security,0.6896
+2020-09-21,Skilled Trades,0.7561
+2020-09-21,Supply Chain Staff,0.7937
+2020-09-21,Unassigned,0.2880
+2020-09-22,,0.7961
+2020-09-22,Customer Service,0.5063
+2020-09-22,Entertainment and Recreation,0.3553
+2020-09-22,Facilities/Constr,0.4864
+2020-09-22,Finance/Insurance,0.6291
+2020-09-22,Food & Beverage,0.6077
+2020-09-22,Healthcare,0.4990
+2020-09-22,Hospitality Staff,0.4737
+2020-09-22,Human Resources,0.4142
+2020-09-22,IT,0.1809
+2020-09-22,Manufacturing/Operations Staff,0.4623
+2020-09-22,Marketing/Advertising,0.6351
+2020-09-22,Retail Staff,0.5658
+2020-09-22,Sales,0.5096
+2020-09-22,Skilled Trades,0.5968
+2020-09-22,Supply Chain Staff,0.6383
+2020-09-22,Unassigned,0.2298
+2020-09-23,,0.6139
+2020-09-23,Customer Service,0.4016
+2020-09-23,Entertainment and Recreation,0.2802
+2020-09-23,Facilities/Constr,0.3767
+2020-09-23,Finance/Insurance,0.4996
+2020-09-23,Food & Beverage,0.4863
+2020-09-23,Healthcare,0.3935
+2020-09-23,Hospitality Staff,0.3688
+2020-09-23,Human Resources,0.3065
+2020-09-23,IT,0.1415
+2020-09-23,Manufacturing/Operations Staff,0.3595
+2020-09-23,Marketing/Advertising,0.4919
+2020-09-23,Product Management,0.5688
+2020-09-23,Retail Staff,0.4456
+2020-09-23,Sales,0.3963
+2020-09-23,Security,0.4942
+2020-09-23,Skilled Trades,0.4598
+2020-09-23,Supply Chain Staff,0.4810
+2020-09-23,Unassigned,0.1833
+2020-09-24,,0.4910
+2020-09-24,Customer Service,0.3500
+2020-09-24,Entertainment and Recreation,0.2210
+2020-09-24,Facilities/Constr,0.2922
+2020-09-24,Finance/Insurance,0.4093
+2020-09-24,Food & Beverage,0.4137
+2020-09-24,Healthcare,0.3299
+2020-09-24,Hospitality Staff,0.2837
+2020-09-24,Human Resources,0.2496
+2020-09-24,IT,0.1161
+2020-09-24,Manufacturing/Operations Staff,0.2828
+2020-09-24,Marketing/Advertising,0.3737
+2020-09-24,Product Management,0.4654
+2020-09-24,Retail Staff,0.3821
+2020-09-24,Sales,0.3074
+2020-09-24,Security,0.4026
+2020-09-24,Skilled Trades,0.3616
+2020-09-24,Supply Chain Staff,0.3731
+2020-09-24,Unassigned,0.1539
+2020-09-25,,0.3611
+2020-09-25,Customer Service,0.3003
+2020-09-25,Entertainment and Recreation,0.1710
+2020-09-25,Facilities/Constr,0.2128
+2020-09-25,Finance/Insurance,0.3334
+2020-09-25,Food & Beverage,0.3550
+2020-09-25,Healthcare,0.2521
+2020-09-25,Hospitality Staff,0.2087
+2020-09-25,Human Resources,0.1906
+2020-09-25,IT,0.0958
+2020-09-25,Manufacturing/Operations Staff,0.2115
+2020-09-25,Marketing/Advertising,0.2813
+2020-09-25,Product Management,0.3622
+2020-09-25,Retail Staff,0.3318
+2020-09-25,Sales,0.2376
+2020-09-25,Security,0.3201
+2020-09-25,Skilled Trades,0.2628
+2020-09-25,Supply Chain Staff,0.2833
+2020-09-25,Unassigned,0.1264
+2020-09-26,,0.3531
+2020-09-26,Customer Service,0.3030
+2020-09-26,Entertainment and Recreation,0.1704
+2020-09-26,Facilities/Constr,0.2114
+2020-09-26,Finance/Insurance,0.3265
+2020-09-26,Food & Beverage,0.3459
+2020-09-26,Healthcare,0.2727
+2020-09-26,Hospitality Staff,0.1956
+2020-09-26,Human Resources,0.1913
+2020-09-26,IT,0.0970
+2020-09-26,Manufacturing/Operations Staff,0.1992
+2020-09-26,Marketing/Advertising,0.2720
+2020-09-26,Product Management,0.3461
+2020-09-26,Retail Staff,0.3320
+2020-09-26,Sales,0.2361
+2020-09-26,Security,0.3015
+2020-09-26,Skilled Trades,0.2474
+2020-09-26,Supply Chain Staff,0.2650
+2020-09-26,Unassigned,0.1251
+2020-09-27,,0.5093
+2020-09-27,Customer Service,0.3201
+2020-09-27,Entertainment and Recreation,0.2427
+2020-09-27,Facilities/Constr,0.3081
+2020-09-27,Finance/Insurance,0.4375
+2020-09-27,Food & Beverage,0.3678
+2020-09-27,Healthcare,0.3527
+2020-09-27,Hospitality Staff,0.2802
+2020-09-27,Human Resources,0.2659
+2020-09-27,IT,0.1274
+2020-09-27,Manufacturing/Operations Staff,0.3266
+2020-09-27,Marketing/Advertising,0.3281
+2020-09-27,Product Management,0.4584
+2020-09-27,Retail Staff,0.3547
+2020-09-27,Sales,0.2885
+2020-09-27,Security,0.4405
+2020-09-27,Skilled Trades,0.3973
+2020-09-27,Supply Chain Staff,0.4069
+2020-09-27,Unassigned,0.1629
+2020-09-28,,0.5853
+2020-09-28,Customer Service,0.3663
+2020-09-28,Entertainment and Recreation,0.2626
+2020-09-28,Facilities/Constr,0.3571
+2020-09-28,Finance/Insurance,0.4587
+2020-09-28,Food & Beverage,0.4071
+2020-09-28,Healthcare,0.3657
+2020-09-28,Hospitality Staff,0.3220
+2020-09-28,Human Resources,0.2929
+2020-09-28,IT,0.1371
+2020-09-28,Manufacturing/Operations Staff,0.3572
+2020-09-28,Marketing/Advertising,0.3764
+2020-09-28,Product Management,0.4928
+2020-09-28,Retail Staff,0.4107
+2020-09-28,Sales,0.3339
+2020-09-28,Security,0.4992
+2020-09-28,Skilled Trades,0.4538
+2020-09-28,Supply Chain Staff,0.4558
+2020-09-28,Unassigned,0.1745
+2020-09-29,,0.7933
+2020-09-29,Customer Service,0.4880
+2020-09-29,Entertainment and Recreation,0.3452
+2020-09-29,Facilities/Constr,0.4859
+2020-09-29,Finance/Insurance,0.6061
+2020-09-29,Food & Beverage,0.5495
+2020-09-29,Healthcare,0.4759
+2020-09-29,Hospitality Staff,0.4348
+2020-09-29,Human Resources,0.3845
+2020-09-29,IT,0.1776
+2020-09-29,Manufacturing/Operations Staff,0.4592
+2020-09-29,Marketing/Advertising,0.5398
+2020-09-29,Product Management,0.5527
+2020-09-29,Retail Staff,0.5511
+2020-09-29,Sales,0.4543
+2020-09-29,Security,0.5660
+2020-09-29,Skilled Trades,0.6044
+2020-09-29,Supply Chain Staff,0.6032
+2020-09-29,Unassigned,0.2289
+2020-09-30,,0.9701
+2020-09-30,Customer Service,0.5989
+2020-09-30,Entertainment and Recreation,0.4214
+2020-09-30,Facilities/Constr,0.5949
+2020-09-30,Finance/Insurance,0.7335
+2020-09-30,Food & Beverage,0.6755
+2020-09-30,Healthcare,0.5857
+2020-09-30,Hospitality Staff,0.5327
+2020-09-30,Human Resources,0.4689
+2020-09-30,IT,0.2162
+2020-09-30,Manufacturing/Operations Staff,0.5566
+2020-09-30,Marketing/Advertising,0.6799
+2020-09-30,Product Management,0.6616
+2020-09-30,Retail Staff,0.6718
+2020-09-30,Sales,0.5623
+2020-09-30,Security,0.6989
+2020-09-30,Skilled Trades,0.7383
+2020-09-30,Supply Chain Staff,0.7485
+2020-09-30,Unassigned,0.2769
+2020-10-01,,1.1212
+2020-10-01,Customer Service,0.6713
+2020-10-01,Entertainment and Recreation,0.4907
+2020-10-01,Facilities/Constr,0.6876
+2020-10-01,Finance/Insurance,0.8466
+2020-10-01,Food & Beverage,0.7604
+2020-10-01,Healthcare,0.6915
+2020-10-01,Hospitality Staff,0.6199
+2020-10-01,Human Resources,0.5427
+2020-10-01,IT,0.2441
+2020-10-01,Manufacturing/Operations Staff,0.6536
+2020-10-01,Marketing/Advertising,0.8114
+2020-10-01,Product Management,0.7622
+2020-10-01,Retail Staff,0.7581
+2020-10-01,Sales,0.6537
+2020-10-01,Security,0.8001
+2020-10-01,Skilled Trades,0.8543
+2020-10-01,Supply Chain Staff,0.9085
+2020-10-01,Unassigned,0.3132
+2020-10-02,,1.2489
+2020-10-02,Customer Service,0.7204
+2020-10-02,Entertainment and Recreation,0.5327
+2020-10-02,Facilities/Constr,0.7637
+2020-10-02,Finance/Insurance,0.9219
+2020-10-02,Food & Beverage,0.8302
+2020-10-02,Healthcare,0.7784
+2020-10-02,Hospitality Staff,0.6922
+2020-10-02,Human Resources,0.5999
+2020-10-02,IT,0.2640
+2020-10-02,Manufacturing/Operations Staff,0.7216
+2020-10-02,Marketing/Advertising,0.9032
+2020-10-02,Product Management,0.8283
+2020-10-02,Retail Staff,0.8053
+2020-10-02,Sales,0.7006
+2020-10-02,Security,0.9160
+2020-10-02,Skilled Trades,0.9555
+2020-10-02,Supply Chain Staff,1.0163
+2020-10-02,Unassigned,0.3412
+2020-10-03,,1.2796
+2020-10-03,Customer Service,0.7311
+2020-10-03,Entertainment and Recreation,0.5498
+2020-10-03,Facilities/Constr,0.7785
+2020-10-03,Finance/Insurance,0.9486
+2020-10-03,Food & Beverage,0.8512
+2020-10-03,Healthcare,0.7773
+2020-10-03,Hospitality Staff,0.7248
+2020-10-03,Human Resources,0.6319
+2020-10-03,IT,0.2693
+2020-10-03,Manufacturing/Operations Staff,0.7460
+2020-10-03,Marketing/Advertising,0.9256
+2020-10-03,Product Management,0.8411
+2020-10-03,Retail Staff,0.8215
+2020-10-03,Sales,0.7192
+2020-10-03,Security,0.9561
+2020-10-03,Skilled Trades,0.9886
+2020-10-03,Supply Chain Staff,1.0583
+2020-10-03,Unassigned,0.3488
+2020-10-04,,1.1243
+2020-10-04,Customer Service,0.7192
+2020-10-04,Entertainment and Recreation,0.4808
+2020-10-04,Facilities/Constr,0.6827
+2020-10-04,Finance/Insurance,0.8373
+2020-10-04,Food & Beverage,0.8339
+2020-10-04,Healthcare,0.7012
+2020-10-04,Hospitality Staff,0.6447
+2020-10-04,Human Resources,0.5613
+2020-10-04,IT,0.2384
+2020-10-04,Manufacturing/Operations Staff,0.6182
+2020-10-04,Marketing/Advertising,0.8659
+2020-10-04,Product Management,0.7413
+2020-10-04,Retail Staff,0.8036
+2020-10-04,Sales,0.6676
+2020-10-04,Security,0.8312
+2020-10-04,Skilled Trades,0.8407
+2020-10-04,Supply Chain Staff,0.9240
+2020-10-04,Unassigned,0.3111
+2020-10-05,,1.1466
+2020-10-05,Customer Service,0.7288
+2020-10-05,Entertainment and Recreation,0.5002
+2020-10-05,Facilities/Constr,0.6872
+2020-10-05,Finance/Insurance,0.8416
+2020-10-05,Food & Beverage,0.8506
+2020-10-05,Healthcare,0.7176
+2020-10-05,Hospitality Staff,0.6481
+2020-10-05,Human Resources,0.5601
+2020-10-05,IT,0.2409
+2020-10-05,Manufacturing/Operations Staff,0.6447
+2020-10-05,Marketing/Advertising,0.8712
+2020-10-05,Product Management,0.7534
+2020-10-05,Retail Staff,0.8106
+2020-10-05,Sales,0.6739
+2020-10-05,Security,0.8496
+2020-10-05,Skilled Trades,0.8648
+2020-10-05,Supply Chain Staff,0.9543
+2020-10-05,Unassigned,0.3153
+2020-10-06,,1.1577
+2020-10-06,Customer Service,0.7419
+2020-10-06,Entertainment and Recreation,0.5098
+2020-10-06,Facilities/Constr,0.6889
+2020-10-06,Finance/Insurance,0.8538
+2020-10-06,Food & Beverage,0.8589
+2020-10-06,Healthcare,0.7354
+2020-10-06,Hospitality Staff,0.6547
+2020-10-06,Human Resources,0.5734
+2020-10-06,IT,0.2472
+2020-10-06,Manufacturing/Operations Staff,0.6667
+2020-10-06,Marketing/Advertising,0.8655
+2020-10-06,Product Management,0.7903
+2020-10-06,Retail Staff,0.8221
+2020-10-06,Sales,0.6876
+2020-10-06,Security,0.8603
+2020-10-06,Skilled Trades,0.8725
+2020-10-06,Supply Chain Staff,0.9717
+2020-10-06,Unassigned,0.3200
+2020-10-07,,1.1757
+2020-10-07,Customer Service,0.7473
+2020-10-07,Entertainment and Recreation,0.5187
+2020-10-07,Facilities/Constr,0.6988
+2020-10-07,Finance/Insurance,0.8696
+2020-10-07,Food & Beverage,0.8659
+2020-10-07,Healthcare,0.7512
+2020-10-07,Hospitality Staff,0.6636
+2020-10-07,Human Resources,0.5850
+2020-10-07,IT,0.2498
+2020-10-07,Manufacturing/Operations Staff,0.6757
+2020-10-07,Marketing/Advertising,0.8754
+2020-10-07,Product Management,0.8159
+2020-10-07,Retail Staff,0.8448
+2020-10-07,Sales,0.6955
+2020-10-07,Security,0.8539
+2020-10-07,Skilled Trades,0.8810
+2020-10-07,Supply Chain Staff,0.9854
+2020-10-07,Unassigned,0.3246
+2020-10-08,,1.1668
+2020-10-08,Customer Service,0.7302
+2020-10-08,Entertainment and Recreation,0.5110
+2020-10-08,Facilities/Constr,0.6986
+2020-10-08,Finance/Insurance,0.8505
+2020-10-08,Food & Beverage,0.8559
+2020-10-08,Healthcare,0.7277
+2020-10-08,Hospitality Staff,0.6522
+2020-10-08,Human Resources,0.5752
+2020-10-08,IT,0.2475
+2020-10-08,Manufacturing/Operations Staff,0.6594
+2020-10-08,Marketing/Advertising,0.8713
+2020-10-08,Product Management,0.8224
+2020-10-08,Retail Staff,0.8264
+2020-10-08,Sales,0.6950
+2020-10-08,Security,0.8544
+2020-10-08,Skilled Trades,0.8702
+2020-10-08,Supply Chain Staff,0.9383
+2020-10-08,Unassigned,0.3194
+2020-10-09,,1.1641
+2020-10-09,Customer Service,0.7208
+2020-10-09,Entertainment and Recreation,0.5069
+2020-10-09,Facilities/Constr,0.6965
+2020-10-09,Finance/Insurance,0.8495
+2020-10-09,Food & Beverage,0.8415
+2020-10-09,Healthcare,0.7129
+2020-10-09,Hospitality Staff,0.6519
+2020-10-09,Human Resources,0.5732
+2020-10-09,IT,0.2495
+2020-10-09,Manufacturing/Operations Staff,0.6618
+2020-10-09,Marketing/Advertising,0.8771
+2020-10-09,Product Management,0.8435
+2020-10-09,Retail Staff,0.8273
+2020-10-09,Sales,0.7223
+2020-10-09,Security,0.8168
+2020-10-09,Skilled Trades,0.8615
+2020-10-09,Supply Chain Staff,0.9250
+2020-10-09,Unassigned,0.3184
+2020-10-10,,1.1420
+2020-10-10,Customer Service,0.7050
+2020-10-10,Entertainment and Recreation,0.4966
+2020-10-10,Facilities/Constr,0.6842
+2020-10-10,Finance/Insurance,0.8381
+2020-10-10,Food & Beverage,0.8291
+2020-10-10,Healthcare,0.6947
+2020-10-10,Hospitality Staff,0.6409
+2020-10-10,Human Resources,0.5583
+2020-10-10,IT,0.2447
+2020-10-10,Manufacturing/Operations Staff,0.6528
+2020-10-10,Marketing/Advertising,0.8699
+2020-10-10,Product Management,0.8565
+2020-10-10,Retail Staff,0.8126
+2020-10-10,Sales,0.7149
+2020-10-10,Security,0.7907
+2020-10-10,Skilled Trades,0.8451
+2020-10-10,Supply Chain Staff,0.9143
+2020-10-10,Unassigned,0.3129
+2020-10-11,,1.1439
+2020-10-11,Customer Service,0.7052
+2020-10-11,Entertainment and Recreation,0.4978
+2020-10-11,Facilities/Constr,0.6842
+2020-10-11,Finance/Insurance,0.8385
+2020-10-11,Food & Beverage,0.8282
+2020-10-11,Healthcare,0.6884
+2020-10-11,Hospitality Staff,0.6421
+2020-10-11,Human Resources,0.5598
+2020-10-11,IT,0.2455
+2020-10-11,Manufacturing/Operations Staff,0.6530
+2020-10-11,Marketing/Advertising,0.8768
+2020-10-11,Product Management,0.8590
+2020-10-11,Retail Staff,0.8212
+2020-10-11,Sales,0.7188
+2020-10-11,Security,0.7918
+2020-10-11,Skilled Trades,0.8475
+2020-10-11,Supply Chain Staff,0.9153
+2020-10-11,Unassigned,0.3133
+2020-10-12,,1.1274
+2020-10-12,Customer Service,0.6975
+2020-10-12,Entertainment and Recreation,0.4871
+2020-10-12,Facilities/Constr,0.6863
+2020-10-12,Finance/Insurance,0.8328
+2020-10-12,Food & Beverage,0.8252
+2020-10-12,Healthcare,0.6771
+2020-10-12,Hospitality Staff,0.6455
+2020-10-12,Human Resources,0.5603
+2020-10-12,IT,0.2412
+2020-10-12,Manufacturing/Operations Staff,0.6396
+2020-10-12,Marketing/Advertising,0.8672
+2020-10-12,Product Management,0.8582
+2020-10-12,Retail Staff,0.8207
+2020-10-12,Sales,0.7102
+2020-10-12,Security,0.7855
+2020-10-12,Skilled Trades,0.8340
+2020-10-12,Supply Chain Staff,0.9048
+2020-10-12,Unassigned,0.3104
+2020-10-13,,1.1029
+2020-10-13,Customer Service,0.6823
+2020-10-13,Entertainment and Recreation,0.4842
+2020-10-13,Facilities/Constr,0.6791
+2020-10-13,Finance/Insurance,0.8241
+2020-10-13,Food & Beverage,0.8207
+2020-10-13,Healthcare,0.6692
+2020-10-13,Hospitality Staff,0.6430
+2020-10-13,Human Resources,0.5599
+2020-10-13,IT,0.2377
+2020-10-13,Manufacturing/Operations Staff,0.6357
+2020-10-13,Marketing/Advertising,0.8511
+2020-10-13,Product Management,0.8448
+2020-10-13,Retail Staff,0.8113
+2020-10-13,Sales,0.7052
+2020-10-13,Security,0.7667
+2020-10-13,Skilled Trades,0.8254
+2020-10-13,Supply Chain Staff,0.9110
+2020-10-13,Unassigned,0.3069
+2020-10-14,,1.0804
+2020-10-14,Customer Service,0.6732
+2020-10-14,Entertainment and Recreation,0.4784
+2020-10-14,Facilities/Constr,0.6718
+2020-10-14,Finance/Insurance,0.8147
+2020-10-14,Food & Beverage,0.8158
+2020-10-14,Healthcare,0.6528
+2020-10-14,Hospitality Staff,0.6407
+2020-10-14,Human Resources,0.5530
+2020-10-14,IT,0.2374
+2020-10-14,Manufacturing/Operations Staff,0.6347
+2020-10-14,Marketing/Advertising,0.8372
+2020-10-14,Product Management,0.8499
+2020-10-14,Retail Staff,0.7932
+2020-10-14,Sales,0.7083
+2020-10-14,Security,0.7683
+2020-10-14,Skilled Trades,0.8181
+2020-10-14,Supply Chain Staff,0.9114
+2020-10-14,Unassigned,0.3030
+2020-10-15,,1.0848
+2020-10-15,Customer Service,0.6738
+2020-10-15,Entertainment and Recreation,0.4797
+2020-10-15,Facilities/Constr,0.6669
+2020-10-15,Finance/Insurance,0.8158
+2020-10-15,Food & Beverage,0.8065
+2020-10-15,Healthcare,0.6571
+2020-10-15,Hospitality Staff,0.6436
+2020-10-15,Human Resources,0.5662
+2020-10-15,IT,0.2406
+2020-10-15,Manufacturing/Operations Staff,0.6367
+2020-10-15,Marketing/Advertising,0.8110
+2020-10-15,Product Management,0.8385
+2020-10-15,Retail Staff,0.7865
+2020-10-15,Sales,0.7065
+2020-10-15,Security,0.7683
+2020-10-15,Skilled Trades,0.8209
+2020-10-15,Supply Chain Staff,0.9197
+2020-10-15,Unassigned,0.3037
+2020-10-16,,1.0806
+2020-10-16,Customer Service,0.7220
+2020-10-16,Entertainment and Recreation,0.5335
+2020-10-16,Facilities/Constr,0.6784
+2020-10-16,Finance/Insurance,0.8344
+2020-10-16,Food & Beverage,0.9184
+2020-10-16,Healthcare,0.6553
+2020-10-16,Hospitality Staff,0.6669
+2020-10-16,Human Resources,0.5773
+2020-10-16,IT,0.2415
+2020-10-16,Manufacturing/Operations Staff,0.6393
+2020-10-16,Marketing/Advertising,0.8377
+2020-10-16,Product Management,0.8030
+2020-10-16,Retail Staff,0.8624
+2020-10-16,Sales,0.7143
+2020-10-16,Security,0.7732
+2020-10-16,Skilled Trades,0.8176
+2020-10-16,Supply Chain Staff,0.9338
+2020-10-16,Unassigned,0.3187
+2020-10-17,,1.0885
+2020-10-17,Customer Service,0.7243
+2020-10-17,Entertainment and Recreation,0.5379
+2020-10-17,Facilities/Constr,0.6773
+2020-10-17,Finance/Insurance,0.8304
+2020-10-17,Food & Beverage,0.9226
+2020-10-17,Healthcare,0.6625
+2020-10-17,Hospitality Staff,0.6659
+2020-10-17,Human Resources,0.5766
+2020-10-17,IT,0.2446
+2020-10-17,Manufacturing/Operations Staff,0.6428
+2020-10-17,Marketing/Advertising,0.8315
+2020-10-17,Product Management,0.7818
+2020-10-17,Retail Staff,0.8647
+2020-10-17,Sales,0.7123
+2020-10-17,Security,0.7860
+2020-10-17,Skilled Trades,0.8221
+2020-10-17,Supply Chain Staff,0.9353
+2020-10-17,Unassigned,0.3203
+2020-10-18,,1.0928
+2020-10-18,Customer Service,0.7240
+2020-10-18,Entertainment and Recreation,0.5351
+2020-10-18,Facilities/Constr,0.6771
+2020-10-18,Finance/Insurance,0.8331
+2020-10-18,Food & Beverage,0.9193
+2020-10-18,Healthcare,0.6648
+2020-10-18,Hospitality Staff,0.6644
+2020-10-18,Human Resources,0.5776
+2020-10-18,IT,0.2442
+2020-10-18,Manufacturing/Operations Staff,0.6413
+2020-10-18,Marketing/Advertising,0.8286
+2020-10-18,Product Management,0.7842
+2020-10-18,Retail Staff,0.8570
+2020-10-18,Sales,0.7157
+2020-10-18,Security,0.7821
+2020-10-18,Skilled Trades,0.8214
+2020-10-18,Supply Chain Staff,0.9279
+2020-10-18,Unassigned,0.3200
+2020-10-19,,1.1011
+2020-10-19,Customer Service,0.7278
+2020-10-19,Entertainment and Recreation,0.5368
+2020-10-19,Facilities/Constr,0.6934
+2020-10-19,Finance/Insurance,0.9307
+2020-10-19,Food & Beverage,0.9088
+2020-10-19,Healthcare,0.7119
+2020-10-19,Hospitality Staff,0.6621
+2020-10-19,Human Resources,0.6074
+2020-10-19,IT,0.2617
+2020-10-19,Manufacturing/Operations Staff,0.6710
+2020-10-19,Marketing/Advertising,0.8547
+2020-10-19,Product Management,0.8225
+2020-10-19,Retail Staff,0.8531
+2020-10-19,Sales,0.7299
+2020-10-19,Security,0.8051
+2020-10-19,Skilled Trades,0.8260
+2020-10-19,Supply Chain Staff,0.9525
+2020-10-19,Unassigned,0.3456
+2020-10-20,,1.1135
+2020-10-20,Customer Service,0.7491
+2020-10-20,Entertainment and Recreation,0.5331
+2020-10-20,Facilities/Constr,0.7029
+2020-10-20,Finance/Insurance,0.9489
+2020-10-20,Food & Beverage,0.9206
+2020-10-20,Healthcare,0.7237
+2020-10-20,Hospitality Staff,0.6701
+2020-10-20,Human Resources,0.6067
+2020-10-20,IT,0.2688
+2020-10-20,Manufacturing/Operations Staff,0.6794
+2020-10-20,Marketing/Advertising,0.8761
+2020-10-20,Product Management,0.8430
+2020-10-20,Retail Staff,0.8671
+2020-10-20,Sales,0.7342
+2020-10-20,Security,0.8362
+2020-10-20,Skilled Trades,0.8339
+2020-10-20,Supply Chain Staff,0.9544
+2020-10-20,Unassigned,0.3526
+2020-10-21,,1.1280
+2020-10-21,Customer Service,0.7574
+2020-10-21,Entertainment and Recreation,0.5251
+2020-10-21,Facilities/Constr,0.7065
+2020-10-21,Finance/Insurance,0.9526
+2020-10-21,Food & Beverage,0.9207
+2020-10-21,Healthcare,0.7315
+2020-10-21,Hospitality Staff,0.6708
+2020-10-21,Human Resources,0.6082
+2020-10-21,IT,0.2678
+2020-10-21,Manufacturing/Operations Staff,0.6866
+2020-10-21,Marketing/Advertising,0.8882
+2020-10-21,Product Management,0.8362
+2020-10-21,Retail Staff,0.8762
+2020-10-21,Sales,0.7283
+2020-10-21,Security,0.8475
+2020-10-21,Skilled Trades,0.8363
+2020-10-21,Supply Chain Staff,0.9519
+2020-10-21,Unassigned,0.3555
+2020-10-22,,1.1159
+2020-10-22,Customer Service,0.7641
+2020-10-22,Entertainment and Recreation,0.5194
+2020-10-22,Facilities/Constr,0.7109
+2020-10-22,Finance/Insurance,0.9600
+2020-10-22,Food & Beverage,0.9359
+2020-10-22,Healthcare,0.7240
+2020-10-22,Hospitality Staff,0.6869
+2020-10-22,Human Resources,0.5943
+2020-10-22,IT,0.2656
+2020-10-22,Manufacturing/Operations Staff,0.6884
+2020-10-22,Marketing/Advertising,0.9211
+2020-10-22,Product Management,0.8297
+2020-10-22,Retail Staff,0.8919
+2020-10-22,Sales,0.7367
+2020-10-22,Security,0.8323
+2020-10-22,Skilled Trades,0.8324
+2020-10-22,Supply Chain Staff,0.9503
+2020-10-22,Unassigned,0.3569
+2020-10-23,,1.1051
+2020-10-23,Customer Service,0.7119
+2020-10-23,Entertainment and Recreation,0.4639
+2020-10-23,Facilities/Constr,0.6881
+2020-10-23,Finance/Insurance,0.9379
+2020-10-23,Food & Beverage,0.8152
+2020-10-23,Healthcare,0.7125
+2020-10-23,Hospitality Staff,0.6536
+2020-10-23,Human Resources,0.5831
+2020-10-23,IT,0.2639
+2020-10-23,Manufacturing/Operations Staff,0.6768
+2020-10-23,Marketing/Advertising,0.8871
+2020-10-23,Product Management,0.8733
+2020-10-23,Retail Staff,0.8037
+2020-10-23,Sales,0.7202
+2020-10-23,Security,0.8134
+2020-10-23,Skilled Trades,0.8194
+2020-10-23,Supply Chain Staff,0.9212
+2020-10-23,Unassigned,0.3391
+2020-10-24,,1.0917
+2020-10-24,Customer Service,0.7086
+2020-10-24,Entertainment and Recreation,0.4550
+2020-10-24,Facilities/Constr,0.6935
+2020-10-24,Finance/Insurance,0.9352
+2020-10-24,Food & Beverage,0.8095
+2020-10-24,Healthcare,0.6976
+2020-10-24,Hospitality Staff,0.6487
+2020-10-24,Human Resources,0.5751
+2020-10-24,IT,0.2593
+2020-10-24,Manufacturing/Operations Staff,0.6732
+2020-10-24,Marketing/Advertising,0.8855
+2020-10-24,Product Management,0.8798
+2020-10-24,Retail Staff,0.7969
+2020-10-24,Sales,0.7135
+2020-10-24,Security,0.7909
+2020-10-24,Skilled Trades,0.8102
+2020-10-24,Supply Chain Staff,0.9108
+2020-10-24,Unassigned,0.3362
